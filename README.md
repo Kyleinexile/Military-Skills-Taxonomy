@@ -33,8 +33,6 @@ This repository contains the **code, data, and results** for an independent-stud
 ---
 
 ## Repository Structure
-
-```text
 Military-Skills-Taxonomy/
 ├── data/
 │   ├── processed/
@@ -59,7 +57,7 @@ Military-Skills-Taxonomy/
 │   │   ├── enhanced_taxonomy_prompt.txt
 │   │   └── prompt_for_reference.txt
 │   ├── laiser/
-│   │   └── LAiSER Final Results.csv          # same as in data/processed for convenience
+│   │   └── LAiSER Final Results.csv          # copy kept here for convenience
 │   └── llm_taxonomies/
 │       ├── military_skills_taxonomy_claude_3_5_sonnet_20250403-001643.txt
 │       ├── military_skills_taxonomy_claude_3_5_sonnet_pilot_20250422.txt
