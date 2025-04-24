@@ -33,6 +33,7 @@ This repository contains the **code, data, and results** for an independent-stud
 ---
 
 ## Repository Structure
+```text
 Military-Skills-Taxonomy/
 ├── data/
 │   ├── processed/
