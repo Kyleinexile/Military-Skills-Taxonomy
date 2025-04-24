@@ -1,0 +1,2353 @@
+Research ID,Raw Skill,Skill Tag,Correlation Coefficient
+AFSC 10C0,management,ESCO.565,0.8695018190415156
+AFSC 10C0,management,ESCO.888,0.8755034228670598
+AFSC 10C0,operations training,OSN.739,0.8536825263109007
+AFSC 10C0,information system,ESCO.265,0.8586308291335879
+AFSC 10C0,information system,ESCO.327,0.8665197101165986
+AFSC 10C0,information system,ESCO.344,0.8544772066707875
+AFSC 10C0,information system,ESCO.355,0.8696035922491209
+AFSC 10C0,information system,ESCO.813,0.8604280810149119
+AFSC 10C0,information system,ESCO.818,0.9072530569233033
+AFSC 10C0,information system,OSN.524,0.9212522530743671
+AFSC 10C0,programming,ESCO.174,0.8672291704754024
+AFSC 10C0,programming,ESCO.522,0.8587864813675486
+"AFSC 10C0, completion of a current T5 Investigation IAW DoDM 5200.02_AFMAN 16-1405, Air Force Personnel Security Program.",management,ESCO.565,0.8695018190415156
+"AFSC 10C0, completion of a current T5 Investigation IAW DoDM 5200.02_AFMAN 16-1405, Air Force Personnel Security Program.",management,ESCO.888,0.8755034228670598
+"AFSC 10C0, completion of a current T5 Investigation IAW DoDM 5200.02_AFMAN 16-1405, Air Force Personnel Security Program.",r,ESCO.396,1.0
+"AFSC 10C0, completion of a current T5 Investigation IAW DoDM 5200.02_AFMAN 16-1405, Air Force Personnel Security Program.",systems program,ESCO.1095,0.8609456174241411
+"AFSC 10C0, completion of a current T5 Investigation IAW DoDM 5200.02_AFMAN 16-1405, Air Force Personnel Security Program.",automated systems,ESCO.806,0.8525991574553565
+"AFSC 10C0, completion of a current T5 Investigation IAW DoDM 5200.02_AFMAN 16-1405, Air Force Personnel Security Program.",automated systems,ESCO.916,0.8822130608632807
+"AFSC 10C0, completion of a current T5 Investigation IAW DoDM 5200.02_AFMAN 16-1405, Air Force Personnel Security Program.",automated systems,ESCO.1079,0.8822130608632807
+"AFSC 10C0, completion of a current T5 Investigation IAW DoDM 5200.02_AFMAN 16-1405, Air Force Personnel Security Program.",automated systems,ESCO.1119,0.8723602275431189
+"AFSC 11B1*, Entry/Student",management,ESCO.565,0.8695018190415156
+"AFSC 11B1*, Entry/Student",management,ESCO.888,0.8755034228670598
+"AFSC 11B1*, Entry/Student",operating procedures,OSN.726,0.8622111905939293
+"AFSC 11B1*, Entry/Student",information system,ESCO.265,0.8586308291335879
+"AFSC 11B1*, Entry/Student",information system,ESCO.327,0.8665197101165986
+"AFSC 11B1*, Entry/Student",information system,ESCO.344,0.8544772066707875
+"AFSC 11B1*, Entry/Student",information system,ESCO.355,0.8696035922491209
+"AFSC 11B1*, Entry/Student",information system,ESCO.813,0.8604280810149119
+"AFSC 11B1*, Entry/Student",information system,ESCO.818,0.9072530569233033
+"AFSC 11B1*, Entry/Student",information system,OSN.524,0.9212522530743671
+"AFSC 11E1*, Entry/Student",evaluation project,ESCO.565,0.8552316699420164
+"AFSC 11E1*, Entry/Student",test procedures,ESCO.371,0.9999999999999998
+"AFSC 11E1*, Entry/Student",test procedures,OSN.726,0.8644606740872863
+"AFSC 11E1*, Entry/Student",research,OSN.260,0.8794616282740241
+"AFSC 11E1*, Entry/Student",research,OSN.626,0.8893910384657686
+"AFSC 11E1*, Entry/Student",information system,ESCO.265,0.8586308291335879
+"AFSC 11E1*, Entry/Student",information system,ESCO.327,0.8665197101165986
+"AFSC 11E1*, Entry/Student",information system,ESCO.344,0.8544772066707875
+"AFSC 11E1*, Entry/Student",information system,ESCO.355,0.8696035922491209
+"AFSC 11E1*, Entry/Student",information system,ESCO.813,0.8604280810149119
+"AFSC 11E1*, Entry/Student",information system,ESCO.818,0.9072530569233033
+"AFSC 11E1*, Entry/Student",information system,OSN.524,0.9212522530743671
+"AFSC 11F1*, Entry/Student",management,ESCO.565,0.8695018190415156
+"AFSC 11F1*, Entry/Student",management,ESCO.888,0.8755034228670598
+"AFSC 11F1*, Entry/Student",operating procedures,OSN.726,0.8622111905939293
+"AFSC 11F1*, Entry/Student",information system,ESCO.265,0.8586308291335879
+"AFSC 11F1*, Entry/Student",information system,ESCO.327,0.8665197101165986
+"AFSC 11F1*, Entry/Student",information system,ESCO.344,0.8544772066707875
+"AFSC 11F1*, Entry/Student",information system,ESCO.355,0.8696035922491209
+"AFSC 11F1*, Entry/Student",information system,ESCO.813,0.8604280810149119
+"AFSC 11F1*, Entry/Student",information system,ESCO.818,0.9072530569233033
+"AFSC 11F1*, Entry/Student",information system,OSN.524,0.9212522530743671
+"AFSC 11H1*, Entry/Student",management,ESCO.565,0.8695018190415156
+"AFSC 11H1*, Entry/Student",management,ESCO.888,0.8755034228670598
+"AFSC 11H1*, Entry/Student",operating procedures,OSN.726,0.8622111905939293
+"AFSC 11K1*, Entry/Student",management,ESCO.565,0.8695018190415156
+"AFSC 11K1*, Entry/Student",management,ESCO.888,0.8755034228670598
+"AFSC 11K1*, Entry/Student",operating procedures,OSN.726,0.8622111905939293
+"AFSC 11M1*, Entry/Student",management,ESCO.565,0.8695018190415156
+"AFSC 11M1*, Entry/Student",management,ESCO.888,0.8755034228670598
+"AFSC 11M1*, Entry/Student",r,ESCO.396,1.0
+"AFSC 11M1*, Entry/Student",operating procedures,OSN.726,0.8622111905939293
+"AFSC 11M1*, Entry/Student",information system,ESCO.265,0.8586308291335879
+"AFSC 11M1*, Entry/Student",information system,ESCO.327,0.8665197101165986
+"AFSC 11M1*, Entry/Student",information system,ESCO.344,0.8544772066707875
+"AFSC 11M1*, Entry/Student",information system,ESCO.355,0.8696035922491209
+"AFSC 11M1*, Entry/Student",information system,ESCO.813,0.8604280810149119
+"AFSC 11M1*, Entry/Student",information system,ESCO.818,0.9072530569233033
+"AFSC 11M1*, Entry/Student",information system,OSN.524,0.9212522530743671
+"AFSC 11R1*, Entry/Student",management,ESCO.565,0.8695018190415156
+"AFSC 11R1*, Entry/Student",management,ESCO.888,0.8755034228670598
+"AFSC 11R1*, Entry/Student",operating procedures,OSN.726,0.8622111905939293
+"AFSC 11R1*, Entry/Student",information system,ESCO.265,0.8586308291335879
+"AFSC 11R1*, Entry/Student",information system,ESCO.327,0.8665197101165986
+"AFSC 11R1*, Entry/Student",information system,ESCO.344,0.8544772066707875
+"AFSC 11R1*, Entry/Student",information system,ESCO.355,0.8696035922491209
+"AFSC 11R1*, Entry/Student",information system,ESCO.813,0.8604280810149119
+"AFSC 11R1*, Entry/Student",information system,ESCO.818,0.9072530569233033
+"AFSC 11R1*, Entry/Student",information system,OSN.524,0.9212522530743671
+"AFSC 11S1*, Entry/Student",management,ESCO.565,0.8695018190415156
+"AFSC 11S1*, Entry/Student",management,ESCO.888,0.8755034228670598
+"AFSC 11S1*, Entry/Student",operations training,OSN.739,0.8536825263109007
+"AFSC 11S1*, Entry/Student",operating procedures,OSN.726,0.8622111905939293
+"AFSC 11S1*, Entry/Student",information system,ESCO.265,0.8586308291335879
+"AFSC 11S1*, Entry/Student",information system,ESCO.327,0.8665197101165986
+"AFSC 11S1*, Entry/Student",information system,ESCO.344,0.8544772066707875
+"AFSC 11S1*, Entry/Student",information system,ESCO.355,0.8696035922491209
+"AFSC 11S1*, Entry/Student",information system,ESCO.813,0.8604280810149119
+"AFSC 11S1*, Entry/Student",information system,ESCO.818,0.9072530569233033
+"AFSC 11S1*, Entry/Student",information system,OSN.524,0.9212522530743671
+"AFSC 11T1*, Entry/Student",management,ESCO.565,0.8695018190415156
+"AFSC 11T1*, Entry/Student",management,ESCO.888,0.8755034228670598
+"AFSC 11T1*, Entry/Student",operating procedures,OSN.726,0.8622111905939293
+"AFSC 11T1*, Entry/Student",information system,ESCO.265,0.8586308291335879
+"AFSC 11T1*, Entry/Student",information system,ESCO.327,0.8665197101165986
+"AFSC 11T1*, Entry/Student",information system,ESCO.344,0.8544772066707875
+"AFSC 11T1*, Entry/Student",information system,ESCO.355,0.8696035922491209
+"AFSC 11T1*, Entry/Student",information system,ESCO.813,0.8604280810149119
+"AFSC 11T1*, Entry/Student",information system,ESCO.818,0.9072530569233033
+"AFSC 11T1*, Entry/Student",information system,OSN.524,0.9212522530743671
+"AFSC 11U1*, Entry/Student",management,ESCO.565,0.8695018190415156
+"AFSC 11U1*, Entry/Student",management,ESCO.888,0.8755034228670598
+"AFSC 11U1*, Entry/Student",operating procedures,OSN.726,0.8622111905939293
+"AFSC 11U1*, Entry/Student",information system,ESCO.265,0.8586308291335879
+"AFSC 11U1*, Entry/Student",information system,ESCO.327,0.8665197101165986
+"AFSC 11U1*, Entry/Student",information system,ESCO.344,0.8544772066707875
+"AFSC 11U1*, Entry/Student",information system,ESCO.355,0.8696035922491209
+"AFSC 11U1*, Entry/Student",information system,ESCO.813,0.8604280810149119
+"AFSC 11U1*, Entry/Student",information system,ESCO.818,0.9072530569233033
+"AFSC 11U1*, Entry/Student",information system,OSN.524,0.9212522530743671
+"AFSC 11U3X, completion of a current T5 Investigation IAW DoDM 5200.02_AFMAN 16-1405, Air Force Personnel Security Program.",management,ESCO.565,0.8695018190415156
+"AFSC 11U3X, completion of a current T5 Investigation IAW DoDM 5200.02_AFMAN 16-1405, Air Force Personnel Security Program.",management,ESCO.888,0.8755034228670598
+"AFSC 11U3X, completion of a current T5 Investigation IAW DoDM 5200.02_AFMAN 16-1405, Air Force Personnel Security Program.",r,ESCO.396,1.0
+"AFSC 11U3X, completion of a current T5 Investigation IAW DoDM 5200.02_AFMAN 16-1405, Air Force Personnel Security Program.",systems program,ESCO.1095,0.8609456174241411
+"AFSC 11U3X, completion of a current T5 Investigation IAW DoDM 5200.02_AFMAN 16-1405, Air Force Personnel Security Program.",automated systems,ESCO.806,0.8525991574553565
+"AFSC 11U3X, completion of a current T5 Investigation IAW DoDM 5200.02_AFMAN 16-1405, Air Force Personnel Security Program.",automated systems,ESCO.916,0.8822130608632807
+"AFSC 11U3X, completion of a current T5 Investigation IAW DoDM 5200.02_AFMAN 16-1405, Air Force Personnel Security Program.",automated systems,ESCO.1079,0.8822130608632807
+"AFSC 11U3X, completion of a current T5 Investigation IAW DoDM 5200.02_AFMAN 16-1405, Air Force Personnel Security Program.",automated systems,ESCO.1119,0.8723602275431189
+"AFSC 12B1*, Entry/Student",management,ESCO.565,0.8695018190415156
+"AFSC 12B1*, Entry/Student",management,ESCO.888,0.8755034228670598
+"AFSC 12B1*, Entry/Student",operating procedures,OSN.726,0.8622111905939293
+"AFSC 12B1*, Entry/Student",information system,ESCO.265,0.8586308291335879
+"AFSC 12B1*, Entry/Student",information system,ESCO.327,0.8665197101165986
+"AFSC 12B1*, Entry/Student",information system,ESCO.344,0.8544772066707875
+"AFSC 12B1*, Entry/Student",information system,ESCO.355,0.8696035922491209
+"AFSC 12B1*, Entry/Student",information system,ESCO.813,0.8604280810149119
+"AFSC 12B1*, Entry/Student",information system,ESCO.818,0.9072530569233033
+"AFSC 12B1*, Entry/Student",information system,OSN.524,0.9212522530743671
+"AFSC 12E1*, Entry/Student",evaluation project,ESCO.565,0.8552316699420164
+"AFSC 12E1*, Entry/Student",test procedures,ESCO.371,0.9999999999999998
+"AFSC 12E1*, Entry/Student",test procedures,OSN.726,0.8644606740872863
+"AFSC 12E1*, Entry/Student",research,OSN.260,0.8794616282740241
+"AFSC 12E1*, Entry/Student",research,OSN.626,0.8893910384657686
+"AFSC 12E1*, Entry/Student",information system,ESCO.265,0.8586308291335879
+"AFSC 12E1*, Entry/Student",information system,ESCO.327,0.8665197101165986
+"AFSC 12E1*, Entry/Student",information system,ESCO.344,0.8544772066707875
+"AFSC 12E1*, Entry/Student",information system,ESCO.355,0.8696035922491209
+"AFSC 12E1*, Entry/Student",information system,ESCO.813,0.8604280810149119
+"AFSC 12E1*, Entry/Student",information system,ESCO.818,0.9072530569233033
+"AFSC 12E1*, Entry/Student",information system,OSN.524,0.9212522530743671
+"AFSC 12F1*, Entry/Student",management,ESCO.565,0.8695018190415156
+"AFSC 12F1*, Entry/Student",management,ESCO.888,0.8755034228670598
+"AFSC 12F1*, Entry/Student",operating procedures,OSN.726,0.8622111905939293
+"AFSC 12F1*, Entry/Student",information system,ESCO.265,0.8586308291335879
+"AFSC 12F1*, Entry/Student",information system,ESCO.327,0.8665197101165986
+"AFSC 12F1*, Entry/Student",information system,ESCO.344,0.8544772066707875
+"AFSC 12F1*, Entry/Student",information system,ESCO.355,0.8696035922491209
+"AFSC 12F1*, Entry/Student",information system,ESCO.813,0.8604280810149119
+"AFSC 12F1*, Entry/Student",information system,ESCO.818,0.9072530569233033
+"AFSC 12F1*, Entry/Student",information system,OSN.524,0.9212522530743671
+"AFSC 12G3*, Qualified",information system,ESCO.265,0.8586308291335879
+"AFSC 12G3*, Qualified",information system,ESCO.327,0.8665197101165986
+"AFSC 12G3*, Qualified",information system,ESCO.344,0.8544772066707875
+"AFSC 12G3*, Qualified",information system,ESCO.355,0.8696035922491209
+"AFSC 12G3*, Qualified",information system,ESCO.813,0.8604280810149119
+"AFSC 12G3*, Qualified",information system,ESCO.818,0.9072530569233033
+"AFSC 12G3*, Qualified",information system,OSN.524,0.9212522530743671
+"AFSC 12H1*, Entry/Student",management,ESCO.565,0.8695018190415156
+"AFSC 12H1*, Entry/Student",management,ESCO.888,0.8755034228670598
+"AFSC 12H1*, Entry/Student",operating procedures,OSN.726,0.8622111905939293
+"AFSC 12H1*, Entry/Student",information system,ESCO.265,0.8586308291335879
+"AFSC 12H1*, Entry/Student",information system,ESCO.327,0.8665197101165986
+"AFSC 12H1*, Entry/Student",information system,ESCO.344,0.8544772066707875
+"AFSC 12H1*, Entry/Student",information system,ESCO.355,0.8696035922491209
+"AFSC 12H1*, Entry/Student",information system,ESCO.813,0.8604280810149119
+"AFSC 12H1*, Entry/Student",information system,ESCO.818,0.9072530569233033
+"AFSC 12H1*, Entry/Student",information system,OSN.524,0.9212522530743671
+"AFSC 12K1*, Entry/Student",management,ESCO.565,0.8695018190415156
+"AFSC 12K1*, Entry/Student",management,ESCO.888,0.8755034228670598
+"AFSC 12K1*, Entry/Student",operating procedures,OSN.726,0.8622111905939293
+"AFSC 12M1*, Entry/Student",management,ESCO.565,0.8695018190415156
+"AFSC 12M1*, Entry/Student",management,ESCO.888,0.8755034228670598
+"AFSC 12M1*, Entry/Student",operating procedures,OSN.726,0.8622111905939293
+"AFSC 12R1*, Entry/Student",management,ESCO.565,0.8695018190415156
+"AFSC 12R1*, Entry/Student",management,ESCO.888,0.8755034228670598
+"AFSC 12R1*, Entry/Student",operating procedures,OSN.726,0.8622111905939293
+"AFSC 12R1*, Entry/Student",electronic,ESCO.1115,0.8602923876587271
+"AFSC 12R1*, Entry/Student",information system,ESCO.265,0.8586308291335879
+"AFSC 12R1*, Entry/Student",information system,ESCO.327,0.8665197101165986
+"AFSC 12R1*, Entry/Student",information system,ESCO.344,0.8544772066707875
+"AFSC 12R1*, Entry/Student",information system,ESCO.355,0.8696035922491209
+"AFSC 12R1*, Entry/Student",information system,ESCO.813,0.8604280810149119
+"AFSC 12R1*, Entry/Student",information system,ESCO.818,0.9072530569233033
+"AFSC 12R1*, Entry/Student",information system,OSN.524,0.9212522530743671
+"AFSC 12S1*, Entry/Student",management,ESCO.565,0.8695018190415156
+"AFSC 12S1*, Entry/Student",management,ESCO.888,0.8755034228670598
+"AFSC 12S1*, Entry/Student",r,ESCO.396,1.0
+"AFSC 12S1*, Entry/Student",operations training,OSN.739,0.8536825263109007
+"AFSC 12S1*, Entry/Student",operating procedures,OSN.726,0.8622111905939293
+"AFSC 12S1*, Entry/Student",information system,ESCO.265,0.8586308291335879
+"AFSC 12S1*, Entry/Student",information system,ESCO.327,0.8665197101165986
+"AFSC 12S1*, Entry/Student",information system,ESCO.344,0.8544772066707875
+"AFSC 12S1*, Entry/Student",information system,ESCO.355,0.8696035922491209
+"AFSC 12S1*, Entry/Student",information system,ESCO.813,0.8604280810149119
+"AFSC 12S1*, Entry/Student",information system,ESCO.818,0.9072530569233033
+"AFSC 12S1*, Entry/Student",information system,OSN.524,0.9212522530743671
+"AFSC 12U1*, Entry/Student",operating,ESCO.1245,0.887415991611435
+"AFSC 12U1*, Entry/Student",managing systems,ESCO.158,0.8517090025437333
+"AFSC 12U1*, Entry/Student",managing systems,ESCO.544,0.8653694217058651
+"AFSC 12U1*, Entry/Student",managing systems,ESCO.854,0.8615491396492575
+"AFSC 12U1*, Entry/Student",managing systems,ESCO.888,0.8655160582588474
+"AFSC 12U1*, Entry/Student",managing systems,ESCO.899,0.8544060496298435
+"AFSC 12U1*, Entry/Student",managing systems,ESCO.916,0.8502990647653239
+"AFSC 12U1*, Entry/Student",managing systems,ESCO.1079,0.8502990647653239
+"AFSC 12U1*, Entry/Student",management,ESCO.565,0.8695018190415156
+"AFSC 12U1*, Entry/Student",management,ESCO.888,0.8755034228670598
+"AFSC 12U1*, Entry/Student",operating procedures,OSN.726,0.8622111905939293
+"AFSC 12U1*, Entry/Student",coordination,OSN.345,0.8696678881923361
+"AFSC 12U1*, Entry/Student",coordination,OSN.880,0.8676778378075425
+"AFSC 13A1, Entry",resource management,OSN.392,0.8738970556485081
+"AFSC 13A1, Entry",operating,ESCO.1245,0.887415991611435
+"AFSC 13A1, Entry",performance systems,ESCO.732,0.8714190846762273
+"AFSC 13A1, Entry",performance systems,OSN.46,0.8844449076512132
+"AFSC 13A1, Entry",performance systems,OSN.700,0.8621001522084917
+"AFSC 13A1, Entry",support systems,ESCO.288,0.9177227967245528
+"AFSC 13A1, Entry",support systems,ESCO.916,0.8565054146130301
+"AFSC 13A1, Entry",support systems,ESCO.1079,0.8565054146130301
+"AFSC 13A1, Entry",support systems,ESCO.1117,0.8562643118676517
+"AFSC 13A1, Entry",electronic,ESCO.1115,0.8602923876587271
+"AFSC 13A1, Entry",systems,ESCO.84,0.8691140588257024
+"AFSC 13A1, Entry",systems,ESCO.89,0.8530845077689144
+"AFSC 13A1, Entry",systems,ESCO.172,0.8671411242371148
+"AFSC 13A1, Entry",systems,ESCO.387,0.8873658517124692
+"AFSC 13A1, Entry",systems,ESCO.916,1.0
+"AFSC 13A1, Entry",systems,ESCO.962,0.8509341762650352
+"AFSC 13A1, Entry",systems,ESCO.1079,1.0
+"AFSC 13A1, Entry",systems,ESCO.1245,0.9024515147271578
+"AFSC 13A1, Entry",systems,OSN.497,0.879669698758397
+"AFSC 13A1, Entry",computer programs,ESCO.174,0.8698946271242726
+"AFSC 13A1, Entry",computer programs,ESCO.707,0.8601783585103666
+"AFSC 13A1, Entry",computer programs,OSN.625,0.8807818347625208
+"AFSC 13B1*, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 13B1*, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 13B1*, Entry",information management,ESCO.187,0.9008854686635074
+"AFSC 13B1*, Entry",information management,ESCO.355,0.8625596381389595
+"AFSC 13B1*, Entry",information management,ESCO.1133,0.863138509933319
+"AFSC 13B1*, Entry",information management,OSN.212,0.8546443412652351
+"AFSC 13B1*, Entry",information management,OSN.392,0.8502241313142549
+"AFSC 13B1*, Entry",communication,OSN.880,0.869581701610172
+"AFSC 13B1*, Entry",coordination,OSN.345,0.8696678881923361
+"AFSC 13B1*, Entry",coordination,OSN.880,0.8676778378075425
+"AFSC 13B1*, Entry",communication system,ESCO.138,0.8613776453635091
+"AFSC 13B1*, Entry",communication system,ESCO.1213,0.8713685874056295
+"AFSC 13B1*, Entry",communication system,OSN.779,0.8980496704944054
+"AFSC 13B1*, Entry",systems management,ESCO.57,0.895615440326551
+"AFSC 13B1*, Entry",systems management,ESCO.64,0.8541047364707856
+"AFSC 13B1*, Entry",systems management,ESCO.84,0.8713303412316484
+"AFSC 13B1*, Entry",systems management,ESCO.105,0.8610464402304242
+"AFSC 13B1*, Entry",systems management,ESCO.158,0.8671050990606237
+"AFSC 13B1*, Entry",systems management,ESCO.387,0.8547796736908493
+"AFSC 13B1*, Entry",systems management,ESCO.429,0.8543006555061271
+"AFSC 13B1*, Entry",systems management,ESCO.544,0.9329060017222732
+"AFSC 13B1*, Entry",systems management,ESCO.806,0.9080538327243358
+"AFSC 13B1*, Entry",systems management,ESCO.854,0.9270042909298596
+"AFSC 13B1*, Entry",systems management,ESCO.888,0.9066882092372205
+"AFSC 13B1*, Entry",systems management,ESCO.916,0.891293998580954
+"AFSC 13B1*, Entry",systems management,ESCO.1079,0.891293998580954
+"AFSC 13B1*, Entry",systems management,ESCO.1246,0.8658355453973237
+"AFSC 13B1*, Entry",systems management,OSN.318,0.8570309254732756
+"AFSC 13B1*, Entry",systems management,OSN.738,0.8749646260294002
+"AFSC 13B1*, Entry",systems management,OSN.779,0.8703383282810759
+"AFSC 13B1*, Entry",systems management,OSN.914,0.8560218693370537
+"AFSC 13B1*, Entry",system operating,ESCO.590,0.8609716504915395
+"AFSC 13B1*, Entry",system operating,ESCO.754,0.8710895987552983
+"AFSC 13B1*, Entry",system operating,ESCO.978,0.917516845071288
+"AFSC 13B1*, Entry",system operating,ESCO.1245,0.9473643348945084
+"AFSC 13B1*, Entry",system operating,OSN.194,0.9494137022748707
+"AFSC 13B1*, Entry",system operating,OSN.606,0.8859480769740865
+"AFSC 13B1*, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 13B1*, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 13B1*, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 13B1*, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 13B1*, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 13B1*, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 13B1*, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 13H1, Entry",biology,ESCO.1142,0.8836741301971208
+"AFSC 13H1, Entry",research development,OSN.260,0.8562478069987304
+"AFSC 13H1, Entry",scientific data,ESCO.1186,0.9264431826497307
+"AFSC 13H1, Entry",operational research,OSN.260,0.8558222649758759
+"AFSC 13H1, Entry",development test,OSN.817,0.8907455078842685
+"AFSC 13H1, Entry",development test,OSN.818,0.8753694338455139
+"AFSC 13H1, Entry",programming,ESCO.174,0.8672291704754024
+"AFSC 13H1, Entry",programming,ESCO.522,0.8587864813675486
+"AFSC 13H1, Entry",system integration,ESCO.39,0.8636485810677382
+"AFSC 13H1, Entry",system integration,ESCO.485,0.8517503365734601
+"AFSC 13H1, Entry",system integration,ESCO.558,0.8756227550969291
+"AFSC 13H1, Entry",system integration,ESCO.665,0.868230945029099
+"AFSC 13H1, Entry",system integration,ESCO.1184,0.880247881667324
+"AFSC 13H1, Entry",system integration,OSN.234,0.8832735540053399
+"AFSC 13H1, Entry",research,OSN.260,0.8794616282740241
+"AFSC 13H1, Entry",research,OSN.626,0.8893910384657686
+"AFSC 13H1, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 13H1, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 13H1, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 13H1, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 13H1, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 13H1, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 13H1, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 13H1, Entry",capability development,OSN.31,0.850337666553703
+"AFSC 13H1, Entry",capability development,OSN.795,0.8526502515394879
+"AFSC 13M1, Entry",services services,ESCO.1238,0.878301333044746
+"AFSC 13M1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 13M1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 13M1, Entry",radio equipment,ESCO.10,0.9416526225628631
+"AFSC 13M1, Entry",radio equipment,ESCO.175,0.875873335064038
+"AFSC 13M1, Entry",radio equipment,ESCO.868,0.8926661292036797
+"AFSC 13M1, Entry",support systems,ESCO.288,0.9177227967245528
+"AFSC 13M1, Entry",support systems,ESCO.916,0.8565054146130301
+"AFSC 13M1, Entry",support systems,ESCO.1079,0.8565054146130301
+"AFSC 13M1, Entry",support systems,ESCO.1117,0.8562643118676517
+"AFSC 13M1, Entry",control system,ESCO.387,0.9471340732989019
+"AFSC 13M1, Entry",control system,ESCO.436,0.8720392156921882
+"AFSC 13M1, Entry",control system,ESCO.517,0.8835929196312978
+"AFSC 13M1, Entry",control system,ESCO.571,0.9314459767139128
+"AFSC 13M1, Entry",control system,ESCO.590,0.8976403075106413
+"AFSC 13M1, Entry",control system,ESCO.807,0.8599369378649053
+"AFSC 13M1, Entry",control system,ESCO.920,0.8628545519470182
+"AFSC 13M1, Entry",control system,ESCO.1063,0.8681584530091104
+"AFSC 13M1, Entry",control system,ESCO.1064,0.8681072849610638
+"AFSC 13M1, Entry",control system,ESCO.1113,0.8526763184942157
+"AFSC 13M1, Entry",control system,OSN.239,0.883654438206851
+"AFSC 13M1, Entry",control system,OSN.240,0.8819867340823506
+"AFSC 13M1, Entry",operate,ESCO.528,1.0
+"AFSC 13M1, Entry",programming,ESCO.174,0.8672291704754024
+"AFSC 13M1, Entry",programming,ESCO.522,0.8587864813675486
+"AFSC 13N1, Entry",operations systems,ESCO.590,0.8506204236299246
+"AFSC 13N1, Entry",operations systems,ESCO.916,0.8658497528352725
+"AFSC 13N1, Entry",operations systems,ESCO.1079,0.8658497528352725
+"AFSC 13N1, Entry",operations systems,ESCO.1245,0.9054963584089815
+"AFSC 13N1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 13N1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 13N1, Entry",r,ESCO.396,1.0
+"AFSC 13N1, Entry",storage,ESCO.841,0.8726481249703989
+"AFSC 13N1, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 13N1, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 13N1, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 13N1, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 13N1, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 13N1, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 13N1, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 13O1, Entry Level",control processes,ESCO.49,0.8858028459841029
+"AFSC 13O1, Entry Level",control processes,ESCO.387,0.8583139160205482
+"AFSC 13O1, Entry Level",control system,ESCO.387,0.9471340732989019
+"AFSC 13O1, Entry Level",control system,ESCO.436,0.8720392156921882
+"AFSC 13O1, Entry Level",control system,ESCO.517,0.8835929196312978
+"AFSC 13O1, Entry Level",control system,ESCO.571,0.9314459767139128
+"AFSC 13O1, Entry Level",control system,ESCO.590,0.8976403075106413
+"AFSC 13O1, Entry Level",control system,ESCO.807,0.8599369378649053
+"AFSC 13O1, Entry Level",control system,ESCO.920,0.8628545519470182
+"AFSC 13O1, Entry Level",control system,ESCO.1063,0.8681584530091104
+"AFSC 13O1, Entry Level",control system,ESCO.1064,0.8681072849610638
+"AFSC 13O1, Entry Level",control system,ESCO.1113,0.8526763184942157
+"AFSC 13O1, Entry Level",control system,OSN.239,0.883654438206851
+"AFSC 13O1, Entry Level",control system,OSN.240,0.8819867340823506
+"AFSC 13O1, Entry Level",information system,ESCO.265,0.8586308291335879
+"AFSC 13O1, Entry Level",information system,ESCO.327,0.8665197101165986
+"AFSC 13O1, Entry Level",information system,ESCO.344,0.8544772066707875
+"AFSC 13O1, Entry Level",information system,ESCO.355,0.8696035922491209
+"AFSC 13O1, Entry Level",information system,ESCO.813,0.8604280810149119
+"AFSC 13O1, Entry Level",information system,ESCO.818,0.9072530569233033
+"AFSC 13O1, Entry Level",information system,OSN.524,0.9212522530743671
+"AFSC 13O1, Entry Level",programming,ESCO.174,0.8672291704754024
+"AFSC 13O1, Entry Level",programming,ESCO.522,0.8587864813675486
+"AFSC 13S1*, Entry",supporting system,ESCO.288,0.859245686195742
+"AFSC 13S1*, Entry",managing systems,ESCO.158,0.8517090025437333
+"AFSC 13S1*, Entry",managing systems,ESCO.544,0.8653694217058651
+"AFSC 13S1*, Entry",managing systems,ESCO.854,0.8615491396492575
+"AFSC 13S1*, Entry",managing systems,ESCO.888,0.8655160582588474
+"AFSC 13S1*, Entry",managing systems,ESCO.899,0.8544060496298435
+"AFSC 13S1*, Entry",managing systems,ESCO.916,0.8502990647653239
+"AFSC 13S1*, Entry",managing systems,ESCO.1079,0.8502990647653239
+"AFSC 13S1*, Entry",life cycle,OSN.33,0.8799148960238353
+"AFSC 13S1*, Entry",life cycle,OSN.741,0.8542861007155184
+"AFSC 13S1*, Entry",systems manages system,ESCO.212,0.8548178764586872
+"AFSC 13S1*, Entry",systems manages system,ESCO.387,0.8718437867330859
+"AFSC 13S1*, Entry",systems manages system,ESCO.590,0.8623529074235292
+"AFSC 13S1*, Entry",systems manages system,ESCO.916,0.891795031634778
+"AFSC 13S1*, Entry",systems manages system,ESCO.1079,0.891795031634778
+"AFSC 13S1*, Entry",systems manages system,ESCO.1245,0.8647308514368288
+"AFSC 13S1*, Entry",operations system,ESCO.688,0.8523145453305081
+"AFSC 13S1*, Entry",operations system,ESCO.1245,0.8642091079252978
+"AFSC 13S1*, Entry",operations system,OSN.194,0.8679952794101544
+"AFSC 13S1*, Entry",system engineering,ESCO.84,0.8506832197185495
+"AFSC 13S1*, Entry",system engineering,ESCO.190,0.8923647347510988
+"AFSC 13S1*, Entry",system engineering,ESCO.283,0.8801729348635782
+"AFSC 13S1*, Entry",system engineering,ESCO.693,0.853625510322269
+"AFSC 13S1*, Entry",system engineering,ESCO.955,0.876075166872636
+"AFSC 13S1*, Entry",system engineering,OSN.497,0.950000379887319
+"AFSC 13S1*, Entry",operations systems,ESCO.590,0.8506204236299246
+"AFSC 13S1*, Entry",operations systems,ESCO.916,0.8658497528352725
+"AFSC 13S1*, Entry",operations systems,ESCO.1079,0.8658497528352725
+"AFSC 13S1*, Entry",operations systems,ESCO.1245,0.9054963584089815
+"AFSC 13S1*, Entry",software updates,OSN.319,0.8950803471439908
+"AFSC 13S1*, Entry",electronic,ESCO.1115,0.8602923876587271
+"AFSC 13S1*, Entry",communication system,ESCO.138,0.8613776453635091
+"AFSC 13S1*, Entry",communication system,ESCO.1213,0.8713685874056295
+"AFSC 13S1*, Entry",communication system,OSN.779,0.8980496704944054
+"AFSC 13S1*, Entry",systems network,ESCO.57,0.8904266853656111
+"AFSC 13S1*, Entry",systems network,ESCO.916,0.8635766385382905
+"AFSC 13S1*, Entry",systems network,ESCO.1079,0.8635766385382905
+"AFSC 13S1*, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 13S1*, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 13S1*, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 13S1*, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 13S1*, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 13S1*, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 13S1*, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 13S1*, Entry",problem solve,ESCO.116,0.881449686012299
+"AFSC 13S1*, Entry",problem solve,OSN.146,0.8600250530332342
+"AFSC 13S1*, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 13S1*, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 13S1*, Entry",support systems,ESCO.288,0.9177227967245528
+"AFSC 13S1*, Entry",support systems,ESCO.916,0.8565054146130301
+"AFSC 13S1*, Entry",support systems,ESCO.1079,0.8565054146130301
+"AFSC 13S1*, Entry",support systems,ESCO.1117,0.8562643118676517
+"AFSC 13S1*, Entry",communication,OSN.880,0.869581701610172
+"AFSC 13S1*, Entry",information services,ESCO.187,0.8633381237134801
+"AFSC 13S1*, Entry",information services,ESCO.1047,0.8995268247716066
+"AFSC 13S1*, Entry",information services,ESCO.1238,0.8626621685664295
+"AFSC 13S1*, Entry",information services,OSN.443,0.8548090579015657
+"AFSC 13Z1, Entry Level",control processes,ESCO.49,0.8858028459841029
+"AFSC 13Z1, Entry Level",control processes,ESCO.387,0.8583139160205482
+"AFSC 13Z1, Entry Level",computer hardware,ESCO.999,0.9324785980034268
+"AFSC 13Z1, Entry Level",computer hardware,ESCO.1106,0.920659179646307
+"AFSC 13Z1, Entry Level",software communications,OSN.84,0.8963051795966283
+"AFSC 13Z1, Entry Level",control system,ESCO.387,0.9471340732989019
+"AFSC 13Z1, Entry Level",control system,ESCO.436,0.8720392156921882
+"AFSC 13Z1, Entry Level",control system,ESCO.517,0.8835929196312978
+"AFSC 13Z1, Entry Level",control system,ESCO.571,0.9314459767139128
+"AFSC 13Z1, Entry Level",control system,ESCO.590,0.8976403075106413
+"AFSC 13Z1, Entry Level",control system,ESCO.807,0.8599369378649053
+"AFSC 13Z1, Entry Level",control system,ESCO.920,0.8628545519470182
+"AFSC 13Z1, Entry Level",control system,ESCO.1063,0.8681584530091104
+"AFSC 13Z1, Entry Level",control system,ESCO.1064,0.8681072849610638
+"AFSC 13Z1, Entry Level",control system,ESCO.1113,0.8526763184942157
+"AFSC 13Z1, Entry Level",control system,OSN.239,0.883654438206851
+"AFSC 13Z1, Entry Level",control system,OSN.240,0.8819867340823506
+"AFSC 13Z1, Entry Level",research,OSN.260,0.8794616282740241
+"AFSC 13Z1, Entry Level",research,OSN.626,0.8893910384657686
+"AFSC 13Z1, Entry Level",information system,ESCO.265,0.8586308291335879
+"AFSC 13Z1, Entry Level",information system,ESCO.327,0.8665197101165986
+"AFSC 13Z1, Entry Level",information system,ESCO.344,0.8544772066707875
+"AFSC 13Z1, Entry Level",information system,ESCO.355,0.8696035922491209
+"AFSC 13Z1, Entry Level",information system,ESCO.813,0.8604280810149119
+"AFSC 13Z1, Entry Level",information system,ESCO.818,0.9072530569233033
+"AFSC 13Z1, Entry Level",information system,OSN.524,0.9212522530743671
+"AFSC 13Z1, Entry Level",programming,ESCO.174,0.8672291704754024
+"AFSC 13Z1, Entry Level",programming,ESCO.522,0.8587864813675486
+"AFSC 14F1, Entry",information technology,ESCO.775,0.8550239828391537
+"AFSC 14F1, Entry",information technology,OSN.256,0.8604436420129719
+"AFSC 14F1, Entry",computer hardware,ESCO.999,0.9324785980034268
+"AFSC 14F1, Entry",computer hardware,ESCO.1106,0.920659179646307
+"AFSC 14F1, Entry",application integration,OSN.266,0.8645907709856422
+"AFSC 14F1, Entry",application integration,OSN.357,0.9327670034867214
+"AFSC 14F1, Entry",application integration,OSN.358,0.8645285084484648
+"AFSC 14F1, Entry",data systems,ESCO.484,0.8683090708290517
+"AFSC 14F1, Entry",data systems,ESCO.766,0.9219889059152556
+"AFSC 14F1, Entry",data systems,ESCO.843,0.8943131242147567
+"AFSC 14F1, Entry",data systems,ESCO.854,0.8723975089976442
+"AFSC 14F1, Entry",data systems,ESCO.916,0.853753262684711
+"AFSC 14F1, Entry",data systems,ESCO.1006,0.8561895244259031
+"AFSC 14F1, Entry",data systems,ESCO.1079,0.853753262684711
+"AFSC 14F1, Entry",data systems,OSN.342,0.8915169564813274
+"AFSC 14F1, Entry",coordination,OSN.345,0.8696678881923361
+"AFSC 14F1, Entry",coordination,OSN.880,0.8676778378075425
+"AFSC 14F1, Entry",communication system,ESCO.138,0.8613776453635091
+"AFSC 14F1, Entry",communication system,ESCO.1213,0.8713685874056295
+"AFSC 14F1, Entry",communication system,OSN.779,0.8980496704944054
+"AFSC 14F1, Entry",research,OSN.260,0.8794616282740241
+"AFSC 14F1, Entry",research,OSN.626,0.8893910384657686
+"AFSC 14F1, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 14F1, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 14F1, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 14F1, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 14F1, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 14F1, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 14F1, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 14F1, Entry",policy research,OSN.908,0.8899603631203573
+"AFSC 14F1, Entry",management information,ESCO.187,0.9008854686635074
+"AFSC 14F1, Entry",management information,ESCO.355,0.8625596381389595
+"AFSC 14F1, Entry",management information,ESCO.1133,0.863138509933319
+"AFSC 14F1, Entry",management information,OSN.212,0.8546443412652351
+"AFSC 14F1, Entry",management information,OSN.392,0.8502241313142549
+"AFSC 14F1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 14F1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 14N1, Entry",based systems,ESCO.190,0.8703392708257431
+"AFSC 14N1, Entry",based systems,ESCO.916,0.8918605549969735
+"AFSC 14N1, Entry",based systems,ESCO.1079,0.8918605549969735
+"AFSC 14N1, Entry",based systems,ESCO.1245,0.8674684442324001
+"AFSC 14N1, Entry",operational plans,OSN.795,0.8891402005058674
+"AFSC 14N1, Entry",security analysis,ESCO.864,0.8588882902775483
+"AFSC 14N1, Entry",security analysis,OSN.396,0.8880898799088421
+"AFSC 14N1, Entry",operate,ESCO.528,1.0
+"AFSC 14N1, Entry",solving problems,ESCO.116,0.9050924850205427
+"AFSC 14N1, Entry",solving problems,OSN.146,0.9037174365995856
+"AFSC 14N1, Entry",analytics,ESCO.101,0.8854834237449971
+"AFSC 14N1, Entry",analytics,ESCO.123,0.8672838725575737
+"AFSC 14N1, Entry",analytics,ESCO.757,0.8630345162170742
+"AFSC 14N1, Entry",analytics,ESCO.761,0.8655750657481555
+"AFSC 14N1, Entry",information technology,ESCO.775,0.8550239828391537
+"AFSC 14N1, Entry",information technology,OSN.256,0.8604436420129719
+"AFSC 14N1, Entry",collection management,ESCO.477,0.9133565545469423
+"AFSC 14N1, Entry",systems requires,ESCO.916,0.8741689271761679
+"AFSC 14N1, Entry",systems requires,ESCO.1079,0.8741689271761679
+"AFSC 14N1, Entry",programming,ESCO.174,0.8672291704754024
+"AFSC 14N1, Entry",programming,ESCO.522,0.8587864813675486
+"AFSC 14N1, Entry",development management,ESCO.55,0.8555655303278783
+"AFSC 14N1, Entry",development management,ESCO.544,0.8505969848681064
+"AFSC 14N1, Entry",development management,ESCO.565,0.9027143732450187
+"AFSC 14N1, Entry",development management,ESCO.664,0.8524350824391427
+"AFSC 14N1, Entry",development management,ESCO.735,0.8538495897221235
+"AFSC 14N1, Entry",development management,ESCO.888,0.852629163540296
+"AFSC 14N1, Entry",development management,OSN.31,0.8905048626119845
+"AFSC 14N1, Entry",development management,OSN.313,0.8537077960644136
+"AFSC 14N1, Entry",development management,OSN.415,0.8524228607635937
+"AFSC 14N1, Entry",development management,OSN.738,0.8768532411183982
+"AFSC 14N1, Entry",coordination,OSN.345,0.8696678881923361
+"AFSC 14N1, Entry",coordination,OSN.880,0.8676778378075425
+"AFSC 14N1, Entry",user requirements,ESCO.1010,0.8722927289122082
+"AFSC 14N1, Entry",research,OSN.260,0.8794616282740241
+"AFSC 14N1, Entry",research,OSN.626,0.8893910384657686
+"AFSC 14N1, Entry",enterprise management,ESCO.1200,0.8533609504603988
+"AFSC 14N1, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 14N1, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 14N1, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 14N1, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 14N1, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 14N1, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 14N1, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 14N1, Entry",policy research,OSN.908,0.8899603631203573
+"AFSC 14N1, Entry",scientific method,OSN.742,0.8988058958493199
+"AFSC 14N1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 14N1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 14N1, Entry",data science,ESCO.354,0.8556290868367851
+"AFSC 14N1, Entry",data science,ESCO.1186,1.0
+"AFSC 14N1, Entry",solve problems,ESCO.116,0.925068992525915
+"AFSC 14N1, Entry",solve problems,OSN.146,0.8574854716090898
+"AFSC 14N1, Entry",information systems,ESCO.105,0.8572800745341762
+"AFSC 14N1, Entry",information systems,ESCO.265,0.920342212715384
+"AFSC 14N1, Entry",information systems,ESCO.327,0.9150826275824924
+"AFSC 14N1, Entry",information systems,ESCO.813,0.9075230913544554
+"AFSC 14N1, Entry",information systems,ESCO.818,0.8783039514362997
+"AFSC 14N1, Entry",information systems,ESCO.854,0.8505873353342385
+"AFSC 14N1, Entry",information systems,ESCO.916,0.8570732184013353
+"AFSC 14N1, Entry",information systems,ESCO.1079,0.8570732184013353
+"AFSC 14N1, Entry",information systems,ESCO.1183,0.9042657329916385
+"AFSC 14N1, Entry",information systems,ESCO.1269,0.8887686268003371
+"AFSC 14N1, Entry",information systems,OSN.524,0.8948585396763803
+"AFSC 14N1, Entry",cloud technology,ESCO.944,0.9587064939228224
+"AFSC 15A1, Entry",decision analysis,OSN.690,0.8761395107314917
+"AFSC 15A1, Entry",computer system,ESCO.1108,0.8582650669316709
+"AFSC 15A1, Entry",decision support,ESCO.288,0.900121513505226
+"AFSC 15A1, Entry",decision support,ESCO.1117,0.8706400926314989
+"AFSC 15A1, Entry",computer science,ESCO.620,1.0
+"AFSC 15A1, Entry",computer science,ESCO.693,0.8629955558723209
+"AFSC 15A1, Entry",computer science,ESCO.914,0.9327691562855299
+"AFSC 15A1, Entry",system analysis,ESCO.863,0.9222945424606142
+"AFSC 15A1, Entry",system analysis,OSN.318,0.8667935060331471
+"AFSC 15A1, Entry",system analysis,OSN.524,0.9390104033805453
+"AFSC 15A1, Entry",system analysis,OSN.712,0.9226187372377146
+"AFSC 15A1, Entry",system analysis,OSN.810,0.8560148918006835
+"AFSC 15A1, Entry",analytics,ESCO.101,0.8854834237449971
+"AFSC 15A1, Entry",analytics,ESCO.123,0.8672838725575737
+"AFSC 15A1, Entry",analytics,ESCO.757,0.8630345162170742
+"AFSC 15A1, Entry",analytics,ESCO.761,0.8655750657481555
+"AFSC 15A1, Entry",machine learning,ESCO.274,1.0
+"AFSC 15A1, Entry",machine learning,ESCO.661,0.9138496500925827
+"AFSC 15A1, Entry",visual,ESCO.110,0.8562017974949482
+"AFSC 15A1, Entry",statistical analysis,ESCO.268,0.8826925904511576
+"AFSC 15A1, Entry",statistical analysis,ESCO.497,0.8965799618660176
+"AFSC 15A1, Entry",statistical analysis,ESCO.863,0.8587260014318817
+"AFSC 15A1, Entry",machine learn,ESCO.274,0.9120387878667723
+"AFSC 15A1, Entry",machine learn,ESCO.661,0.8518342483231778
+"AFSC 15A1, Entry",support services,OSN.633,0.8852825036951814
+"AFSC 15A1, Entry",answer questions,OSN.882,0.8563165578266012
+"AFSC 15A1, Entry",coordination,OSN.345,0.8696678881923361
+"AFSC 15A1, Entry",coordination,OSN.880,0.8676778378075425
+"AFSC 15A1, Entry",electronic,ESCO.1115,0.8602923876587271
+"AFSC 15A1, Entry",computer programming,ESCO.174,1.0
+"AFSC 15A1, Entry",computer programming,OSN.72,0.8607336037867329
+"AFSC 15A1, Entry",research,OSN.260,0.8794616282740241
+"AFSC 15A1, Entry",research,OSN.626,0.8893910384657686
+"AFSC 15A1, Entry",artificial intelligence,ESCO.1143,0.8716680906227656
+"AFSC 15A1, Entry",problem solve,ESCO.116,0.881449686012299
+"AFSC 15A1, Entry",problem solve,OSN.146,0.8600250530332342
+"AFSC 15A1, Entry",risk assessment,OSN.865,0.8923856862554614
+"AFSC 15A1, Entry",problem solving,ESCO.116,0.8741707876150491
+"AFSC 15A1, Entry",problem solving,OSN.146,0.9198053407634387
+"AFSC 15A1, Entry",development testing,OSN.28,0.8735866575255213
+"AFSC 15A1, Entry",development testing,OSN.414,0.8690216799678877
+"AFSC 15A1, Entry",development testing,OSN.493,0.8804627430639227
+"AFSC 15A1, Entry",development testing,OSN.817,0.9237100983009885
+"AFSC 15A1, Entry",data science,ESCO.354,0.8556290868367851
+"AFSC 15A1, Entry",data science,ESCO.1186,1.0
+"AFSC 15A1, Entry",solve problems,ESCO.116,0.925068992525915
+"AFSC 15A1, Entry",solve problems,OSN.146,0.8574854716090898
+"AFSC 15A1, Entry",communication,OSN.880,0.869581701610172
+"AFSC 15A1, Entry",analysis quantitative,ESCO.497,1.0
+"AFSC 15A1, Entry",data management,ESCO.44,0.8757770780257028
+"AFSC 15A1, Entry",data management,ESCO.433,0.8596872502289103
+"AFSC 15A1, Entry",data management,ESCO.766,0.8533614930870694
+"AFSC 15A1, Entry",data management,ESCO.795,0.8895244806017883
+"AFSC 15A1, Entry",data management,ESCO.843,0.8674980278759826
+"AFSC 15A1, Entry",data management,ESCO.854,0.885189091163468
+"AFSC 15A1, Entry",data management,ESCO.1133,0.9366025818573024
+"AFSC 15A1, Entry",data management,ESCO.1147,0.8910242778235221
+"AFSC 15A1, Entry",data management,OSN.212,0.8742033822716658
+"AFSC 15A1, Entry",data management,OSN.507,0.8591253580488102
+"AFSC 15W1*, Entry",processing analysis,OSN.482,0.873528096262243
+"AFSC 15W1*, Entry",processing analysis,OSN.766,0.8559866949750702
+"AFSC 15W1*, Entry",processing analysis,OSN.810,0.8969935916407148
+"AFSC 15W1*, Entry",computer science,ESCO.620,1.0
+"AFSC 15W1*, Entry",computer science,ESCO.693,0.8629955558723209
+"AFSC 15W1*, Entry",computer science,ESCO.914,0.9327691562855299
+"AFSC 15W1*, Entry",instrumentation,ESCO.913,0.8570831590593054
+"AFSC 15W1*, Entry",instrumentation,OSN.774,0.864277717832946
+"AFSC 15W1*, Entry",machine learning,ESCO.274,1.0
+"AFSC 15W1*, Entry",machine learning,ESCO.661,0.9138496500925827
+"AFSC 15W1*, Entry",software engineering,ESCO.128,0.8931987880626979
+"AFSC 15W1*, Entry",software engineering,ESCO.313,0.8616844955274465
+"AFSC 15W1*, Entry",software engineering,ESCO.693,0.8844266311442396
+"AFSC 15W1*, Entry",software engineering,OSN.376,0.878381822044469
+"AFSC 15W1*, Entry",software engineering,OSN.377,0.8842441630567311
+"AFSC 15W1*, Entry",software engineering,OSN.497,0.85174577099005
+"AFSC 15W1*, Entry",operating,ESCO.1245,0.887415991611435
+"AFSC 15W1*, Entry",software development,ESCO.608,0.8762807215606644
+"AFSC 15W1*, Entry",software development,ESCO.664,0.8991440857279609
+"AFSC 15W1*, Entry",software development,ESCO.719,0.8511867752769854
+"AFSC 15W1*, Entry",software development,ESCO.735,0.9166489133409751
+"AFSC 15W1*, Entry",software development,ESCO.786,0.8503588211141622
+"AFSC 15W1*, Entry",software development,ESCO.787,0.8662682466355776
+"AFSC 15W1*, Entry",software development,ESCO.792,0.8512944620559401
+"AFSC 15W1*, Entry",software development,ESCO.933,0.8534628409250434
+"AFSC 15W1*, Entry",software development,OSN.31,0.936322406181883
+"AFSC 15W1*, Entry",software development,OSN.84,0.9319807732544736
+"AFSC 15W1*, Entry",software development,OSN.297,0.9272214807764664
+"AFSC 15W1*, Entry",software development,OSN.377,0.8851526598856373
+"AFSC 15W1*, Entry",software development,OSN.415,0.9085917560234676
+"AFSC 15W1*, Entry",software development,OSN.488,0.8560385300811152
+"AFSC 15W1*, Entry",software development,OSN.501,0.8608765811467397
+"AFSC 15W1*, Entry",software development,OSN.502,0.8554409310994415
+"AFSC 15W1*, Entry",software development,OSN.506,0.8546770269250495
+"AFSC 15W1*, Entry",software development,OSN.507,0.881494436086336
+"AFSC 15W1*, Entry",software development,OSN.508,0.8643710640682275
+"AFSC 15W1*, Entry",software development,OSN.509,0.8955746833821474
+"AFSC 15W1*, Entry",software development,OSN.510,0.9123216277586735
+"AFSC 15W1*, Entry",software development,OSN.583,0.8986943716753171
+"AFSC 15W1*, Entry",operational planning,OSN.737,0.8569629005102701
+"AFSC 15W1*, Entry",operational planning,OSN.795,0.8688828647582415
+"AFSC 15W1*, Entry",research,OSN.260,0.8794616282740241
+"AFSC 15W1*, Entry",research,OSN.626,0.8893910384657686
+"AFSC 15W1*, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 15W1*, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 15W1*, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 15W1*, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 15W1*, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 15W1*, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 15W1*, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 15W1*, Entry",artificial intelligence,ESCO.1143,0.8716680906227656
+"AFSC 15W1*, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 15W1*, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 15W1*, Entry",cloud computing,ESCO.944,0.8811387488545864
+"AFSC 15W1*, Entry",data science,ESCO.354,0.8556290868367851
+"AFSC 15W1*, Entry",data science,ESCO.1186,1.0
+"AFSC 16F1*, Entry",security policies,ESCO.118,0.889923875612456
+AFSC 16F Career Field Education and Training Plan (CFETP),operating,ESCO.1245,0.887415991611435
+"AFSC 16G1, Entry",plans development,ESCO.1153,0.8817779111703531
+"AFSC 16G1, Entry",plans development,OSN.9,0.8510010617055505
+"AFSC 16G1, Entry",plans development,OSN.313,0.8977478701217807
+"AFSC 16G1, Entry",plans development,OSN.314,0.8814267935220219
+"AFSC 16G1, Entry",plans development,OSN.784,0.850966588306944
+"AFSC 16G1, Entry",control system,ESCO.387,0.9471340732989019
+"AFSC 16G1, Entry",control system,ESCO.436,0.8720392156921882
+"AFSC 16G1, Entry",control system,ESCO.517,0.8835929196312978
+"AFSC 16G1, Entry",control system,ESCO.571,0.9314459767139128
+"AFSC 16G1, Entry",control system,ESCO.590,0.8976403075106413
+"AFSC 16G1, Entry",control system,ESCO.807,0.8599369378649053
+"AFSC 16G1, Entry",control system,ESCO.920,0.8628545519470182
+"AFSC 16G1, Entry",control system,ESCO.1063,0.8681584530091104
+"AFSC 16G1, Entry",control system,ESCO.1064,0.8681072849610638
+"AFSC 16G1, Entry",control system,ESCO.1113,0.8526763184942157
+"AFSC 16G1, Entry",control system,OSN.239,0.883654438206851
+"AFSC 16G1, Entry",control system,OSN.240,0.8819867340823506
+"AFSC 16G1, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 16G1, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 16G1, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 16G1, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 16G1, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 16G1, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 16G1, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 16G1, Entry",programming,ESCO.174,0.8672291704754024
+"AFSC 16G1, Entry",programming,ESCO.522,0.8587864813675486
+"AFSC 16K1, Entry",computer science,ESCO.620,1.0
+"AFSC 16K1, Entry",computer science,ESCO.693,0.8629955558723209
+"AFSC 16K1, Entry",computer science,ESCO.914,0.9327691562855299
+"AFSC 16K1, Entry",css,ESCO.1150,0.9999999999999999
+"AFSC 16K1, Entry",mobile application development,ESCO.750,0.8833898789876409
+"AFSC 16K1, Entry",mobile application development,OSN.391,0.90224253245994
+"AFSC 16K1, Entry",mobile application development,OSN.483,0.8514592999866774
+"AFSC 16K1, Entry",mobile application development,OSN.484,0.86314449701033
+"AFSC 16K1, Entry",mobile application development,OSN.485,0.86083824102299
+"AFSC 16K1, Entry",mobile application development,OSN.488,0.893677172178677
+"AFSC 16K1, Entry",software system,ESCO.57,0.8521709519534107
+"AFSC 16K1, Entry",software system,ESCO.201,0.868906594955337
+"AFSC 16K1, Entry",software system,ESCO.361,0.8630217459753159
+"AFSC 16K1, Entry",software system,ESCO.429,0.8929869983341967
+"AFSC 16K1, Entry",software system,ESCO.710,0.8620510529565778
+"AFSC 16K1, Entry",software system,ESCO.786,0.8563970459335977
+"AFSC 16K1, Entry",software system,OSN.616,0.8621993090451988
+"AFSC 16K1, Entry",security software,OSN.396,0.8883753304944428
+"AFSC 16K1, Entry",software development,ESCO.608,0.8762807215606644
+"AFSC 16K1, Entry",software development,ESCO.664,0.8991440857279609
+"AFSC 16K1, Entry",software development,ESCO.719,0.8511867752769854
+"AFSC 16K1, Entry",software development,ESCO.735,0.9166489133409751
+"AFSC 16K1, Entry",software development,ESCO.786,0.8503588211141622
+"AFSC 16K1, Entry",software development,ESCO.787,0.8662682466355776
+"AFSC 16K1, Entry",software development,ESCO.792,0.8512944620559401
+"AFSC 16K1, Entry",software development,ESCO.933,0.8534628409250434
+"AFSC 16K1, Entry",software development,OSN.31,0.936322406181883
+"AFSC 16K1, Entry",software development,OSN.84,0.9319807732544736
+"AFSC 16K1, Entry",software development,OSN.297,0.9272214807764664
+"AFSC 16K1, Entry",software development,OSN.377,0.8851526598856373
+"AFSC 16K1, Entry",software development,OSN.415,0.9085917560234676
+"AFSC 16K1, Entry",software development,OSN.488,0.8560385300811152
+"AFSC 16K1, Entry",software development,OSN.501,0.8608765811467397
+"AFSC 16K1, Entry",software development,OSN.502,0.8554409310994415
+"AFSC 16K1, Entry",software development,OSN.506,0.8546770269250495
+"AFSC 16K1, Entry",software development,OSN.507,0.881494436086336
+"AFSC 16K1, Entry",software development,OSN.508,0.8643710640682275
+"AFSC 16K1, Entry",software development,OSN.509,0.8955746833821474
+"AFSC 16K1, Entry",software development,OSN.510,0.9123216277586735
+"AFSC 16K1, Entry",software development,OSN.583,0.8986943716753171
+"AFSC 16K1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 16K1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 16K1, Entry",computer engineering,ESCO.128,0.8599207630766728
+"AFSC 16K1, Entry",computer engineering,ESCO.283,0.8815969999849445
+"AFSC 16K1, Entry",computer engineering,ESCO.620,0.8629955558723209
+"AFSC 16K1, Entry",computer engineering,ESCO.693,0.9999999999999998
+"AFSC 16K1, Entry",computer engineering,ESCO.1108,0.8733540385436934
+"AFSC 16K1, Entry",computer engineering,OSN.497,0.8622469844097814
+"AFSC 16K1, Entry",web application development,ESCO.683,0.8504611141721878
+"AFSC 16K1, Entry",web application development,ESCO.750,0.8765718163285037
+"AFSC 16K1, Entry",web application development,OSN.382,0.8569091257462649
+"AFSC 16K1, Entry",web application development,OSN.391,1.0
+"AFSC 16K1, Entry",web application development,OSN.483,0.8809620058265715
+"AFSC 16K1, Entry",web application development,OSN.484,0.8715721838361665
+"AFSC 16K1, Entry",web application development,OSN.485,0.8628979557827986
+"AFSC 16K1, Entry",web application development,OSN.488,0.9600796501661406
+"AFSC 16K1, Entry",web application development,OSN.501,0.8577925358751531
+"AFSC 16K1, Entry",web application development,OSN.642,0.8707270768714495
+"AFSC 16K1, Entry",data science,ESCO.354,0.8556290868367851
+"AFSC 16K1, Entry",data science,ESCO.1186,1.0
+"AFSC 16K1, Entry",web application,OSN.391,0.9347784280012589
+"AFSC 16K1, Entry",web application,OSN.488,0.8891603615507325
+"AFSC 16K1, Entry",machine learn,ESCO.274,0.9120387878667723
+"AFSC 16K1, Entry",machine learn,ESCO.661,0.8518342483231778
+"AFSC 16K1, Entry",application development,ESCO.683,0.8916192092802986
+"AFSC 16K1, Entry",application development,ESCO.750,0.9375846666019195
+"AFSC 16K1, Entry",application development,OSN.31,0.8643692016956326
+"AFSC 16K1, Entry",application development,OSN.391,0.9361818876758636
+"AFSC 16K1, Entry",application development,OSN.483,0.895822728655201
+"AFSC 16K1, Entry",application development,OSN.484,0.9074917618923225
+"AFSC 16K1, Entry",application development,OSN.485,0.8927734041316453
+"AFSC 16K1, Entry",application development,OSN.488,0.9046810349540796
+"AFSC 16K1, Entry",application development,OSN.520,0.8546337889407167
+"AFSC 16K1, Entry",application development,OSN.617,0.9058201066880223
+"AFSC 16K1, Entry",natural language processing,ESCO.1284,1.0
+"AFSC 16K1, Entry",visual,ESCO.110,0.8562017974949482
+"AFSC 16P1, Entry",security policies,ESCO.118,0.889923875612456
+"AFSC 16R1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 16R1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 16R1, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 16R1, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 16R1, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 16R1, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 16R1, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 16R1, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 16R1, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 16R1, Entry",plan development,ESCO.1153,0.8601370956579085
+"AFSC 16R1, Entry",plan development,OSN.313,0.935337607060335
+"AFSC 16R1, Entry",plan development,OSN.314,0.9118465198905958
+"AFSC 16R1, Entry",plan development,OSN.795,0.8639103038788355
+"AFSC 16R1, Entry",plan development,OSN.818,0.8711018702472542
+"AFSC 16R1, Entry",programming,ESCO.174,0.8672291704754024
+"AFSC 16R1, Entry",programming,ESCO.522,0.8587864813675486
+"AFSC 16Z1*, Entry",operating,ESCO.1245,0.887415991611435
+"AFSC 16Z1*, Entry",security policies,ESCO.118,0.889923875612456
+"AFSC 16Z1*, Entry",r,ESCO.396,1.0
+"AFSC 17D1*, Entry",computer science,ESCO.620,1.0
+"AFSC 17D1*, Entry",computer science,ESCO.693,0.8629955558723209
+"AFSC 17D1*, Entry",computer science,ESCO.914,0.9327691562855299
+"AFSC 17D1*, Entry",computer networking,ESCO.169,0.8591851588629419
+"AFSC 17D1*, Entry",operating,ESCO.1245,0.887415991611435
+"AFSC 17D1*, Entry",technical solutions,OSN.259,0.8573961508502241
+"AFSC 17D1*, Entry",technical solutions,OSN.787,0.8504744971610207
+"AFSC 17D1*, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 17D1*, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 17D1*, Entry",information technology,ESCO.775,0.8550239828391537
+"AFSC 17D1*, Entry",information technology,OSN.256,0.8604436420129719
+"AFSC 17D1*, Entry",computer engineering,ESCO.128,0.8599207630766728
+"AFSC 17D1*, Entry",computer engineering,ESCO.283,0.8815969999849445
+"AFSC 17D1*, Entry",computer engineering,ESCO.620,0.8629955558723209
+"AFSC 17D1*, Entry",computer engineering,ESCO.693,0.9999999999999998
+"AFSC 17D1*, Entry",computer engineering,ESCO.1108,0.8733540385436934
+"AFSC 17D1*, Entry",computer engineering,OSN.497,0.8622469844097814
+"AFSC 17D1*, Entry",electronics,ESCO.543,0.8783987334079919
+"AFSC 17D1*, Entry",electronics,ESCO.747,1.0
+"AFSC 17D1*, Entry",information network,ESCO.137,0.8836832562165371
+"AFSC 17D1*, Entry",operating system,ESCO.590,0.8609716504915395
+"AFSC 17D1*, Entry",operating system,ESCO.754,0.8710895987552983
+"AFSC 17D1*, Entry",operating system,ESCO.978,0.917516845071288
+"AFSC 17D1*, Entry",operating system,ESCO.1245,0.9473643348945084
+"AFSC 17D1*, Entry",operating system,OSN.194,0.9494137022748707
+"AFSC 17D1*, Entry",operating system,OSN.606,0.8859480769740865
+"AFSC 17D1*, Entry",systems knowledge,ESCO.89,0.8574499424374012
+"AFSC 17D1*, Entry",systems knowledge,ESCO.544,0.8918696872932534
+"AFSC 17D1*, Entry",systems knowledge,ESCO.916,0.8700771760600725
+"AFSC 17D1*, Entry",systems knowledge,ESCO.1079,0.8700771760600725
+"AFSC 17D1*, Entry",systems knowledge,OSN.497,0.8546745489920347
+"AFSC 17D1*, Entry",systems knowledge,OSN.779,0.8620173832231579
+"AFSC 17S1*, Entry",computer science,ESCO.620,1.0
+"AFSC 17S1*, Entry",computer science,ESCO.693,0.8629955558723209
+"AFSC 17S1*, Entry",computer science,ESCO.914,0.9327691562855299
+"AFSC 17S1*, Entry",computer network,ESCO.169,0.9154683163306238
+"AFSC 17S1*, Entry",computer network,OSN.137,0.8731536755745564
+"AFSC 17S1*, Entry",operating,ESCO.1245,0.887415991611435
+"AFSC 17S1*, Entry",operational planning,OSN.737,0.8569629005102701
+"AFSC 17S1*, Entry",operational planning,OSN.795,0.8688828647582415
+"AFSC 17S1*, Entry",life cycle,OSN.33,0.8799148960238353
+"AFSC 17S1*, Entry",life cycle,OSN.741,0.8542861007155184
+"AFSC 17S1*, Entry",information technology,ESCO.775,0.8550239828391537
+"AFSC 17S1*, Entry",information technology,OSN.256,0.8604436420129719
+"AFSC 17S1*, Entry",computer engineering,ESCO.128,0.8599207630766728
+"AFSC 17S1*, Entry",computer engineering,ESCO.283,0.8815969999849445
+"AFSC 17S1*, Entry",computer engineering,ESCO.620,0.8629955558723209
+"AFSC 17S1*, Entry",computer engineering,ESCO.693,0.9999999999999998
+"AFSC 17S1*, Entry",computer engineering,ESCO.1108,0.8733540385436934
+"AFSC 17S1*, Entry",computer engineering,OSN.497,0.8622469844097814
+"AFSC 17S1*, Entry",electronics,ESCO.543,0.8783987334079919
+"AFSC 17S1*, Entry",electronics,ESCO.747,1.0
+"AFSC 17S1*, Entry",cyber security,ESCO.645,1.0
+"AFSC 17S1*, Entry",cyber security,OSN.167,0.8516595881226774
+"AFSC 17S1*, Entry",system programming,ESCO.174,0.8575636452551376
+"AFSC 17S1*, Entry",system programming,ESCO.885,0.865856958433592
+"AFSC 17S1*, Entry",communication system,ESCO.138,0.8613776453635091
+"AFSC 17S1*, Entry",communication system,ESCO.1213,0.8713685874056295
+"AFSC 17S1*, Entry",communication system,OSN.779,0.8980496704944054
+"AFSC 17S1*, Entry",operating system,ESCO.590,0.8609716504915395
+"AFSC 17S1*, Entry",operating system,ESCO.754,0.8710895987552983
+"AFSC 17S1*, Entry",operating system,ESCO.978,0.917516845071288
+"AFSC 17S1*, Entry",operating system,ESCO.1245,0.9473643348945084
+"AFSC 17S1*, Entry",operating system,OSN.194,0.9494137022748707
+"AFSC 17S1*, Entry",operating system,OSN.606,0.8859480769740865
+"AFSC 17W1*, Entry",computer science,ESCO.620,1.0
+"AFSC 17W1*, Entry",computer science,ESCO.693,0.8629955558723209
+"AFSC 17W1*, Entry",computer science,ESCO.914,0.9327691562855299
+"AFSC 17W1*, Entry",computer networking,ESCO.169,0.8591851588629419
+"AFSC 17W1*, Entry",operating,ESCO.1245,0.887415991611435
+"AFSC 17W1*, Entry",technical solutions,OSN.259,0.8573961508502241
+"AFSC 17W1*, Entry",technical solutions,OSN.787,0.8504744971610207
+"AFSC 17W1*, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 17W1*, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 17W1*, Entry",systems operations,ESCO.590,0.8506204236299246
+"AFSC 17W1*, Entry",systems operations,ESCO.916,0.8658497528352725
+"AFSC 17W1*, Entry",systems operations,ESCO.1079,0.8658497528352725
+"AFSC 17W1*, Entry",systems operations,ESCO.1245,0.9054963584089815
+"AFSC 17W1*, Entry",information technology,ESCO.775,0.8550239828391537
+"AFSC 17W1*, Entry",information technology,OSN.256,0.8604436420129719
+"AFSC 17W1*, Entry",computer engineering,ESCO.128,0.8599207630766728
+"AFSC 17W1*, Entry",computer engineering,ESCO.283,0.8815969999849445
+"AFSC 17W1*, Entry",computer engineering,ESCO.620,0.8629955558723209
+"AFSC 17W1*, Entry",computer engineering,ESCO.693,0.9999999999999998
+"AFSC 17W1*, Entry",computer engineering,ESCO.1108,0.8733540385436934
+"AFSC 17W1*, Entry",computer engineering,OSN.497,0.8622469844097814
+"AFSC 17W1*, Entry",electronics,ESCO.543,0.8783987334079919
+"AFSC 17W1*, Entry",electronics,ESCO.747,1.0
+"AFSC 17W1*, Entry",information network,ESCO.137,0.8836832562165371
+"AFSC 17W1*, Entry",operating system,ESCO.590,0.8609716504915395
+"AFSC 17W1*, Entry",operating system,ESCO.754,0.8710895987552983
+"AFSC 17W1*, Entry",operating system,ESCO.978,0.917516845071288
+"AFSC 17W1*, Entry",operating system,ESCO.1245,0.9473643348945084
+"AFSC 17W1*, Entry",operating system,OSN.194,0.9494137022748707
+"AFSC 17W1*, Entry",operating system,OSN.606,0.8859480769740865
+"AFSC 17W1*, Entry",systems knowledge,ESCO.89,0.8574499424374012
+"AFSC 17W1*, Entry",systems knowledge,ESCO.544,0.8918696872932534
+"AFSC 17W1*, Entry",systems knowledge,ESCO.916,0.8700771760600725
+"AFSC 17W1*, Entry",systems knowledge,ESCO.1079,0.8700771760600725
+"AFSC 17W1*, Entry",systems knowledge,OSN.497,0.8546745489920347
+"AFSC 17W1*, Entry",systems knowledge,OSN.779,0.8620173832231579
+"AFSC 17Y1*, Entry",computer science,ESCO.620,1.0
+"AFSC 17Y1*, Entry",computer science,ESCO.693,0.8629955558723209
+"AFSC 17Y1*, Entry",computer science,ESCO.914,0.9327691562855299
+"AFSC 17Y1*, Entry",computer network,ESCO.169,0.9154683163306238
+"AFSC 17Y1*, Entry",computer network,OSN.137,0.8731536755745564
+"AFSC 17Y1*, Entry",operational planning,OSN.737,0.8569629005102701
+"AFSC 17Y1*, Entry",operational planning,OSN.795,0.8688828647582415
+"AFSC 17Y1*, Entry",life cycle,OSN.33,0.8799148960238353
+"AFSC 17Y1*, Entry",life cycle,OSN.741,0.8542861007155184
+"AFSC 17Y1*, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 17Y1*, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 17Y1*, Entry",information technology,ESCO.775,0.8550239828391537
+"AFSC 17Y1*, Entry",information technology,OSN.256,0.8604436420129719
+"AFSC 17Y1*, Entry",computer engineering,ESCO.128,0.8599207630766728
+"AFSC 17Y1*, Entry",computer engineering,ESCO.283,0.8815969999849445
+"AFSC 17Y1*, Entry",computer engineering,ESCO.620,0.8629955558723209
+"AFSC 17Y1*, Entry",computer engineering,ESCO.693,0.9999999999999998
+"AFSC 17Y1*, Entry",computer engineering,ESCO.1108,0.8733540385436934
+"AFSC 17Y1*, Entry",computer engineering,OSN.497,0.8622469844097814
+"AFSC 17Y1*, Entry",electronics,ESCO.543,0.8783987334079919
+"AFSC 17Y1*, Entry",electronics,ESCO.747,1.0
+"AFSC 17Y1*, Entry",information network,ESCO.137,0.8836832562165371
+"AFSC 17Y1*, Entry",cyber security,ESCO.645,1.0
+"AFSC 17Y1*, Entry",cyber security,OSN.167,0.8516595881226774
+"AFSC 17Y1*, Entry",system programming,ESCO.174,0.8575636452551376
+"AFSC 17Y1*, Entry",system programming,ESCO.885,0.865856958433592
+"AFSC 17Y1*, Entry",operating system,ESCO.590,0.8609716504915395
+"AFSC 17Y1*, Entry",operating system,ESCO.754,0.8710895987552983
+"AFSC 17Y1*, Entry",operating system,ESCO.978,0.917516845071288
+"AFSC 17Y1*, Entry",operating system,ESCO.1245,0.9473643348945084
+"AFSC 17Y1*, Entry",operating system,OSN.194,0.9494137022748707
+"AFSC 17Y1*, Entry",operating system,OSN.606,0.8859480769740865
+AFSC for the remainder of their career. The 17Y4X skill level is only applied as a member’s Duty AFSC based on position. Officers must,operating,ESCO.1245,0.887415991611435
+AFSC for the remainder of their career. The 17Y4X skill level is only applied as a member’s Duty AFSC based on position. Officers must,systems program,ESCO.1095,0.8609456174241411
+AFSC for the remainder of their career. The 17Y4X skill level is only applied as a member’s Duty AFSC based on position. Officers must,automated systems,ESCO.806,0.8525991574553565
+AFSC for the remainder of their career. The 17Y4X skill level is only applied as a member’s Duty AFSC based on position. Officers must,automated systems,ESCO.916,0.8822130608632807
+AFSC for the remainder of their career. The 17Y4X skill level is only applied as a member’s Duty AFSC based on position. Officers must,automated systems,ESCO.1079,0.8822130608632807
+AFSC for the remainder of their career. The 17Y4X skill level is only applied as a member’s Duty AFSC based on position. Officers must,automated systems,ESCO.1119,0.8723602275431189
+"AFSC 18A1*, Entry/Student",management,ESCO.565,0.8695018190415156
+"AFSC 18A1*, Entry/Student",management,ESCO.888,0.8755034228670598
+"AFSC 18A1*, Entry/Student",operating procedures,OSN.726,0.8622111905939293
+"AFSC 18A1*, Entry/Student",information system,ESCO.265,0.8586308291335879
+"AFSC 18A1*, Entry/Student",information system,ESCO.327,0.8665197101165986
+"AFSC 18A1*, Entry/Student",information system,ESCO.344,0.8544772066707875
+"AFSC 18A1*, Entry/Student",information system,ESCO.355,0.8696035922491209
+"AFSC 18A1*, Entry/Student",information system,ESCO.813,0.8604280810149119
+"AFSC 18A1*, Entry/Student",information system,ESCO.818,0.9072530569233033
+"AFSC 18A1*, Entry/Student",information system,OSN.524,0.9212522530743671
+"AFSC 18E1*, Entry/Student",evaluation project,ESCO.565,0.8552316699420164
+"AFSC 18E1*, Entry/Student",test procedures,ESCO.371,0.9999999999999998
+"AFSC 18E1*, Entry/Student",test procedures,OSN.726,0.8644606740872863
+"AFSC 18E1*, Entry/Student",research,OSN.260,0.8794616282740241
+"AFSC 18E1*, Entry/Student",research,OSN.626,0.8893910384657686
+"AFSC 18E1*, Entry/Student",information system,ESCO.265,0.8586308291335879
+"AFSC 18E1*, Entry/Student",information system,ESCO.327,0.8665197101165986
+"AFSC 18E1*, Entry/Student",information system,ESCO.344,0.8544772066707875
+"AFSC 18E1*, Entry/Student",information system,ESCO.355,0.8696035922491209
+"AFSC 18E1*, Entry/Student",information system,ESCO.813,0.8604280810149119
+"AFSC 18E1*, Entry/Student",information system,ESCO.818,0.9072530569233033
+"AFSC 18E1*, Entry/Student",information system,OSN.524,0.9212522530743671
+"AFSC 18G3, Qualified",information system,ESCO.265,0.8586308291335879
+"AFSC 18G3, Qualified",information system,ESCO.327,0.8665197101165986
+"AFSC 18G3, Qualified",information system,ESCO.344,0.8544772066707875
+"AFSC 18G3, Qualified",information system,ESCO.355,0.8696035922491209
+"AFSC 18G3, Qualified",information system,ESCO.813,0.8604280810149119
+"AFSC 18G3, Qualified",information system,ESCO.818,0.9072530569233033
+"AFSC 18G3, Qualified",information system,OSN.524,0.9212522530743671
+"AFSC 18R1*, Entry/Student",management,ESCO.565,0.8695018190415156
+"AFSC 18R1*, Entry/Student",management,ESCO.888,0.8755034228670598
+"AFSC 18R1*, Entry/Student",operating procedures,OSN.726,0.8622111905939293
+"AFSC 18R1*, Entry/Student",information system,ESCO.265,0.8586308291335879
+"AFSC 18R1*, Entry/Student",information system,ESCO.327,0.8665197101165986
+"AFSC 18R1*, Entry/Student",information system,ESCO.344,0.8544772066707875
+"AFSC 18R1*, Entry/Student",information system,ESCO.355,0.8696035922491209
+"AFSC 18R1*, Entry/Student",information system,ESCO.813,0.8604280810149119
+"AFSC 18R1*, Entry/Student",information system,ESCO.818,0.9072530569233033
+"AFSC 18R1*, Entry/Student",information system,OSN.524,0.9212522530743671
+"AFSC 18S1*, Entry/Student",management,ESCO.565,0.8695018190415156
+"AFSC 18S1*, Entry/Student",management,ESCO.888,0.8755034228670598
+"AFSC 18S1*, Entry/Student",operating procedures,OSN.726,0.8622111905939293
+"AFSC 18S1*, Entry/Student",information system,ESCO.265,0.8586308291335879
+"AFSC 18S1*, Entry/Student",information system,ESCO.327,0.8665197101165986
+"AFSC 18S1*, Entry/Student",information system,ESCO.344,0.8544772066707875
+"AFSC 18S1*, Entry/Student",information system,ESCO.355,0.8696035922491209
+"AFSC 18S1*, Entry/Student",information system,ESCO.813,0.8604280810149119
+"AFSC 18S1*, Entry/Student",information system,ESCO.818,0.9072530569233033
+"AFSC 18S1*, Entry/Student",information system,OSN.524,0.9212522530743671
+"AFSC 19Z1*, Entry",system requirements,ESCO.1010,0.8557861090304619
+"AFSC 19Z1*, Entry",operational planning,OSN.737,0.8569629005102701
+"AFSC 19Z1*, Entry",operational planning,OSN.795,0.8688828647582415
+"AFSC 19Z1*, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 19Z1*, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 19Z1*, Entry",coordination,OSN.345,0.8696678881923361
+"AFSC 19Z1*, Entry",coordination,OSN.880,0.8676778378075425
+"AFSC 19Z1*, Entry",specific requirements,OSN.526,0.865498128656958
+"AFSC 19Z1*, Entry",system policy,ESCO.35,0.8646382618809602
+"AFSC 19Z1*, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 19Z1*, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 19Z1*, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 19Z1*, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 19Z1*, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 19Z1*, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 19Z1*, Entry",information system,OSN.524,0.9212522530743671
+AFSC 20C0,management engineering,OSN.497,0.8660543137296074
+AFSC 20C0,control production,ESCO.472,0.8890554839456292
+AFSC 20C0,production management,ESCO.799,0.8564815396311227
+AFSC 20C0,production management,ESCO.899,0.8712825786174853
+AFSC 20C0,operating,ESCO.1245,0.887415991611435
+AFSC 20C0,quality control,ESCO.1064,0.9285217765364738
+AFSC 20C0,quality control,OSN.239,0.8976535560558113
+AFSC 20C0,quality control,OSN.240,0.8810997399187169
+AFSC 20C0,operating systems,ESCO.590,0.8829823632919835
+AFSC 20C0,operating systems,ESCO.754,0.924998869451397
+AFSC 20C0,operating systems,ESCO.916,0.9024515147271578
+AFSC 20C0,operating systems,ESCO.978,0.8725485118865411
+AFSC 20C0,operating systems,ESCO.1079,0.9024515147271578
+AFSC 20C0,operating systems,ESCO.1245,1.0
+AFSC 20C0,operating systems,OSN.194,0.899528145013172
+AFSC 20C0,operating systems,OSN.606,0.8536155500075124
+AFSC 20C0,calibration,OSN.774,0.8601199398155652
+AFSC 20C0,programming,ESCO.174,0.8672291704754024
+AFSC 20C0,programming,ESCO.522,0.8587864813675486
+AFSC 20C0,coordination,OSN.345,0.8696678881923361
+AFSC 20C0,coordination,OSN.880,0.8676778378075425
+AFSC 20C0,research,OSN.260,0.8794616282740241
+AFSC 20C0,research,OSN.626,0.8893910384657686
+"AFSC 21A1, Entry",resource management,OSN.392,0.8738970556485081
+"AFSC 21A1, Entry",operating,ESCO.1245,0.887415991611435
+"AFSC 21A1, Entry",life cycle,OSN.33,0.8799148960238353
+"AFSC 21A1, Entry",life cycle,OSN.741,0.8542861007155184
+"AFSC 21A1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 21A1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 21A1, Entry",system data,ESCO.766,0.876570242797174
+"AFSC 21A1, Entry",system data,ESCO.843,0.8592038824353458
+"AFSC 21A1, Entry",system data,ESCO.1211,0.8557742570270277
+"AFSC 21A1, Entry",system data,OSN.342,0.9162508549801118
+"AFSC 21A1, Entry",system data,OSN.524,0.8682166149993654
+"AFSC 21A1, Entry",system data,OSN.662,0.8502490578625231
+"AFSC 21A1, Entry",distribution systems,ESCO.97,0.8752155082819884
+"AFSC 21A1, Entry",distribution systems,ESCO.916,0.8833853073460545
+"AFSC 21A1, Entry",distribution systems,ESCO.1079,0.8833853073460545
+"AFSC 21A1, Entry",distribution systems,ESCO.1245,0.8510038570845553
+"AFSC 21A1, Entry",operational plans,OSN.795,0.8891402005058674
+"AFSC 21A1, Entry",automated systems,ESCO.806,0.8525991574553565
+"AFSC 21A1, Entry",automated systems,ESCO.916,0.8822130608632807
+"AFSC 21A1, Entry",automated systems,ESCO.1079,0.8822130608632807
+"AFSC 21A1, Entry",automated systems,ESCO.1119,0.8723602275431189
+"AFSC 21M1*, Entry",application,OSN.520,0.8595942574847326
+"AFSC 21M1*, Entry",production control,ESCO.472,0.8890554839456292
+"AFSC 21M1*, Entry",calibration,OSN.774,0.8601199398155652
+"AFSC 21M1*, Entry",operational system,ESCO.1245,0.8671413095111309
+"AFSC 21M1*, Entry",operational system,OSN.194,0.8751365341987644
+"AFSC 21M1*, Entry",life cycle management,ESCO.47,0.8859727097687923
+"AFSC 21M1*, Entry",life cycle management,OSN.33,0.9141974059940611
+"AFSC 21M1*, Entry",life cycle management,OSN.741,0.9310741875362627
+"AFSC 21M1*, Entry",life cycle management,OSN.815,0.9468582143691815
+"AFSC 21M1*, Entry",data collection,ESCO.843,0.8641756643522474
+"AFSC 21M1*, Entry",systems,ESCO.84,0.8691140588257024
+"AFSC 21M1*, Entry",systems,ESCO.89,0.8530845077689144
+"AFSC 21M1*, Entry",systems,ESCO.172,0.8671411242371148
+"AFSC 21M1*, Entry",systems,ESCO.387,0.8873658517124692
+"AFSC 21M1*, Entry",systems,ESCO.916,1.0
+"AFSC 21M1*, Entry",systems,ESCO.962,0.8509341762650352
+"AFSC 21M1*, Entry",systems,ESCO.1079,1.0
+"AFSC 21M1*, Entry",systems,ESCO.1245,0.9024515147271578
+"AFSC 21M1*, Entry",systems,OSN.497,0.879669698758397
+"AFSC 21M1*, Entry",system data,ESCO.766,0.876570242797174
+"AFSC 21M1*, Entry",system data,ESCO.843,0.8592038824353458
+"AFSC 21M1*, Entry",system data,ESCO.1211,0.8557742570270277
+"AFSC 21M1*, Entry",system data,OSN.342,0.9162508549801118
+"AFSC 21M1*, Entry",system data,OSN.524,0.8682166149993654
+"AFSC 21M1*, Entry",system data,OSN.662,0.8502490578625231
+"AFSC 21M1*, Entry",storage,ESCO.841,0.8726481249703989
+"AFSC 21M1*, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 21M1*, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 21M1*, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 21M1*, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 21M1*, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 21M1*, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 21M1*, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 21M1*, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 21M1*, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 21M1*, Entry",operational data,OSN.662,0.8554388727443808
+"AFSC 21R1, Entry",problem solve,ESCO.116,0.881449686012299
+"AFSC 21R1, Entry",problem solve,OSN.146,0.8600250530332342
+"AFSC 21R1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 21R1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 21R1, Entry",hazardous material,OSN.808,0.9375389243282091
+"AFSC 21R1, Entry",prioritizing requirements,OSN.522,0.8549999289562409
+"AFSC 21R1, Entry",information management,ESCO.187,0.9008854686635074
+"AFSC 21R1, Entry",information management,ESCO.355,0.8625596381389595
+"AFSC 21R1, Entry",information management,ESCO.1133,0.863138509933319
+"AFSC 21R1, Entry",information management,OSN.212,0.8546443412652351
+"AFSC 21R1, Entry",information management,OSN.392,0.8502241313142549
+"AFSC 21R1, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 21R1, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 21R1, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 21R1, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 21R1, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 21R1, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 21R1, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 21R1, Entry",coordination,OSN.345,0.8696678881923361
+"AFSC 21R1, Entry",coordination,OSN.880,0.8676778378075425
+"AFSC 21R1, Entry",based model,ESCO.190,0.8701903057274598
+"AFSC 21R1, Entry",life cycle management,ESCO.47,0.8859727097687923
+"AFSC 21R1, Entry",life cycle management,OSN.33,0.9141974059940611
+"AFSC 21R1, Entry",life cycle management,OSN.741,0.9310741875362627
+"AFSC 21R1, Entry",life cycle management,OSN.815,0.9468582143691815
+AFSC 30C0,resource management,OSN.392,0.8738970556485081
+AFSC 30C0,resolve problems,ESCO.116,0.8562430821647209
+AFSC 30C0,access control,ESCO.468,0.902374587193192
+AFSC 30C0,management,ESCO.565,0.8695018190415156
+AFSC 30C0,management,ESCO.888,0.8755034228670598
+AFSC 30C0,information management,ESCO.187,0.9008854686635074
+AFSC 30C0,information management,ESCO.355,0.8625596381389595
+AFSC 30C0,information management,ESCO.1133,0.863138509933319
+AFSC 30C0,information management,OSN.212,0.8546443412652351
+AFSC 30C0,information management,OSN.392,0.8502241313142549
+AFSC 30C0,storage,ESCO.841,0.8726481249703989
+"AFSC 31P1, Entry",information security,ESCO.102,0.9207840641382384
+"AFSC 31P1, Entry",information security,ESCO.355,0.8589164930496405
+"AFSC 31P1, Entry",information security,OSN.545,0.8659374075298911
+"AFSC 31P1, Entry",risk management,ESCO.73,0.9117236023052322
+"AFSC 31P1, Entry",risk management,ESCO.523,0.8677816101948859
+"AFSC 31P1, Entry",operate,ESCO.528,1.0
+"AFSC 31P1, Entry",policy development,OSN.313,0.8560578025798917
+"AFSC 31P1, Entry",programming,ESCO.174,0.8672291704754024
+"AFSC 31P1, Entry",programming,ESCO.522,0.8587864813675486
+"AFSC 31P1, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 31P1, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 31P1, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 31P1, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 31P1, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 31P1, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 31P1, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 31P1, Entry",access control,ESCO.468,0.902374587193192
+"AFSC 31P1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 31P1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 31P1, Entry",communication,OSN.880,0.869581701610172
+"AFSC 31P1, Entry",management process,ESCO.1066,0.8959877489930897
+"AFSC 31P1, Entry",management process,OSN.207,0.8519644771990639
+"AFSC 31P1, Entry",management process,OSN.208,0.8510593704423467
+"AFSC 31P1, Entry",management process,OSN.403,0.8529351814994482
+"AFSC 31P1, Entry",management process,OSN.718,0.9358645955398364
+"AFSC 31P1, Entry",management process,OSN.914,0.8618130453522522
+"AFSC 31P1, Entry",management system,ESCO.57,0.9082693950314953
+"AFSC 31P1, Entry",management system,ESCO.212,0.854559943034673
+"AFSC 31P1, Entry",management system,ESCO.355,0.8730153867192301
+"AFSC 31P1, Entry",management system,ESCO.429,0.8804923595458293
+"AFSC 31P1, Entry",management system,ESCO.544,0.8916040602818563
+"AFSC 31P1, Entry",management system,ESCO.577,0.8598166035231021
+"AFSC 31P1, Entry",management system,ESCO.623,0.8762295716213493
+"AFSC 31P1, Entry",management system,ESCO.806,0.8771014450570092
+"AFSC 31P1, Entry",management system,ESCO.854,0.9022233934996228
+"AFSC 31P1, Entry",management system,ESCO.888,0.9156727923169569
+"AFSC 31P1, Entry",management system,ESCO.1062,0.8740653778680105
+"AFSC 31P1, Entry",management system,ESCO.1200,0.8598625963924907
+"AFSC 31P1, Entry",management system,ESCO.1246,0.8952853110614464
+"AFSC 31P1, Entry",management system,OSN.914,0.8923463687135205
+"AFSC 32E1*, Entry",engineering research,OSN.260,0.8948780299362893
+"AFSC 32E1*, Entry",operate,ESCO.528,1.0
+"AFSC 32E1*, Entry",programming,ESCO.174,0.8672291704754024
+"AFSC 32E1*, Entry",programming,ESCO.522,0.8587864813675486
+"AFSC 32E1*, Entry",operating,ESCO.1245,0.887415991611435
+"AFSC 32E1*, Entry",construction management,ESCO.565,0.8500836023909195
+"AFSC 32E1*, Entry",professional development,OSN.833,0.9046534273219238
+"AFSC 32E1*, Entry",support services,OSN.633,0.8852825036951814
+"AFSC 32E1*, Entry",coordination,OSN.345,0.8696678881923361
+"AFSC 32E1*, Entry",coordination,OSN.880,0.8676778378075425
+"AFSC 32E1*, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 32E1*, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 32E1*, Entry",project management,ESCO.55,0.9047207190026498
+"AFSC 32E1*, Entry",project management,ESCO.565,1.0
+"AFSC 32E1*, Entry",project management,ESCO.745,0.8849515037575905
+"AFSC 32E1*, Entry",project management,ESCO.952,0.8630394595331526
+"AFSC 32E1*, Entry",project management,ESCO.1093,0.9030748525178932
+"AFSC 35B1, Entry",music industry,ESCO.182,0.9081467317170453
+"AFSC 35B1, Entry",operating environments,ESCO.1245,0.8559729349874884
+"AFSC 35B1, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 35B1, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 35B1, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 35B1, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 35B1, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 35B1, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 35B1, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 35P1, Entry",resource management,OSN.392,0.8738970556485081
+"AFSC 35P1, Entry",file,ESCO.292,0.9012743543182251
+"AFSC 35P1, Entry",operational planning,OSN.737,0.8569629005102701
+"AFSC 35P1, Entry",operational planning,OSN.795,0.8688828647582415
+"AFSC 35P1, Entry",analytics,ESCO.101,0.8854834237449971
+"AFSC 35P1, Entry",analytics,ESCO.123,0.8672838725575737
+"AFSC 35P1, Entry",analytics,ESCO.757,0.8630345162170742
+"AFSC 35P1, Entry",analytics,ESCO.761,0.8655750657481555
+"AFSC 35P1, Entry",operating environments,ESCO.1245,0.8559729349874884
+"AFSC 35P1, Entry",communication,OSN.880,0.869581701610172
+"AFSC 35P1, Entry",collection management,ESCO.477,0.9133565545469423
+"AFSC 35P1, Entry",planning operational,OSN.737,0.8569629005102701
+"AFSC 35P1, Entry",planning operational,OSN.795,0.8688828647582415
+"AFSC 35P1, Entry",coordination,OSN.345,0.8696678881923361
+"AFSC 35P1, Entry",coordination,OSN.880,0.8676778378075425
+"AFSC 35P1, Entry",research,OSN.260,0.8794616282740241
+"AFSC 35P1, Entry",research,OSN.626,0.8893910384657686
+"AFSC 35P1, Entry",operate,ESCO.528,1.0
+"AFSC 35P1, Entry",visual,ESCO.110,0.8562017974949482
+"AFSC 35P1, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 35P1, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 35P1, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 35P1, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 35P1, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 35P1, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 35P1, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 38F1, Entry",resource management,OSN.392,0.8738970556485081
+"AFSC 38F1, Entry",management engineering,OSN.497,0.8660543137296074
+"AFSC 38F1, Entry",services management,ESCO.187,0.9019482626460914
+"AFSC 38F1, Entry",requirements manage,OSN.526,0.852200558960636
+"AFSC 38F1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 38F1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 38F1, Entry",analytics,ESCO.101,0.8854834237449971
+"AFSC 38F1, Entry",analytics,ESCO.123,0.8672838725575737
+"AFSC 38F1, Entry",analytics,ESCO.757,0.8630345162170742
+"AFSC 38F1, Entry",analytics,ESCO.761,0.8655750657481555
+"AFSC 38F1, Entry",process improvement,OSN.207,0.8695173919593455
+"AFSC 38F1, Entry",process improvement,OSN.208,0.8846013731998315
+"AFSC 38F1, Entry",process improvement,OSN.403,0.874387740948418
+"AFSC 38F1, Entry",process improvement,OSN.731,0.8826585477248063
+"AFSC 38F1, Entry",human resources,OSN.61,0.9015403550712722
+"AFSC 38F1, Entry",execution process,OSN.35,0.8638526447742809
+"AFSC 38F1, Entry",coordination,OSN.345,0.8696678881923361
+"AFSC 38F1, Entry",coordination,OSN.880,0.8676778378075425
+"AFSC 38F1, Entry",health management,ESCO.945,0.8599608694852375
+"AFSC 38F1, Entry",programming,ESCO.174,0.8672291704754024
+"AFSC 38F1, Entry",programming,ESCO.522,0.8587864813675486
+AFSC 40C0,resource management,OSN.392,0.8738970556485081
+AFSC 40C0,operational control,ESCO.590,0.8574514520799683
+AFSC 40C0,health system,ESCO.406,0.8611638424167442
+AFSC 40C0,system design,ESCO.19,0.8542035492933662
+AFSC 40C0,system design,ESCO.485,0.8736733271654611
+AFSC 40C0,system design,ESCO.818,0.9285853332782271
+AFSC 40C0,system design,ESCO.962,0.9445428923641148
+AFSC 40C0,system design,ESCO.1063,0.9234061661350829
+AFSC 40C0,system design,ESCO.1249,1.0
+AFSC 40C0,system design,ESCO.1274,0.8751565121330255
+AFSC 40C0,system design,OSN.316,0.881847787261795
+AFSC 40C0,system design,OSN.341,0.9347039998359283
+AFSC 40C0,system design,OSN.342,0.9117293229192198
+AFSC 40C0,system design,OSN.397,0.8748397364124468
+AFSC 40C0,system design,OSN.722,0.8782688236118904
+AFSC 40C0,resolve problems,ESCO.116,0.8562430821647209
+AFSC 40C0,management,ESCO.565,0.8695018190415156
+AFSC 40C0,management,ESCO.888,0.8755034228670598
+AFSC 40C0,information management,ESCO.187,0.9008854686635074
+AFSC 40C0,information management,ESCO.355,0.8625596381389595
+AFSC 40C0,information management,ESCO.1133,0.863138509933319
+AFSC 40C0,information management,OSN.212,0.8546443412652351
+AFSC 40C0,information management,OSN.392,0.8502241313142549
+AFSC 40C0,communication,OSN.880,0.869581701610172
+AFSC 40C0,service management,ESCO.187,0.8648778623919361
+AFSC 40C0,data systems,ESCO.484,0.8683090708290517
+AFSC 40C0,data systems,ESCO.766,0.9219889059152556
+AFSC 40C0,data systems,ESCO.843,0.8943131242147567
+AFSC 40C0,data systems,ESCO.854,0.8723975089976442
+AFSC 40C0,data systems,ESCO.916,0.853753262684711
+AFSC 40C0,data systems,ESCO.1006,0.8561895244259031
+AFSC 40C0,data systems,ESCO.1079,0.853753262684711
+AFSC 40C0,data systems,OSN.342,0.8915169564813274
+AFSC 40C0,health management,ESCO.945,0.8599608694852375
+AFSC 40C0,facility management,ESCO.531,0.8679695862208204
+AFSC 40C0,programming,ESCO.174,0.8672291704754024
+AFSC 40C0,programming,ESCO.522,0.8587864813675486
+"AFSC 41A1*, Entry",facility management,ESCO.531,0.8679695862208204
+"AFSC 41A1*, Entry",resource management,OSN.392,0.8738970556485081
+"AFSC 41A1*, Entry",information technology architecture,ESCO.145,0.9281748002988472
+"AFSC 41A1*, Entry",information technology architecture,OSN.136,0.8736958187502673
+"AFSC 41A1*, Entry",information technology architecture,OSN.255,0.8562883747693616
+"AFSC 41A1*, Entry",information technology,ESCO.775,0.8550239828391537
+"AFSC 41A1*, Entry",information technology,OSN.256,0.8604436420129719
+"AFSC 41A1*, Entry",information management,ESCO.187,0.9008854686635074
+"AFSC 41A1*, Entry",information management,ESCO.355,0.8625596381389595
+"AFSC 41A1*, Entry",information management,ESCO.1133,0.863138509933319
+"AFSC 41A1*, Entry",information management,OSN.212,0.8546443412652351
+"AFSC 41A1*, Entry",information management,OSN.392,0.8502241313142549
+"AFSC 41A1*, Entry",health information management,ESCO.187,0.8516065337225691
+"AFSC 41A1*, Entry",health information management,ESCO.406,0.854350501200702
+"AFSC 41A1*, Entry",management management,ESCO.565,0.8695018190415156
+"AFSC 41A1*, Entry",management management,ESCO.888,0.8755034228670598
+"AFSC 41A1*, Entry",construction management,ESCO.565,0.8500836023909195
+"AFSC 41A1*, Entry",process improvement,OSN.207,0.8695173919593455
+"AFSC 41A1*, Entry",process improvement,OSN.208,0.8846013731998315
+"AFSC 41A1*, Entry",process improvement,OSN.403,0.874387740948418
+"AFSC 41A1*, Entry",process improvement,OSN.731,0.8826585477248063
+"AFSC 41A1*, Entry",service management,ESCO.187,0.8648778623919361
+"AFSC 41A1*, Entry",health information technology,ESCO.125,0.8561043604314909
+"AFSC 41A1*, Entry",health information technology,ESCO.775,0.8525988072462664
+"AFSC 41A1*, Entry",health information technology,ESCO.945,0.902882411711713
+"AFSC 41A1*, Entry",health information technology,OSN.256,0.854020670556511
+"AFSC 41A1*, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 41A1*, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 41A1*, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 41A1*, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 41A1*, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 41A1*, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 41A1*, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 41A1*, Entry",health management,ESCO.945,0.8599608694852375
+"AFSC 41A1*, Entry",health management health,ESCO.945,0.8660820871205864
+"AFSC 41A1*, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 41A1*, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 41A1*, Entry",plan management,ESCO.565,0.8557937366866166
+"AFSC 41A1*, Entry",systems engineering,ESCO.19,0.8660868526364688
+"AFSC 41A1*, Entry",systems engineering,ESCO.84,0.8595516357082904
+"AFSC 41A1*, Entry",systems engineering,ESCO.283,0.8807750743307505
+"AFSC 41A1*, Entry",systems engineering,ESCO.693,0.8622469844097814
+"AFSC 41A1*, Entry",systems engineering,ESCO.916,0.879669698758397
+"AFSC 41A1*, Entry",systems engineering,ESCO.955,0.8536950900411474
+"AFSC 41A1*, Entry",systems engineering,ESCO.962,0.8577255345543735
+"AFSC 41A1*, Entry",systems engineering,ESCO.1079,0.879669698758397
+"AFSC 41A1*, Entry",systems engineering,OSN.497,0.9999999999999998
+"AFSC 41A1*, Entry",business management,OSN.738,0.8613423123824538
+"AFSC 42B1*, Entry",performance optimization,OSN.373,0.8501661274173918
+"AFSC 42B1*, Entry",peer review,OSN.231,0.8824251394460687
+"AFSC 42B1*, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 42B1*, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 42B1*, Entry",medical equipment,ESCO.705,0.9077943569851638
+"AFSC 42B1*, Entry",research,OSN.260,0.8794616282740241
+"AFSC 42B1*, Entry",research,OSN.626,0.8893910384657686
+"AFSC 42B1*, Entry",programming,ESCO.174,0.8672291704754024
+"AFSC 42B1*, Entry",programming,ESCO.522,0.8587864813675486
+"AFSC 42E1, Entry",business plan,ESCO.1173,0.8836921306247338
+"AFSC 42E1, Entry",visual,ESCO.110,0.8562017974949482
+"AFSC 42E1, Entry",operating,ESCO.1245,0.887415991611435
+"AFSC 42E1, Entry",process improvement,OSN.207,0.8695173919593455
+"AFSC 42E1, Entry",process improvement,OSN.208,0.8846013731998315
+"AFSC 42E1, Entry",process improvement,OSN.403,0.874387740948418
+"AFSC 42E1, Entry",process improvement,OSN.731,0.8826585477248063
+"AFSC 42E1, Entry",coordination,OSN.345,0.8696678881923361
+"AFSC 42E1, Entry",coordination,OSN.880,0.8676778378075425
+"AFSC 42E1, Entry",research,OSN.260,0.8794616282740241
+"AFSC 42E1, Entry",research,OSN.626,0.8893910384657686
+"AFSC 42E1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 42E1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 42F1, Entry",clinical research,ESCO.422,0.8910332120513683
+"AFSC 42F1, Entry",research,OSN.260,0.8794616282740241
+"AFSC 42F1, Entry",research,OSN.626,0.8893910384657686
+"AFSC 42G1*, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 42G1*, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 42G1*, Entry",medical equipment,ESCO.705,0.9077943569851638
+"AFSC 42G1*, Entry",education research,ESCO.605,0.8530302589284945
+"AFSC 42N1, Entry",clinical research,ESCO.422,0.8910332120513683
+"AFSC 42P1*, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 42P1*, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 42P1*, Entry",clinical research,ESCO.422,0.8910332120513683
+"AFSC 42P1*, Entry",research,OSN.260,0.8794616282740241
+"AFSC 42P1*, Entry",research,OSN.626,0.8893910384657686
+"AFSC 42P3C, a doctorate plus successful completion of 2-year post-",research,OSN.260,0.8794616282740241
+"AFSC 42P3C, a doctorate plus successful completion of 2-year post-",research,OSN.626,0.8893910384657686
+"AFSC 42S1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 42S1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 42S1, Entry",social work,ESCO.1081,0.8848178210172346
+"AFSC 42S1, Entry",research,OSN.260,0.8794616282740241
+"AFSC 42S1, Entry",research,OSN.626,0.8893910384657686
+"AFSC 42T1, Entry",electronic system,ESCO.406,0.8500016440774886
+"AFSC 42T1, Entry",electronic system,ESCO.1274,0.8816001131103344
+"AFSC 42T1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 42T1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 42T1, Entry",clinical research,ESCO.422,0.8910332120513683
+"AFSC 42T1, Entry",process improvement,OSN.207,0.8695173919593455
+"AFSC 42T1, Entry",process improvement,OSN.208,0.8846013731998315
+"AFSC 42T1, Entry",process improvement,OSN.403,0.874387740948418
+"AFSC 42T1, Entry",process improvement,OSN.731,0.8826585477248063
+"AFSC 42T1, Entry",assistive technology,ESCO.81,0.8720361728895674
+"AFSC 42T1, Entry",research,OSN.260,0.8794616282740241
+"AFSC 42T1, Entry",research,OSN.626,0.8893910384657686
+"AFSC 43B3, Qualified",operating,ESCO.1245,0.887415991611435
+"AFSC 43B3, Qualified",research clinical,ESCO.422,0.8910332120513683
+"AFSC 43B3, Qualified",scientific data,ESCO.1186,0.9264431826497307
+"AFSC 43B3, Qualified",information system,ESCO.265,0.8586308291335879
+"AFSC 43B3, Qualified",information system,ESCO.327,0.8665197101165986
+"AFSC 43B3, Qualified",information system,ESCO.344,0.8544772066707875
+"AFSC 43B3, Qualified",information system,ESCO.355,0.8696035922491209
+"AFSC 43B3, Qualified",information system,ESCO.813,0.8604280810149119
+"AFSC 43B3, Qualified",information system,ESCO.818,0.9072530569233033
+"AFSC 43B3, Qualified",information system,OSN.524,0.9212522530743671
+"AFSC 43D1, Entry",safety standard,OSN.805,0.8646772889960461
+"AFSC 43D1, Entry",service management,ESCO.187,0.8648778623919361
+"AFSC 43D1, Entry",research,OSN.260,0.8794616282740241
+"AFSC 43D1, Entry",research,OSN.626,0.8893910384657686
+"AFSC 43D1, Entry",environmental assessment,OSN.750,0.8739633622828479
+"AFSC 43D1, Entry",environmental assessment,OSN.751,0.9102991965522481
+"AFSC 43E1*, Entry",safety standard,OSN.805,0.8646772889960461
+"AFSC 43E1*, Entry",chemistry,ESCO.1068,0.8532644134081168
+"AFSC 43E1*, Entry",engineering biology,ESCO.1142,0.8513712455392001
+"AFSC 43E1*, Entry",risk management,ESCO.73,0.9117236023052322
+"AFSC 43E1*, Entry",risk management,ESCO.523,0.8677816101948859
+"AFSC 43E1*, Entry",operate,ESCO.528,1.0
+"AFSC 43E1*, Entry",r,ESCO.396,1.0
+"AFSC 43E1*, Entry",health risk assessment,ESCO.945,0.8788703288984689
+"AFSC 43E1*, Entry",research,OSN.260,0.8794616282740241
+"AFSC 43E1*, Entry",research,OSN.626,0.8893910384657686
+"AFSC 43E1*, Entry",storage,ESCO.841,0.8726481249703989
+"AFSC 43E1*, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 43E1*, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 43E1*, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 43E1*, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 43E1*, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 43E1*, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 43E1*, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 43H1*, Entry",biology,ESCO.1142,0.8836741301971208
+"AFSC 43H1*, Entry",research report,OSN.626,0.8514372175100421
+"AFSC 43H1*, Entry",operating,ESCO.1245,0.887415991611435
+"AFSC 43H1*, Entry",environmental impact,OSN.751,0.8527716624338565
+"AFSC 43H1*, Entry",coordination,OSN.345,0.8696678881923361
+"AFSC 43H1*, Entry",coordination,OSN.880,0.8676778378075425
+"AFSC 43H1*, Entry",storage,ESCO.841,0.8726481249703989
+"AFSC 43H1*, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 43H1*, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 43H1*, Entry",statistical method,ESCO.268,0.8577792851432878
+"AFSC 43H1*, Entry",statistical method,ESCO.1192,0.8515756561631499
+"AFSC 43P1*, Entry",distribution system,ESCO.97,0.9033351209665319
+"AFSC 43P1*, Entry",distribution systems,ESCO.97,0.8752155082819884
+"AFSC 43P1*, Entry",distribution systems,ESCO.916,0.8833853073460545
+"AFSC 43P1*, Entry",distribution systems,ESCO.1079,0.8833853073460545
+"AFSC 43P1*, Entry",distribution systems,ESCO.1245,0.8510038570845553
+"AFSC 43P1*, Entry",business plans,ESCO.1173,0.8850919872827029
+"AFSC 43P1*, Entry",research,OSN.260,0.8794616282740241
+"AFSC 43P1*, Entry",research,OSN.626,0.8893910384657686
+"AFSC 43P1*, Entry",storage,ESCO.841,0.8726481249703989
+"AFSC 43T1*, Entry",chemistry,ESCO.1068,0.8532644134081168
+"AFSC 43T1*, Entry",calibration,OSN.774,0.8601199398155652
+"AFSC 43T1*, Entry",research development,OSN.260,0.8562478069987304
+"AFSC 43T1*, Entry",quality control,ESCO.1064,0.9285217765364738
+"AFSC 43T1*, Entry",quality control,OSN.239,0.8976535560558113
+"AFSC 43T1*, Entry",quality control,OSN.240,0.8810997399187169
+"AFSC 43T1*, Entry",molecular biology,ESCO.1142,0.8718905956818169
+"AFSC 43T1*, Entry",automation,ESCO.1221,0.882354420178672
+"AFSC 43T1*, Entry",service management,ESCO.187,0.8648778623919361
+"AFSC 43T1*, Entry",business plans,ESCO.1173,0.8850919872827029
+"AFSC 43T1*, Entry",research,OSN.260,0.8794616282740241
+"AFSC 43T1*, Entry",research,OSN.626,0.8893910384657686
+"AFSC 43T1*, Entry",development testing,OSN.28,0.8735866575255213
+"AFSC 43T1*, Entry",development testing,OSN.414,0.8690216799678877
+"AFSC 43T1*, Entry",development testing,OSN.493,0.8804627430639227
+"AFSC 43T1*, Entry",development testing,OSN.817,0.9237100983009885
+"AFSC 43T1*, Entry",statistical method,ESCO.268,0.8577792851432878
+"AFSC 43T1*, Entry",statistical method,ESCO.1192,0.8515756561631499
+"AFSC 44A1, Entry",operating,ESCO.1245,0.887415991611435
+"AFSC 44A1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 44A1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 44A1, Entry",risk management,ESCO.73,0.9117236023052322
+"AFSC 44A1, Entry",risk management,ESCO.523,0.8677816101948859
+AFSC 44B1 Entry,health service research,ESCO.945,0.8544241287276588
+AFSC 44B1 Entry,working environments,ESCO.912,0.8699873581714358
+AFSC 44B1 Entry,information management,ESCO.187,0.9008854686635074
+AFSC 44B1 Entry,information management,ESCO.355,0.8625596381389595
+AFSC 44B1 Entry,information management,ESCO.1133,0.863138509933319
+AFSC 44B1 Entry,information management,OSN.212,0.8546443412652351
+AFSC 44B1 Entry,information management,OSN.392,0.8502241313142549
+AFSC 44B1 Entry,health information management,ESCO.187,0.8516065337225691
+AFSC 44B1 Entry,health information management,ESCO.406,0.854350501200702
+AFSC 44B1 Entry,research,OSN.260,0.8794616282740241
+AFSC 44B1 Entry,research,OSN.626,0.8893910384657686
+AFSC 44B1 Entry,work environments,ESCO.912,0.8765398556189897
+"AFSC 44E1*, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 44E1*, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 44E1*, Entry",disaster planning,ESCO.504,0.8563380711772598
+"AFSC 44E1*, Entry",disaster management,ESCO.504,0.8521776403159036
+"AFSC 44F1*, Entry",operating,ESCO.1245,0.887415991611435
+"AFSC 44G1, Entry",operating,ESCO.1245,0.887415991611435
+"AFSC 44H1, Entry",quality control,ESCO.1064,0.9285217765364738
+"AFSC 44H1, Entry",quality control,OSN.239,0.8976535560558113
+"AFSC 44H1, Entry",quality control,OSN.240,0.8810997399187169
+"AFSC 44H1, Entry",data processing,ESCO.143,0.8912329905815356
+"AFSC 44H1, Entry",data processing,ESCO.1211,0.8988190962308036
+"AFSC 44H1, Entry",data processing,ESCO.1243,0.8922206145438024
+"AFSC 44H1, Entry",data processing,OSN.482,1.0
+"AFSC 44H1, Entry",data processing,OSN.651,0.9263726594798707
+"AFSC 44H1, Entry",data processing,OSN.810,0.8568116502747068
+"AFSC 44J1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 44J1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 44O3, Qualified",process improvement,OSN.207,0.8695173919593455
+"AFSC 44O3, Qualified",process improvement,OSN.208,0.8846013731998315
+"AFSC 44O3, Qualified",process improvement,OSN.403,0.874387740948418
+"AFSC 44O3, Qualified",process improvement,OSN.731,0.8826585477248063
+"AFSC 44O3, Qualified",medical,ESCO.892,0.8670403535461515
+"AFSC 44R1*, Entry",quality control,ESCO.1064,0.9285217765364738
+"AFSC 44R1*, Entry",quality control,OSN.239,0.8976535560558113
+"AFSC 44R1*, Entry",quality control,OSN.240,0.8810997399187169
+"AFSC 44T1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 44T1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 44U1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 44U1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 44U1, Entry",working environments,ESCO.912,0.8699873581714358
+"AFSC 44U1, Entry",work environment,ESCO.912,0.8616741519654723
+"AFSC 44U1, Entry",research,OSN.260,0.8794616282740241
+"AFSC 44U1, Entry",research,OSN.626,0.8893910384657686
+AFSC 45A1* Entry,operating,ESCO.1245,0.887415991611435
+"AFSC 45E1*, Entry",visual,ESCO.110,0.8562017974949482
+"AFSC 45U1*, Entry",robotics,ESCO.1162,1.0
+"AFSC 45U1*, Entry",research,OSN.260,0.8794616282740241
+"AFSC 45U1*, Entry",research,OSN.626,0.8893910384657686
+"AFSC 46A1, Entry",development programs,OSN.31,0.8606287703663158
+"AFSC 46A1, Entry",research,OSN.260,0.8794616282740241
+"AFSC 46A1, Entry",research,OSN.626,0.8893910384657686
+"AFSC 46F1, Entry",performs analysis,ESCO.224,0.8740717361912644
+"AFSC 46F1, Entry",operational research,OSN.260,0.8558222649758759
+"AFSC 46N1*, Entry",r,ESCO.396,1.0
+"AFSC 46N1*, Entry",development programs,OSN.31,0.8606287703663158
+"AFSC 46N1*, Entry",health assessment,ESCO.945,0.9149278884693548
+"AFSC 46N1*, Entry",research,OSN.260,0.8794616282740241
+"AFSC 46N1*, Entry",research,OSN.626,0.8893910384657686
+"AFSC 46N1*, Entry",education research,ESCO.605,0.8530302589284945
+"AFSC 46P1, Entry",professional development,OSN.833,0.9046534273219238
+"AFSC 46P1, Entry",research,OSN.260,0.8794616282740241
+"AFSC 46P1, Entry",research,OSN.626,0.8893910384657686
+"AFSC 46S1, Entry",operating,ESCO.1245,0.887415991611435
+"AFSC 46S1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 46S1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 46S1, Entry",communication,OSN.880,0.869581701610172
+"AFSC 46S1, Entry",research,OSN.260,0.8794616282740241
+"AFSC 46S1, Entry",research,OSN.626,0.8893910384657686
+"AFSC 46Y1*, Entry",peer review,OSN.231,0.8824251394460687
+"AFSC 46Y1*, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 46Y1*, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 46Y1*, Entry",working environments,ESCO.912,0.8699873581714358
+"AFSC 46Y1*, Entry",health assessment,ESCO.945,0.9149278884693548
+"AFSC 46Y1*, Entry",research,OSN.260,0.8794616282740241
+"AFSC 46Y1*, Entry",research,OSN.626,0.8893910384657686
+"AFSC 46Y1*, Entry",education research,ESCO.605,0.8530302589284945
+"AFSC 47H1, Entry",service supports,OSN.633,0.8734905994481947
+"AFSC 48A1, Entry",health service research,ESCO.945,0.8544241287276588
+"AFSC 48A1, Entry",medical,ESCO.892,0.8670403535461515
+"AFSC 48A1, Entry",coordination,OSN.345,0.8696678881923361
+"AFSC 48A1, Entry",coordination,OSN.880,0.8676778378075425
+"AFSC 48A1, Entry",research,OSN.260,0.8794616282740241
+"AFSC 48A1, Entry",research,OSN.626,0.8893910384657686
+"AFSC 48A1, Entry",work environments,ESCO.912,0.8765398556189897
+AFSC 48G1 Entry,working environments,ESCO.912,0.8699873581714358
+AFSC 48G1 Entry,coordination,OSN.345,0.8696678881923361
+AFSC 48G1 Entry,coordination,OSN.880,0.8676778378075425
+AFSC 48G1 Entry,work environments,ESCO.912,0.8765398556189897
+"AFSC 48O1, Entry",health system,ESCO.406,0.8611638424167442
+"AFSC 48O1, Entry",working environments,ESCO.912,0.8699873581714358
+"AFSC 48O1, Entry",work environments,ESCO.912,0.8765398556189897
+"AFSC 48R1*, Entry",health service research,ESCO.945,0.8544241287276588
+"AFSC 48R1*, Entry",working environments,ESCO.912,0.8699873581714358
+"AFSC 48R1*, Entry",coordination,OSN.345,0.8696678881923361
+"AFSC 48R1*, Entry",coordination,OSN.880,0.8676778378075425
+"AFSC 48R1*, Entry",research,OSN.260,0.8794616282740241
+"AFSC 48R1*, Entry",research,OSN.626,0.8893910384657686
+"AFSC 48R1*, Entry",work environments,ESCO.912,0.8765398556189897
+"AFSC 48V1, Entry",performance optimization,OSN.373,0.8501661274173918
+"AFSC 48V1, Entry",system design,ESCO.19,0.8542035492933662
+"AFSC 48V1, Entry",system design,ESCO.485,0.8736733271654611
+"AFSC 48V1, Entry",system design,ESCO.818,0.9285853332782271
+"AFSC 48V1, Entry",system design,ESCO.962,0.9445428923641148
+"AFSC 48V1, Entry",system design,ESCO.1063,0.9234061661350829
+"AFSC 48V1, Entry",system design,ESCO.1249,1.0
+"AFSC 48V1, Entry",system design,ESCO.1274,0.8751565121330255
+"AFSC 48V1, Entry",system design,OSN.316,0.881847787261795
+"AFSC 48V1, Entry",system design,OSN.341,0.9347039998359283
+"AFSC 48V1, Entry",system design,OSN.342,0.9117293229192198
+"AFSC 48V1, Entry",system design,OSN.397,0.8748397364124468
+"AFSC 48V1, Entry",system design,OSN.722,0.8782688236118904
+"AFSC 48V1, Entry",design testing,OSN.413,0.8721087130573361
+"AFSC 48V1, Entry",automation,ESCO.1221,0.882354420178672
+"AFSC 48V1, Entry",coordination,OSN.345,0.8696678881923361
+"AFSC 48V1, Entry",coordination,OSN.880,0.8676778378075425
+"AFSC 48V1, Entry",research,OSN.260,0.8794616282740241
+"AFSC 48V1, Entry",research,OSN.626,0.8893910384657686
+"AFSC 51J1, Entry",resource management,OSN.392,0.8738970556485081
+"AFSC 51J1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 51J1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 51J1, Entry",facility management,ESCO.531,0.8679695862208204
+"AFSC 51J1, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 51J1, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 51J1, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 51J1, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 51J1, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 51J1, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 51J1, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 51J1, Entry",programming,ESCO.174,0.8672291704754024
+"AFSC 51J1, Entry",programming,ESCO.522,0.8587864813675486
+"AFSC 52R1, Entry",design test,OSN.322,0.8614713310227822
+"AFSC 52R1, Entry",communication,OSN.880,0.869581701610172
+"AFSC 52R1, Entry",development test,OSN.817,0.8907455078842685
+"AFSC 52R1, Entry",development test,OSN.818,0.8753694338455139
+"AFSC 52R1, Entry",research,OSN.260,0.8794616282740241
+"AFSC 52R1, Entry",research,OSN.626,0.8893910384657686
+AFSC 60C0,system support,ESCO.242,0.8693252923176403
+AFSC 60C0,system support,ESCO.288,0.8895114527297551
+AFSC 60C0,system support,ESCO.1117,0.8848278065911042
+AFSC 60C0,program systems,ESCO.1095,0.8609456174241411
+AFSC 60C0,management requires,OSN.718,0.8525450306452779
+AFSC 60C0,management,ESCO.565,0.8695018190415156
+AFSC 60C0,management,ESCO.888,0.8755034228670598
+AFSC 60C0,data engineering manufacturing,ESCO.151,0.8537801720655399
+AFSC 60C0,data engineering manufacturing,ESCO.354,0.9347235510689338
+AFSC 60C0,systems program,ESCO.1095,0.8609456174241411
+AFSC 60C0,acquisition life cycle,OSN.33,0.8741281722007915
+AFSC 60C0,acquisition life cycle,OSN.741,0.8595526491898638
+AFSC 60C0,life cycle costs,OSN.33,0.8624166577553911
+AFSC 60C0,control system,ESCO.387,0.9471340732989019
+AFSC 60C0,control system,ESCO.436,0.8720392156921882
+AFSC 60C0,control system,ESCO.517,0.8835929196312978
+AFSC 60C0,control system,ESCO.571,0.9314459767139128
+AFSC 60C0,control system,ESCO.590,0.8976403075106413
+AFSC 60C0,control system,ESCO.807,0.8599369378649053
+AFSC 60C0,control system,ESCO.920,0.8628545519470182
+AFSC 60C0,control system,ESCO.1063,0.8681584530091104
+AFSC 60C0,control system,ESCO.1064,0.8681072849610638
+AFSC 60C0,control system,ESCO.1113,0.8526763184942157
+AFSC 60C0,control system,OSN.239,0.883654438206851
+AFSC 60C0,control system,OSN.240,0.8819867340823506
+AFSC 60C0,research,OSN.260,0.8794616282740241
+AFSC 60C0,research,OSN.626,0.8893910384657686
+AFSC 60C0,operational system,ESCO.1245,0.8671413095111309
+AFSC 60C0,operational system,OSN.194,0.8751365341987644
+AFSC 60C0,data management,ESCO.44,0.8757770780257028
+AFSC 60C0,data management,ESCO.433,0.8596872502289103
+AFSC 60C0,data management,ESCO.766,0.8533614930870694
+AFSC 60C0,data management,ESCO.795,0.8895244806017883
+AFSC 60C0,data management,ESCO.843,0.8674980278759826
+AFSC 60C0,data management,ESCO.854,0.885189091163468
+AFSC 60C0,data management,ESCO.1133,0.9366025818573024
+AFSC 60C0,data management,ESCO.1147,0.8910242778235221
+AFSC 60C0,data management,OSN.212,0.8742033822716658
+AFSC 60C0,data management,OSN.507,0.8591253580488102
+AFSC 60C0,engineering manufacturing,ESCO.79,0.8763493681536476
+AFSC 60C0,engineering manufacturing,ESCO.151,0.8716766827193458
+AFSC 60C0,programming,ESCO.174,0.8672291704754024
+AFSC 60C0,programming,ESCO.522,0.8587864813675486
+"AFSC 61C1*, Entry",instrumentation,ESCO.913,0.8570831590593054
+"AFSC 61C1*, Entry",instrumentation,OSN.774,0.864277717832946
+"AFSC 61C1*, Entry",production process,OSN.767,0.8936350709798515
+"AFSC 61C1*, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 61C1*, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 61C1*, Entry",chemistry,ESCO.1068,0.8532644134081168
+"AFSC 61C1*, Entry",computer system,ESCO.1108,0.8582650669316709
+"AFSC 61C1*, Entry",research policies,OSN.908,0.8850320715625911
+"AFSC 61C1*, Entry",systems management,ESCO.57,0.895615440326551
+"AFSC 61C1*, Entry",systems management,ESCO.64,0.8541047364707856
+"AFSC 61C1*, Entry",systems management,ESCO.84,0.8713303412316484
+"AFSC 61C1*, Entry",systems management,ESCO.105,0.8610464402304242
+"AFSC 61C1*, Entry",systems management,ESCO.158,0.8671050990606237
+"AFSC 61C1*, Entry",systems management,ESCO.387,0.8547796736908493
+"AFSC 61C1*, Entry",systems management,ESCO.429,0.8543006555061271
+"AFSC 61C1*, Entry",systems management,ESCO.544,0.9329060017222732
+"AFSC 61C1*, Entry",systems management,ESCO.806,0.9080538327243358
+"AFSC 61C1*, Entry",systems management,ESCO.854,0.9270042909298596
+"AFSC 61C1*, Entry",systems management,ESCO.888,0.9066882092372205
+"AFSC 61C1*, Entry",systems management,ESCO.916,0.891293998580954
+"AFSC 61C1*, Entry",systems management,ESCO.1079,0.891293998580954
+"AFSC 61C1*, Entry",systems management,ESCO.1246,0.8658355453973237
+"AFSC 61C1*, Entry",systems management,OSN.318,0.8570309254732756
+"AFSC 61C1*, Entry",systems management,OSN.738,0.8749646260294002
+"AFSC 61C1*, Entry",systems management,OSN.779,0.8703383282810759
+"AFSC 61C1*, Entry",systems management,OSN.914,0.8560218693370537
+"AFSC 61C1*, Entry",research,OSN.260,0.8794616282740241
+"AFSC 61C1*, Entry",research,OSN.626,0.8893910384657686
+"AFSC 61C1*, Entry",technology research,ESCO.605,0.8567045014033086
+"AFSC 61C1*, Entry",technology research,OSN.22,0.850706321967708
+"AFSC 61C1*, Entry",technology research,OSN.256,0.8875656527044182
+"AFSC 61C1*, Entry",technology research,OSN.260,0.8562268859257918
+"AFSC 61C1*, Entry",research operational,OSN.260,0.8558222649758759
+"AFSC 61C1*, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 61C1*, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 61C1*, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 61C1*, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 61C1*, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 61C1*, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 61C1*, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 61C1*, Entry",life cycle management,ESCO.47,0.8859727097687923
+"AFSC 61C1*, Entry",life cycle management,OSN.33,0.9141974059940611
+"AFSC 61C1*, Entry",life cycle management,OSN.741,0.9310741875362627
+"AFSC 61C1*, Entry",life cycle management,OSN.815,0.9468582143691815
+"AFSC 61C1*, Entry",programming,ESCO.174,0.8672291704754024
+"AFSC 61C1*, Entry",programming,ESCO.522,0.8587864813675486
+"AFSC 61D1*, Entry",instrumentation,ESCO.913,0.8570831590593054
+"AFSC 61D1*, Entry",instrumentation,OSN.774,0.864277717832946
+"AFSC 61D1*, Entry",production process,OSN.767,0.8936350709798515
+"AFSC 61D1*, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 61D1*, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 61D1*, Entry",programming,ESCO.174,0.8672291704754024
+"AFSC 61D1*, Entry",programming,ESCO.522,0.8587864813675486
+"AFSC 61D1*, Entry",computer system,ESCO.1108,0.8582650669316709
+"AFSC 61D1*, Entry",research policies,OSN.908,0.8850320715625911
+"AFSC 61D1*, Entry",systems management,ESCO.57,0.895615440326551
+"AFSC 61D1*, Entry",systems management,ESCO.64,0.8541047364707856
+"AFSC 61D1*, Entry",systems management,ESCO.84,0.8713303412316484
+"AFSC 61D1*, Entry",systems management,ESCO.105,0.8610464402304242
+"AFSC 61D1*, Entry",systems management,ESCO.158,0.8671050990606237
+"AFSC 61D1*, Entry",systems management,ESCO.387,0.8547796736908493
+"AFSC 61D1*, Entry",systems management,ESCO.429,0.8543006555061271
+"AFSC 61D1*, Entry",systems management,ESCO.544,0.9329060017222732
+"AFSC 61D1*, Entry",systems management,ESCO.806,0.9080538327243358
+"AFSC 61D1*, Entry",systems management,ESCO.854,0.9270042909298596
+"AFSC 61D1*, Entry",systems management,ESCO.888,0.9066882092372205
+"AFSC 61D1*, Entry",systems management,ESCO.916,0.891293998580954
+"AFSC 61D1*, Entry",systems management,ESCO.1079,0.891293998580954
+"AFSC 61D1*, Entry",systems management,ESCO.1246,0.8658355453973237
+"AFSC 61D1*, Entry",systems management,OSN.318,0.8570309254732756
+"AFSC 61D1*, Entry",systems management,OSN.738,0.8749646260294002
+"AFSC 61D1*, Entry",systems management,OSN.779,0.8703383282810759
+"AFSC 61D1*, Entry",systems management,OSN.914,0.8560218693370537
+"AFSC 61D1*, Entry",research,OSN.260,0.8794616282740241
+"AFSC 61D1*, Entry",research,OSN.626,0.8893910384657686
+"AFSC 61D1*, Entry",technology research,ESCO.605,0.8567045014033086
+"AFSC 61D1*, Entry",technology research,OSN.22,0.850706321967708
+"AFSC 61D1*, Entry",technology research,OSN.256,0.8875656527044182
+"AFSC 61D1*, Entry",technology research,OSN.260,0.8562268859257918
+"AFSC 61D1*, Entry",research operational,OSN.260,0.8558222649758759
+"AFSC 61D1*, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 61D1*, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 61D1*, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 61D1*, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 61D1*, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 61D1*, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 61D1*, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 61D1*, Entry",life cycle management,ESCO.47,0.8859727097687923
+"AFSC 61D1*, Entry",life cycle management,OSN.33,0.9141974059940611
+"AFSC 61D1*, Entry",life cycle management,OSN.741,0.9310741875362627
+"AFSC 61D1*, Entry",life cycle management,OSN.815,0.9468582143691815
+"AFSC 62E3E, Electrical/Electronic, AFSC 62E3H, Mechanical, AFSC 62E3B, Astronautical, and AFSC 62E3A, Aeronautical, are",engineering management,OSN.497,0.8660543137296074
+"AFSC 62E1*, Entry",new business,OSN.519,0.864168427010143
+"AFSC 62E1*, Entry",engineering processes,OSN.497,0.8696259200080967
+"AFSC 62E1*, Entry",system design,ESCO.19,0.8542035492933662
+"AFSC 62E1*, Entry",system design,ESCO.485,0.8736733271654611
+"AFSC 62E1*, Entry",system design,ESCO.818,0.9285853332782271
+"AFSC 62E1*, Entry",system design,ESCO.962,0.9445428923641148
+"AFSC 62E1*, Entry",system design,ESCO.1063,0.9234061661350829
+"AFSC 62E1*, Entry",system design,ESCO.1249,1.0
+"AFSC 62E1*, Entry",system design,ESCO.1274,0.8751565121330255
+"AFSC 62E1*, Entry",system design,OSN.316,0.881847787261795
+"AFSC 62E1*, Entry",system design,OSN.341,0.9347039998359283
+"AFSC 62E1*, Entry",system design,OSN.342,0.9117293229192198
+"AFSC 62E1*, Entry",system design,OSN.397,0.8748397364124468
+"AFSC 62E1*, Entry",system design,OSN.722,0.8782688236118904
+"AFSC 62E1*, Entry",life cycle,OSN.33,0.8799148960238353
+"AFSC 62E1*, Entry",life cycle,OSN.741,0.8542861007155184
+"AFSC 62E1*, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 62E1*, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 62E1*, Entry",system development,ESCO.735,0.8677816549569779
+"AFSC 62E1*, Entry",system development,OSN.31,0.8632209769265647
+"AFSC 62E1*, Entry",system development,OSN.622,0.9204533614696951
+"AFSC 62E1*, Entry",system development,OSN.738,0.8920590713049011
+"AFSC 62E1*, Entry",system development,OSN.779,0.8952171844467997
+"AFSC 62E1*, Entry",air systems,ESCO.829,0.8959251118064328
+"AFSC 62E1*, Entry",customer requirements,OSN.217,0.8619484622386341
+"AFSC 62E1*, Entry",customer requirements,OSN.296,0.8527956700122621
+"AFSC 62E1*, Entry",development test,OSN.817,0.8907455078842685
+"AFSC 62E1*, Entry",development test,OSN.818,0.8753694338455139
+"AFSC 62E1*, Entry",research development,OSN.260,0.8562478069987304
+"AFSC 62E1*, Entry",design manufacturing,ESCO.151,0.9036086494545622
+"AFSC 62E1*, Entry",systems planning,ESCO.84,0.8505825622798497
+"AFSC 62E1*, Entry",systems planning,ESCO.89,0.8630962676270221
+"AFSC 62E1*, Entry",systems planning,ESCO.544,0.8666754507716773
+"AFSC 62E1*, Entry",systems planning,ESCO.916,0.8558036803253695
+"AFSC 62E1*, Entry",systems planning,ESCO.1079,0.8558036803253695
+"AFSC 62E1*, Entry",systems planning,ESCO.1200,0.8605316239570252
+"AFSC 62E1*, Entry",systems planning,OSN.738,0.8528839084463375
+"AFSC 62E1*, Entry",support system,ESCO.242,0.8693252923176403
+"AFSC 62E1*, Entry",support system,ESCO.288,0.8895114527297551
+"AFSC 62E1*, Entry",support system,ESCO.1117,0.8848278065911042
+"AFSC 62E1*, Entry",computer systems,ESCO.283,0.8836312432620994
+"AFSC 62E1*, Entry",computer systems,ESCO.693,0.8509417287790811
+"AFSC 62E1*, Entry",computer systems,ESCO.767,0.8687848166915773
+"AFSC 62E1*, Entry",computer systems,ESCO.916,0.8890211063138749
+"AFSC 62E1*, Entry",computer systems,ESCO.999,0.8535820111994802
+"AFSC 62E1*, Entry",computer systems,ESCO.1079,0.8890211063138749
+"AFSC 62E1*, Entry",computer systems,ESCO.1108,0.8816802978488244
+"AFSC 62E1*, Entry",electronic,ESCO.1115,0.8602923876587271
+"AFSC 62E1*, Entry",systems management,ESCO.57,0.895615440326551
+"AFSC 62E1*, Entry",systems management,ESCO.64,0.8541047364707856
+"AFSC 62E1*, Entry",systems management,ESCO.84,0.8713303412316484
+"AFSC 62E1*, Entry",systems management,ESCO.105,0.8610464402304242
+"AFSC 62E1*, Entry",systems management,ESCO.158,0.8671050990606237
+"AFSC 62E1*, Entry",systems management,ESCO.387,0.8547796736908493
+"AFSC 62E1*, Entry",systems management,ESCO.429,0.8543006555061271
+"AFSC 62E1*, Entry",systems management,ESCO.544,0.9329060017222732
+"AFSC 62E1*, Entry",systems management,ESCO.806,0.9080538327243358
+"AFSC 62E1*, Entry",systems management,ESCO.854,0.9270042909298596
+"AFSC 62E1*, Entry",systems management,ESCO.888,0.9066882092372205
+"AFSC 62E1*, Entry",systems management,ESCO.916,0.891293998580954
+"AFSC 62E1*, Entry",systems management,ESCO.1079,0.891293998580954
+"AFSC 62E1*, Entry",systems management,ESCO.1246,0.8658355453973237
+"AFSC 62E1*, Entry",systems management,OSN.318,0.8570309254732756
+"AFSC 62E1*, Entry",systems management,OSN.738,0.8749646260294002
+"AFSC 62E1*, Entry",systems management,OSN.779,0.8703383282810759
+"AFSC 62E1*, Entry",systems management,OSN.914,0.8560218693370537
+"AFSC 62E1*, Entry",systems industrial,ESCO.916,0.8680251884655961
+"AFSC 62E1*, Entry",systems industrial,ESCO.1079,0.8680251884655961
+"AFSC 62E1*, Entry",systems industrial,OSN.497,0.8648328786897908
+"AFSC 62E1*, Entry",process integration,OSN.403,0.8537673712264184
+"AFSC 62E1*, Entry",process integration,OSN.718,0.8599783666943946
+"AFSC 62E1*, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 62E1*, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 62E1*, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 62E1*, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 62E1*, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 62E1*, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 62E1*, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 62E1*, Entry",system engineering,ESCO.84,0.8506832197185495
+"AFSC 62E1*, Entry",system engineering,ESCO.190,0.8923647347510988
+"AFSC 62E1*, Entry",system engineering,ESCO.283,0.8801729348635782
+"AFSC 62E1*, Entry",system engineering,ESCO.693,0.853625510322269
+"AFSC 62E1*, Entry",system engineering,ESCO.955,0.876075166872636
+"AFSC 62E1*, Entry",system engineering,OSN.497,0.950000379887319
+AFSC 62S0,system support,ESCO.242,0.8693252923176403
+AFSC 62S0,system support,ESCO.288,0.8895114527297551
+AFSC 62S0,system support,ESCO.1117,0.8848278065911042
+AFSC 62S0,program systems,ESCO.1095,0.8609456174241411
+AFSC 62S0,management,ESCO.565,0.8695018190415156
+AFSC 62S0,management,ESCO.888,0.8755034228670598
+AFSC 62S0,acquisition life cycle,OSN.33,0.8741281722007915
+AFSC 62S0,acquisition life cycle,OSN.741,0.8595526491898638
+AFSC 62S0,control system,ESCO.387,0.9471340732989019
+AFSC 62S0,control system,ESCO.436,0.8720392156921882
+AFSC 62S0,control system,ESCO.517,0.8835929196312978
+AFSC 62S0,control system,ESCO.571,0.9314459767139128
+AFSC 62S0,control system,ESCO.590,0.8976403075106413
+AFSC 62S0,control system,ESCO.807,0.8599369378649053
+AFSC 62S0,control system,ESCO.920,0.8628545519470182
+AFSC 62S0,control system,ESCO.1063,0.8681584530091104
+AFSC 62S0,control system,ESCO.1064,0.8681072849610638
+AFSC 62S0,control system,ESCO.1113,0.8526763184942157
+AFSC 62S0,control system,OSN.239,0.883654438206851
+AFSC 62S0,control system,OSN.240,0.8819867340823506
+AFSC 62S0,operational system,ESCO.1245,0.8671413095111309
+AFSC 62S0,operational system,OSN.194,0.8751365341987644
+AFSC 62S0,data management,ESCO.44,0.8757770780257028
+AFSC 62S0,data management,ESCO.433,0.8596872502289103
+AFSC 62S0,data management,ESCO.766,0.8533614930870694
+AFSC 62S0,data management,ESCO.795,0.8895244806017883
+AFSC 62S0,data management,ESCO.843,0.8674980278759826
+AFSC 62S0,data management,ESCO.854,0.885189091163468
+AFSC 62S0,data management,ESCO.1133,0.9366025818573024
+AFSC 62S0,data management,ESCO.1147,0.8910242778235221
+AFSC 62S0,data management,OSN.212,0.8742033822716658
+AFSC 62S0,data management,OSN.507,0.8591253580488102
+AFSC 62S0,system engineering,ESCO.84,0.8506832197185495
+AFSC 62S0,system engineering,ESCO.190,0.8923647347510988
+AFSC 62S0,system engineering,ESCO.283,0.8801729348635782
+AFSC 62S0,system engineering,ESCO.693,0.853625510322269
+AFSC 62S0,system engineering,ESCO.955,0.876075166872636
+AFSC 62S0,system engineering,OSN.497,0.950000379887319
+AFSC 62S0,engineering manufacturing,ESCO.79,0.8763493681536476
+AFSC 62S0,engineering manufacturing,ESCO.151,0.8716766827193458
+"AFSC 63S0, Materiel Leader, and AFSC 63G0, Senior Materiel Leader, identifies officers serving in competitively selected Acquisition",management,ESCO.565,0.8695018190415156
+"AFSC 63S0, Materiel Leader, and AFSC 63G0, Senior Materiel Leader, identifies officers serving in competitively selected Acquisition",management,ESCO.888,0.8755034228670598
+"AFSC 63A1, Entry",planning tasks,OSN.314,0.8896229991869609
+"AFSC 63A1, Entry",system design,ESCO.19,0.8542035492933662
+"AFSC 63A1, Entry",system design,ESCO.485,0.8736733271654611
+"AFSC 63A1, Entry",system design,ESCO.818,0.9285853332782271
+"AFSC 63A1, Entry",system design,ESCO.962,0.9445428923641148
+"AFSC 63A1, Entry",system design,ESCO.1063,0.9234061661350829
+"AFSC 63A1, Entry",system design,ESCO.1249,1.0
+"AFSC 63A1, Entry",system design,ESCO.1274,0.8751565121330255
+"AFSC 63A1, Entry",system design,OSN.316,0.881847787261795
+"AFSC 63A1, Entry",system design,OSN.341,0.9347039998359283
+"AFSC 63A1, Entry",system design,OSN.342,0.9117293229192198
+"AFSC 63A1, Entry",system design,OSN.397,0.8748397364124468
+"AFSC 63A1, Entry",system design,OSN.722,0.8782688236118904
+"AFSC 63A1, Entry",life cycle,OSN.33,0.8799148960238353
+"AFSC 63A1, Entry",life cycle,OSN.741,0.8542861007155184
+"AFSC 63A1, Entry",system integration,ESCO.39,0.8636485810677382
+"AFSC 63A1, Entry",system integration,ESCO.485,0.8517503365734601
+"AFSC 63A1, Entry",system integration,ESCO.558,0.8756227550969291
+"AFSC 63A1, Entry",system integration,ESCO.665,0.868230945029099
+"AFSC 63A1, Entry",system integration,ESCO.1184,0.880247881667324
+"AFSC 63A1, Entry",system integration,OSN.234,0.8832735540053399
+"AFSC 63A1, Entry",acquisition life cycle,OSN.33,0.8741281722007915
+"AFSC 63A1, Entry",acquisition life cycle,OSN.741,0.8595526491898638
+"AFSC 63A1, Entry",systems management,ESCO.57,0.895615440326551
+"AFSC 63A1, Entry",systems management,ESCO.64,0.8541047364707856
+"AFSC 63A1, Entry",systems management,ESCO.84,0.8713303412316484
+"AFSC 63A1, Entry",systems management,ESCO.105,0.8610464402304242
+"AFSC 63A1, Entry",systems management,ESCO.158,0.8671050990606237
+"AFSC 63A1, Entry",systems management,ESCO.387,0.8547796736908493
+"AFSC 63A1, Entry",systems management,ESCO.429,0.8543006555061271
+"AFSC 63A1, Entry",systems management,ESCO.544,0.9329060017222732
+"AFSC 63A1, Entry",systems management,ESCO.806,0.9080538327243358
+"AFSC 63A1, Entry",systems management,ESCO.854,0.9270042909298596
+"AFSC 63A1, Entry",systems management,ESCO.888,0.9066882092372205
+"AFSC 63A1, Entry",systems management,ESCO.916,0.891293998580954
+"AFSC 63A1, Entry",systems management,ESCO.1079,0.891293998580954
+"AFSC 63A1, Entry",systems management,ESCO.1246,0.8658355453973237
+"AFSC 63A1, Entry",systems management,OSN.318,0.8570309254732756
+"AFSC 63A1, Entry",systems management,OSN.738,0.8749646260294002
+"AFSC 63A1, Entry",systems management,OSN.779,0.8703383282810759
+"AFSC 63A1, Entry",systems management,OSN.914,0.8560218693370537
+"AFSC 63A1, Entry",project manager,ESCO.565,0.858148748128309
+"AFSC 63A1, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 63A1, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 63A1, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 63A1, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 63A1, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 63A1, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 63A1, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 63A1, Entry",configuration management,ESCO.786,0.8584262322014278
+"AFSC 63A1, Entry",configuration management,OSN.612,0.8552441834803242
+"AFSC 63A1, Entry",management plans,ESCO.565,0.8591795837655302
+AFSC 63G0,system support,ESCO.242,0.8693252923176403
+AFSC 63G0,system support,ESCO.288,0.8895114527297551
+AFSC 63G0,system support,ESCO.1117,0.8848278065911042
+AFSC 63G0,program systems,ESCO.1095,0.8609456174241411
+AFSC 63G0,management,ESCO.565,0.8695018190415156
+AFSC 63G0,management,ESCO.888,0.8755034228670598
+AFSC 63G0,systems program,ESCO.1095,0.8609456174241411
+AFSC 63G0,acquisition life cycle,OSN.33,0.8741281722007915
+AFSC 63G0,acquisition life cycle,OSN.741,0.8595526491898638
+AFSC 63G0,life cycle costs,OSN.33,0.8624166577553911
+AFSC 63G0,control system,ESCO.387,0.9471340732989019
+AFSC 63G0,control system,ESCO.436,0.8720392156921882
+AFSC 63G0,control system,ESCO.517,0.8835929196312978
+AFSC 63G0,control system,ESCO.571,0.9314459767139128
+AFSC 63G0,control system,ESCO.590,0.8976403075106413
+AFSC 63G0,control system,ESCO.807,0.8599369378649053
+AFSC 63G0,control system,ESCO.920,0.8628545519470182
+AFSC 63G0,control system,ESCO.1063,0.8681584530091104
+AFSC 63G0,control system,ESCO.1064,0.8681072849610638
+AFSC 63G0,control system,ESCO.1113,0.8526763184942157
+AFSC 63G0,control system,OSN.239,0.883654438206851
+AFSC 63G0,control system,OSN.240,0.8819867340823506
+AFSC 63G0,operational system,ESCO.1245,0.8671413095111309
+AFSC 63G0,operational system,OSN.194,0.8751365341987644
+AFSC 63G0,data management,ESCO.44,0.8757770780257028
+AFSC 63G0,data management,ESCO.433,0.8596872502289103
+AFSC 63G0,data management,ESCO.766,0.8533614930870694
+AFSC 63G0,data management,ESCO.795,0.8895244806017883
+AFSC 63G0,data management,ESCO.843,0.8674980278759826
+AFSC 63G0,data management,ESCO.854,0.885189091163468
+AFSC 63G0,data management,ESCO.1133,0.9366025818573024
+AFSC 63G0,data management,ESCO.1147,0.8910242778235221
+AFSC 63G0,data management,OSN.212,0.8742033822716658
+AFSC 63G0,data management,OSN.507,0.8591253580488102
+AFSC 63G0,engineering manufacturing,ESCO.79,0.8763493681536476
+AFSC 63G0,engineering manufacturing,ESCO.151,0.8716766827193458
+AFSC 63S0,system support,ESCO.242,0.8693252923176403
+AFSC 63S0,system support,ESCO.288,0.8895114527297551
+AFSC 63S0,system support,ESCO.1117,0.8848278065911042
+AFSC 63S0,program systems,ESCO.1095,0.8609456174241411
+AFSC 63S0,management,ESCO.565,0.8695018190415156
+AFSC 63S0,management,ESCO.888,0.8755034228670598
+AFSC 63S0,acquisition life cycle,OSN.33,0.8741281722007915
+AFSC 63S0,acquisition life cycle,OSN.741,0.8595526491898638
+AFSC 63S0,control system,ESCO.387,0.9471340732989019
+AFSC 63S0,control system,ESCO.436,0.8720392156921882
+AFSC 63S0,control system,ESCO.517,0.8835929196312978
+AFSC 63S0,control system,ESCO.571,0.9314459767139128
+AFSC 63S0,control system,ESCO.590,0.8976403075106413
+AFSC 63S0,control system,ESCO.807,0.8599369378649053
+AFSC 63S0,control system,ESCO.920,0.8628545519470182
+AFSC 63S0,control system,ESCO.1063,0.8681584530091104
+AFSC 63S0,control system,ESCO.1064,0.8681072849610638
+AFSC 63S0,control system,ESCO.1113,0.8526763184942157
+AFSC 63S0,control system,OSN.239,0.883654438206851
+AFSC 63S0,control system,OSN.240,0.8819867340823506
+AFSC 63S0,operational system,ESCO.1245,0.8671413095111309
+AFSC 63S0,operational system,OSN.194,0.8751365341987644
+AFSC 63S0,data management,ESCO.44,0.8757770780257028
+AFSC 63S0,data management,ESCO.433,0.8596872502289103
+AFSC 63S0,data management,ESCO.766,0.8533614930870694
+AFSC 63S0,data management,ESCO.795,0.8895244806017883
+AFSC 63S0,data management,ESCO.843,0.8674980278759826
+AFSC 63S0,data management,ESCO.854,0.885189091163468
+AFSC 63S0,data management,ESCO.1133,0.9366025818573024
+AFSC 63S0,data management,ESCO.1147,0.8910242778235221
+AFSC 63S0,data management,OSN.212,0.8742033822716658
+AFSC 63S0,data management,OSN.507,0.8591253580488102
+AFSC 63S0,engineering manufacturing,ESCO.79,0.8763493681536476
+AFSC 63S0,engineering manufacturing,ESCO.151,0.8716766827193458
+"AFSC 64P1, Entry",quantitative data,ESCO.433,0.9328539184955945
+"AFSC 64P1, Entry",quantitative data,ESCO.497,0.8777578306629524
+"AFSC 64P1, Entry",quantitative data,OSN.810,0.8552364748565866
+"AFSC 64P1, Entry",control system,ESCO.387,0.9471340732989019
+"AFSC 64P1, Entry",control system,ESCO.436,0.8720392156921882
+"AFSC 64P1, Entry",control system,ESCO.517,0.8835929196312978
+"AFSC 64P1, Entry",control system,ESCO.571,0.9314459767139128
+"AFSC 64P1, Entry",control system,ESCO.590,0.8976403075106413
+"AFSC 64P1, Entry",control system,ESCO.807,0.8599369378649053
+"AFSC 64P1, Entry",control system,ESCO.920,0.8628545519470182
+"AFSC 64P1, Entry",control system,ESCO.1063,0.8681584530091104
+"AFSC 64P1, Entry",control system,ESCO.1064,0.8681072849610638
+"AFSC 64P1, Entry",control system,ESCO.1113,0.8526763184942157
+"AFSC 64P1, Entry",control system,OSN.239,0.883654438206851
+"AFSC 64P1, Entry",control system,OSN.240,0.8819867340823506
+"AFSC 64P1, Entry",automated systems,ESCO.806,0.8525991574553565
+"AFSC 64P1, Entry",automated systems,ESCO.916,0.8822130608632807
+"AFSC 64P1, Entry",automated systems,ESCO.1079,0.8822130608632807
+"AFSC 64P1, Entry",automated systems,ESCO.1119,0.8723602275431189
+"AFSC 64P1, Entry",programming,ESCO.174,0.8672291704754024
+"AFSC 64P1, Entry",programming,ESCO.522,0.8587864813675486
+"AFSC 65F1, Entry",management problems,ESCO.888,0.8582976967498503
+"AFSC 65F1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 65F1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 65F1, Entry",statistical analysis,ESCO.268,0.8826925904511576
+"AFSC 65F1, Entry",statistical analysis,ESCO.497,0.8965799618660176
+"AFSC 65F1, Entry",statistical analysis,ESCO.863,0.8587260014318817
+"AFSC 65F1, Entry",professional development,OSN.833,0.9046534273219238
+"AFSC 65F1, Entry",decision support,ESCO.288,0.900121513505226
+"AFSC 65F1, Entry",decision support,ESCO.1117,0.8706400926314989
+"AFSC 65F1, Entry",programming,ESCO.174,0.8672291704754024
+"AFSC 65F1, Entry",programming,ESCO.522,0.8587864813675486
+"AFSC 65W1, Entry",risk assessment,OSN.865,0.8923856862554614
+"AFSC 65W1, Entry",systems information,ESCO.105,0.8572800745341762
+"AFSC 65W1, Entry",systems information,ESCO.265,0.920342212715384
+"AFSC 65W1, Entry",systems information,ESCO.327,0.9150826275824924
+"AFSC 65W1, Entry",systems information,ESCO.813,0.9075230913544554
+"AFSC 65W1, Entry",systems information,ESCO.818,0.8783039514362997
+"AFSC 65W1, Entry",systems information,ESCO.854,0.8505873353342385
+"AFSC 65W1, Entry",systems information,ESCO.916,0.8570732184013353
+"AFSC 65W1, Entry",systems information,ESCO.1079,0.8570732184013353
+"AFSC 65W1, Entry",systems information,ESCO.1183,0.9042657329916385
+"AFSC 65W1, Entry",systems information,ESCO.1269,0.8887686268003371
+"AFSC 65W1, Entry",systems information,OSN.524,0.8948585396763803
+"AFSC 65W1, Entry",business case analysis,OSN.2,0.8549745946122481
+"AFSC 65W1, Entry",business case analysis,OSN.3,0.8578929242805593
+"AFSC 65W1, Entry",management control,ESCO.387,0.8569084408075136
+"AFSC 65W1, Entry",management control,ESCO.888,0.8747969882677138
+"AFSC 65W1, Entry",collecting data,ESCO.223,0.8972018002532689
+"AFSC 65W1, Entry",collecting data,ESCO.815,0.85351991233245
+"AFSC 65W1, Entry",data analysis,ESCO.25,0.877783515378881
+"AFSC 65W1, Entry",data analysis,ESCO.224,0.9227236002091824
+"AFSC 65W1, Entry",data analysis,ESCO.433,0.8662164058243593
+"AFSC 65W1, Entry",data analysis,ESCO.557,0.853415813420042
+"AFSC 65W1, Entry",data analysis,ESCO.863,0.852133230514693
+"AFSC 65W1, Entry",data analysis,ESCO.976,0.8691541879471992
+"AFSC 65W1, Entry",data analysis,ESCO.1006,0.8830319667555033
+"AFSC 65W1, Entry",data analysis,OSN.657,0.863406135596906
+"AFSC 65W1, Entry",data analysis,OSN.766,0.9174121477131547
+"AFSC 65W1, Entry",data analysis,OSN.789,0.8528004690883427
+"AFSC 65W1, Entry",data analysis,OSN.810,0.9397598425999348
+"AFSC 65W1, Entry",control system,ESCO.387,0.9471340732989019
+"AFSC 65W1, Entry",control system,ESCO.436,0.8720392156921882
+"AFSC 65W1, Entry",control system,ESCO.517,0.8835929196312978
+"AFSC 65W1, Entry",control system,ESCO.571,0.9314459767139128
+"AFSC 65W1, Entry",control system,ESCO.590,0.8976403075106413
+"AFSC 65W1, Entry",control system,ESCO.807,0.8599369378649053
+"AFSC 65W1, Entry",control system,ESCO.920,0.8628545519470182
+"AFSC 65W1, Entry",control system,ESCO.1063,0.8681584530091104
+"AFSC 65W1, Entry",control system,ESCO.1064,0.8681072849610638
+"AFSC 65W1, Entry",control system,ESCO.1113,0.8526763184942157
+"AFSC 65W1, Entry",control system,OSN.239,0.883654438206851
+"AFSC 65W1, Entry",control system,OSN.240,0.8819867340823506
+"AFSC 65W1, Entry",analysis,ESCO.497,0.9257614174434396
+"AFSC 65W1, Entry",analysis,OSN.865,0.8566474296434297
+"AFSC 65W1, Entry",management control system,ESCO.57,0.8749819270644149
+"AFSC 65W1, Entry",management control system,ESCO.212,0.8545194074543901
+"AFSC 65W1, Entry",management control system,ESCO.355,0.8657466312498574
+"AFSC 65W1, Entry",management control system,ESCO.387,0.9232403070330965
+"AFSC 65W1, Entry",management control system,ESCO.429,0.8617696424369861
+"AFSC 65W1, Entry",management control system,ESCO.436,0.8670898731139919
+"AFSC 65W1, Entry",management control system,ESCO.517,0.8553687153119661
+"AFSC 65W1, Entry",management control system,ESCO.571,0.8716499666486562
+"AFSC 65W1, Entry",management control system,ESCO.590,0.8748419889824748
+"AFSC 65W1, Entry",management control system,ESCO.623,0.8668367043305104
+"AFSC 65W1, Entry",management control system,ESCO.688,0.8642695038623741
+"AFSC 65W1, Entry",management control system,ESCO.806,0.8554077437964943
+"AFSC 65W1, Entry",management control system,ESCO.888,0.892543257564408
+"AFSC 65W1, Entry",management control system,ESCO.1062,0.8549427029788491
+"AFSC 65W1, Entry",management control system,ESCO.1063,0.8742554387286503
+"AFSC 65W1, Entry",management control system,ESCO.1064,0.8713907737020159
+"AFSC 65W1, Entry",management control system,ESCO.1113,0.8572927187444783
+"AFSC 65W1, Entry",management control system,ESCO.1119,0.8569544234551598
+"AFSC 65W1, Entry",management control system,ESCO.1246,0.8852046401392317
+"AFSC 65W1, Entry",management control system,OSN.239,0.8784456231767352
+"AFSC 65W1, Entry",management control system,OSN.240,0.8988280196302658
+"AFSC 65W1, Entry",management control system,OSN.914,0.8539952835665691
+"AFSC 65W1, Entry",research,OSN.260,0.8794616282740241
+"AFSC 65W1, Entry",research,OSN.626,0.8893910384657686
+"AFSC 65W1, Entry",analysis processes,OSN.789,0.8557108373929342
+"AFSC 65W1, Entry",analysis processes,OSN.810,0.9069630010496846
+"AFSC 65W1, Entry",operational system,ESCO.1245,0.8671413095111309
+"AFSC 65W1, Entry",operational system,OSN.194,0.8751365341987644
+"AFSC 65W1, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 65W1, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 65W1, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 65W1, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 65W1, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 65W1, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 65W1, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 71S1, Entry",training operations,OSN.739,0.8536825263109007
+"AFSC 71S1, Entry",operate,ESCO.528,1.0
+"AFSC 71S1, Entry",solve complex,OSN.146,0.9338084004879231
+"AFSC 71S1, Entry",quality control,ESCO.1064,0.9285217765364738
+"AFSC 71S1, Entry",quality control,OSN.239,0.8976535560558113
+"AFSC 71S1, Entry",quality control,OSN.240,0.8810997399187169
+"AFSC 71S1, Entry",technology solution,OSN.141,0.8823949235319086
+"AFSC 71S1, Entry",technology solution,OSN.707,0.8503725577836471
+"AFSC 71S1, Entry",complex problems,OSN.146,0.9128952761559788
+"AFSC 71S1, Entry",programming,ESCO.174,0.8672291704754024
+"AFSC 71S1, Entry",programming,ESCO.522,0.8587864813675486
+"AFSC 71S1, Entry",distribution system,ESCO.97,0.9033351209665319
+"AFSC 71S1, Entry",operating,ESCO.1245,0.887415991611435
+"AFSC 71S1, Entry",operations training,OSN.739,0.8536825263109007
+"AFSC 71S1, Entry",standards procedures,OSN.804,0.8551784735958852
+"AFSC 71S1, Entry",communications services,ESCO.1216,0.8656104920778394
+"AFSC 71S1, Entry",collect data,ESCO.70,0.8988593574807267
+"AFSC 71S1, Entry",collect data,ESCO.223,0.9312326807440586
+"AFSC 71S1, Entry",collect data,ESCO.611,0.8537318548880029
+"AFSC 71S1, Entry",collect data,ESCO.815,0.9233538520493769
+"AFSC 71S1, Entry",collect data,ESCO.1086,0.869935974236686
+"AFSC 71S1, Entry",communication,OSN.880,0.869581701610172
+"AFSC 71S1, Entry",management industrial,OSN.769,0.8548469846382858
+"AFSC 71S1, Entry",information,OSN.209,0.8522443173277033
+"AFSC 71S1, Entry",information,OSN.626,0.8593620707493846
+"AFSC 71S1, Entry",collection systems,ESCO.843,0.875763175156681
+"AFSC 71S1, Entry",collection systems,OSN.397,0.8659849334199033
+"AFSC 71S1, Entry",systems,ESCO.84,0.8691140588257024
+"AFSC 71S1, Entry",systems,ESCO.89,0.8530845077689144
+"AFSC 71S1, Entry",systems,ESCO.172,0.8671411242371148
+"AFSC 71S1, Entry",systems,ESCO.387,0.8873658517124692
+"AFSC 71S1, Entry",systems,ESCO.916,1.0
+"AFSC 71S1, Entry",systems,ESCO.962,0.8509341762650352
+"AFSC 71S1, Entry",systems,ESCO.1079,1.0
+"AFSC 71S1, Entry",systems,ESCO.1245,0.9024515147271578
+"AFSC 71S1, Entry",systems,OSN.497,0.879669698758397
+"AFSC 71S1, Entry",operational planning,OSN.737,0.8569629005102701
+"AFSC 71S1, Entry",operational planning,OSN.795,0.8688828647582415
+"AFSC 71S1, Entry",plans developing,ESCO.1153,0.8834702755253886
+"AFSC 71S1, Entry",plans developing,OSN.9,0.8806031469742387
+"AFSC 71S1, Entry",conceptual design,OSN.107,0.8571091907945282
+"AFSC 71S1, Entry",conceptual design,OSN.722,0.8646868248625141
+"AFSC 71S1, Entry",develop plans,ESCO.1153,0.9169688190669542
+"AFSC 71S1, Entry",develop plans,OSN.9,0.9140417774492774
+"AFSC 71S1, Entry",develop plans,OSN.29,0.8634255884924606
+"AFSC 71S1, Entry",information system,ESCO.265,0.8586308291335879
+"AFSC 71S1, Entry",information system,ESCO.327,0.8665197101165986
+"AFSC 71S1, Entry",information system,ESCO.344,0.8544772066707875
+"AFSC 71S1, Entry",information system,ESCO.355,0.8696035922491209
+"AFSC 71S1, Entry",information system,ESCO.813,0.8604280810149119
+"AFSC 71S1, Entry",information system,ESCO.818,0.9072530569233033
+"AFSC 71S1, Entry",information system,OSN.524,0.9212522530743671
+"AFSC 71S1, Entry",management,ESCO.565,0.8695018190415156
+"AFSC 71S1, Entry",management,ESCO.888,0.8755034228670598
+"AFSC 71S1, Entry",technology engineering,ESCO.693,0.8516887199414607
+"AFSC 71S1, Entry",technology engineering,ESCO.1221,0.8527138246999674
+"AFSC 71S1, Entry",technology engineering,OSN.497,0.8866150946475205
+"AFSC 71S1, Entry",operational plans,OSN.795,0.8891402005058674
+"AFSC 71S1, Entry",service support,OSN.633,0.9165591834723533
+"AFSC 71S1, Entry",health sciences,ESCO.1254,0.8701589986289531
+"AFSC 71S1, Entry",r,ESCO.396,1.0
+"AFSC 71S1, Entry",educational material,ESCO.910,0.8502524371625279
+"AFSC 71S1, Entry",research,OSN.260,0.8794616282740241
+"AFSC 71S1, Entry",research,OSN.626,0.8893910384657686
+"AFSC 71S1, Entry",technology integration,ESCO.1221,0.8874703578084068
+"AFSC 71S1, Entry",file,ESCO.292,0.9012743543182251
+"AFSC 71S1, Entry",problem solve,ESCO.116,0.881449686012299
+"AFSC 71S1, Entry",problem solve,OSN.146,0.8600250530332342
+"AFSC 71S1, Entry",information systems,ESCO.105,0.8572800745341762
+"AFSC 71S1, Entry",information systems,ESCO.265,0.920342212715384
+"AFSC 71S1, Entry",information systems,ESCO.327,0.9150826275824924
+"AFSC 71S1, Entry",information systems,ESCO.813,0.9075230913544554
+"AFSC 71S1, Entry",information systems,ESCO.818,0.8783039514362997
+"AFSC 71S1, Entry",information systems,ESCO.854,0.8505873353342385
+"AFSC 71S1, Entry",information systems,ESCO.916,0.8570732184013353
+"AFSC 71S1, Entry",information systems,ESCO.1079,0.8570732184013353
+"AFSC 71S1, Entry",information systems,ESCO.1183,0.9042657329916385
+"AFSC 71S1, Entry",information systems,ESCO.1269,0.8887686268003371
+"AFSC 71S1, Entry",information systems,OSN.524,0.8948585396763803
+"AFSC 71S1, Entry",systems processes,ESCO.916,0.8942201174725821
+"AFSC 71S1, Entry",systems processes,ESCO.1079,0.8942201174725821
+"AFSC 71S1, Entry",management data,ESCO.44,0.8757770780257028
+"AFSC 71S1, Entry",management data,ESCO.433,0.8596872502289103
+"AFSC 71S1, Entry",management data,ESCO.766,0.8533614930870694
+"AFSC 71S1, Entry",management data,ESCO.795,0.8895244806017883
+"AFSC 71S1, Entry",management data,ESCO.843,0.8674980278759826
+"AFSC 71S1, Entry",management data,ESCO.854,0.885189091163468
+"AFSC 71S1, Entry",management data,ESCO.1133,0.9366025818573024
+"AFSC 71S1, Entry",management data,ESCO.1147,0.8910242778235221
+"AFSC 71S1, Entry",management data,OSN.212,0.8742033822716658
+"AFSC 71S1, Entry",management data,OSN.507,0.8591253580488102
+"AFSC 71S1, Entry",data data,ESCO.70,0.8583927432847115
+"AFSC 71S1, Entry",data data,ESCO.223,0.8733065098420094
+"AFSC 71S1, Entry",data data,ESCO.795,0.8677599662109082
+"AFSC 71S1, Entry",data data,ESCO.841,0.8653088954980888
+"AFSC 71S1, Entry",data data,ESCO.1211,0.8567997669006663
+"AFSC 71S1, Entry",data data,OSN.88,0.8632524888752455
+"AFSC 71S1, Entry",data data,OSN.143,0.8533860483053648
+"AFSC 71S1, Entry",data data,OSN.324,0.8596483949850412
+"AFSC 71S1, Entry",data data,OSN.325,0.8765787936678603
+"AFSC 71S1, Entry",data data,OSN.455,0.8833492375257584
+"AFSC 71S1, Entry",data data,OSN.482,0.8793590909512025
+"AFSC 71S1, Entry",data data,OSN.494,0.8816629993844299
+"AFSC 71S1, Entry",data analysis,ESCO.25,0.877783515378881
+"AFSC 71S1, Entry",data analysis,ESCO.224,0.9227236002091824
+"AFSC 71S1, Entry",data analysis,ESCO.433,0.8662164058243593
+"AFSC 71S1, Entry",data analysis,ESCO.557,0.853415813420042
+"AFSC 71S1, Entry",data analysis,ESCO.863,0.852133230514693
+"AFSC 71S1, Entry",data analysis,ESCO.976,0.8691541879471992
+"AFSC 71S1, Entry",data analysis,ESCO.1006,0.8830319667555033
+"AFSC 71S1, Entry",data analysis,OSN.657,0.863406135596906
+"AFSC 71S1, Entry",data analysis,OSN.766,0.9174121477131547
+"AFSC 71S1, Entry",data analysis,OSN.789,0.8528004690883427
+"AFSC 71S1, Entry",data analysis,OSN.810,0.9397598425999348
+"AFSC 71S1, Entry",audit data,OSN.494,0.8619844426378179
+"AFSC 71S1, Entry",coordination,OSN.345,0.8696678881923361
+"AFSC 71S1, Entry",coordination,OSN.880,0.8676778378075425
+"AFSC 71S1, Entry",electronic,ESCO.1115,0.8602923876587271
+"AFSC 71S1, Entry",communication system,ESCO.138,0.8613776453635091
+"AFSC 71S1, Entry",communication system,ESCO.1213,0.8713685874056295
+"AFSC 71S1, Entry",communication system,OSN.779,0.8980496704944054
+"AFSC 71S1, Entry",execution processes,OSN.35,0.9052051412080873
+"AFSC 71S1, Entry",operational control,ESCO.590,0.8574514520799683
+"AFSC 71S1, Entry",industrial management,OSN.769,0.8548469846382858
+"AFSC 71S1, Entry",manage information,ESCO.417,0.8954949843936748
+"AFSC 71S1, Entry",manage information,ESCO.1038,0.8633518357625164
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,virtual environment,ESCO.912,0.8506063941182797
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,safety standard,OSN.805,0.8646772889960461
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,chemistry,ESCO.1068,0.8532644134081168
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,biology,ESCO.1142,0.8836741301971208
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,computer technology,ESCO.693,0.8733540385436934
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,computer technology,ESCO.1108,0.9999999999999998
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,computer system,ESCO.1108,0.8582650669316709
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,system engineering,ESCO.84,0.8506832197185495
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,system engineering,ESCO.190,0.8923647347510988
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,system engineering,ESCO.283,0.8801729348635782
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,system engineering,ESCO.693,0.853625510322269
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,system engineering,ESCO.955,0.876075166872636
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,system engineering,OSN.497,0.950000379887319
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,industrial engineering,ESCO.79,0.8653085183723989
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,engineering industrial,ESCO.79,0.8653085183723989
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,computer science,ESCO.620,1.0
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,computer science,ESCO.693,0.8629955558723209
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,computer science,ESCO.914,0.9327691562855299
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,resource management,OSN.392,0.8738970556485081
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,ESCO.57,0.8966016848152198
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,ESCO.105,0.8759226457641973
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,ESCO.187,0.8574638708276112
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,ESCO.344,0.8910251316361887
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,ESCO.355,0.9242542937193435
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,ESCO.406,0.886079149290529
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,ESCO.429,0.8941079804254861
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,ESCO.544,0.8655617940790236
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,ESCO.577,0.8598848334406366
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,ESCO.623,0.8649967935817362
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,ESCO.806,0.853346519211142
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,ESCO.818,0.887937751674354
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,ESCO.854,0.9047360200642317
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,ESCO.888,0.8916171894051977
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,ESCO.1133,0.8637255142371663
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,ESCO.1200,0.8686082871711311
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,ESCO.1246,0.8717504778701419
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,OSN.212,0.8501012090361066
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,OSN.392,0.859618982173619
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,OSN.524,0.9011435220840953
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management information system,OSN.914,0.8836860489712606
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,instrumentation,ESCO.913,0.8570831590593054
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,instrumentation,OSN.774,0.864277717832946
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,system analysis,ESCO.863,0.9222945424606142
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,system analysis,OSN.318,0.8667935060331471
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,system analysis,OSN.524,0.9390104033805453
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,system analysis,OSN.712,0.9226187372377146
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,system analysis,OSN.810,0.8560148918006835
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,analytics,ESCO.101,0.8854834237449971
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,analytics,ESCO.123,0.8672838725575737
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,analytics,ESCO.757,0.8630345162170742
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,analytics,ESCO.761,0.8655750657481555
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,information technology,ESCO.775,0.8550239828391537
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,information technology,OSN.256,0.8604436420129719
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,information management,ESCO.187,0.9008854686635074
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,information management,ESCO.355,0.8625596381389595
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,information management,ESCO.1133,0.863138509933319
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,information management,OSN.212,0.8546443412652351
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,information management,OSN.392,0.8502241313142549
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,computer engineering,ESCO.128,0.8599207630766728
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,computer engineering,ESCO.283,0.8815969999849445
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,computer engineering,ESCO.620,0.8629955558723209
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,computer engineering,ESCO.693,0.9999999999999998
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,computer engineering,ESCO.1108,0.8733540385436934
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,computer engineering,OSN.497,0.8622469844097814
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,electrical and computer engineering,ESCO.19,0.860072708018919
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,electrical and computer engineering,ESCO.283,0.8633355040740622
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,electrical and computer engineering,ESCO.693,0.9156926008869268
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,electronics,ESCO.543,0.8783987334079919
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,electronics,ESCO.747,1.0
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,knowledge base,ESCO.270,0.9999999999999999
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,information science,ESCO.1186,0.8594958892079999
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,information science,OSN.626,0.8721315761587213
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,telecommunications,ESCO.115,0.8672680362743678
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,engineering technologies,OSN.497,0.8925175989019387
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems,ESCO.84,0.8691140588257024
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems,ESCO.89,0.8530845077689144
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems,ESCO.172,0.8671411242371148
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems,ESCO.387,0.8873658517124692
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems,ESCO.916,1.0
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems,ESCO.962,0.8509341762650352
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems,ESCO.1079,1.0
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems,ESCO.1245,0.9024515147271578
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems,OSN.497,0.879669698758397
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,data type,OSN.246,0.9302742571721994
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,data type,OSN.332,0.8923501853854837
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,data general,ESCO.1006,0.8535349802937404
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,molecular biology,ESCO.1142,0.8718905956818169
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,health technology,ESCO.605,0.8644939277318493
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,health technology,ESCO.945,0.9323848771994085
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,aerospace engineering,ESCO.79,0.8811950171720658
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,system integration,ESCO.39,0.8636485810677382
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,system integration,ESCO.485,0.8517503365734601
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,system integration,ESCO.558,0.8756227550969291
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,system integration,ESCO.665,0.868230945029099
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,system integration,ESCO.1184,0.880247881667324
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,system integration,OSN.234,0.8832735540053399
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,construction management,ESCO.565,0.8500836023909195
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,automation,ESCO.1221,0.882354420178672
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,requirement business,OSN.296,0.8811548096116919
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,requirement business,OSN.523,0.862243301993752
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,requirement business,OSN.526,0.864181252842913
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,support services,OSN.633,0.8852825036951814
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,electronic,ESCO.1115,0.8602923876587271
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,computer programming,ESCO.174,1.0
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,computer programming,OSN.72,0.8607336037867329
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,research,OSN.260,0.8794616282740241
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,research,OSN.626,0.8893910384657686
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,data processing,ESCO.143,0.8912329905815356
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,data processing,ESCO.1211,0.8988190962308036
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,data processing,ESCO.1243,0.8922206145438024
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,data processing,OSN.482,1.0
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,data processing,OSN.651,0.9263726594798707
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,data processing,OSN.810,0.8568116502747068
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,linguistics,ESCO.796,0.8717843479439221
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,information system,ESCO.265,0.8586308291335879
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,information system,ESCO.327,0.8665197101165986
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,information system,ESCO.344,0.8544772066707875
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,information system,ESCO.355,0.8696035922491209
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,information system,ESCO.813,0.8604280810149119
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,information system,ESCO.818,0.9072530569233033
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,information system,OSN.524,0.9212522530743671
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,storage,ESCO.841,0.8726481249703989
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,artificial intelligence,ESCO.1143,0.8716680906227656
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,robotics,ESCO.1162,1.0
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management,ESCO.565,0.8695018190415156
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management,ESCO.888,0.8755034228670598
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems operations,ESCO.590,0.8506204236299246
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems operations,ESCO.916,0.8658497528352725
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems operations,ESCO.1079,0.8658497528352725
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems operations,ESCO.1245,0.9054963584089815
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,manufacturing engineering,ESCO.79,0.8763493681536476
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,manufacturing engineering,ESCO.151,0.8716766827193458
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,data science,ESCO.354,0.8556290868367851
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,data science,ESCO.1186,1.0
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,requirement systems,ESCO.916,0.8608090603430663
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,requirement systems,ESCO.1079,0.8608090603430663
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,communication,OSN.880,0.869581701610172
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,industrial management,OSN.769,0.8548469846382858
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management process,ESCO.1066,0.8959877489930897
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management process,OSN.207,0.8519644771990639
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management process,OSN.208,0.8510593704423467
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management process,OSN.403,0.8529351814994482
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management process,OSN.718,0.9358645955398364
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,management process,OSN.914,0.8618130453522522
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems engineering,ESCO.19,0.8660868526364688
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems engineering,ESCO.84,0.8595516357082904
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems engineering,ESCO.283,0.8807750743307505
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems engineering,ESCO.693,0.8622469844097814
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems engineering,ESCO.916,0.879669698758397
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems engineering,ESCO.955,0.8536950900411474
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems engineering,ESCO.962,0.8577255345543735
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems engineering,ESCO.1079,0.879669698758397
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,systems engineering,OSN.497,0.9999999999999998
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,computational science,ESCO.1068,0.8760250656825684
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,computational science,ESCO.1142,0.9170836163793807
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,business management,OSN.738,0.8613423123824538
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,information information,OSN.209,0.8522443173277033
+AFSC of commissioned officers in training under the School of Medicine Uniformed Services of Health Sciences Program (AFI 41- 110).,information information,OSN.626,0.8593620707493846
