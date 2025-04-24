@@ -35,13 +35,38 @@ This repository contains the **code, data, and results** for an independent-stud
 ## Repository Structure
 
 ```text
-data/                      ↳ raw PDFs & civilian tables
-    ├─ raw/
-    └─ processed/          ↳ cleaned CSVs (ready for notebooks)
+Military-Skills-Taxonomy/
+├── data/
+│   ├── processed/
+│   │   ├── DAFECD-31-Oct-24.csv
+│   │   ├── DAFOCD-31-Oct-24.csv
+│   │   ├── LAiSER Final Results.csv
+│   │   └── afsc_clean.csv
+│   └── raw/
+│       ├── DAFECD-31-Oct-24.pdf
+│       ├── DAFOCD-31-Oct-24.pdf
+│       ├── DoD Military-Civilian Crosswalk.csv
+│       └── ESCO-ONET Crosswalk.csv
+├── notebooks/
+│   ├── AFOCD-AFECD Merge Code.ipynb
+│   ├── LAiSER Extraction Analysis.ipynb
+│   ├── LAiSER_Taxonomy_Code.ipynb
+│   ├── LLM Run CODE V1.ipynb
+│   ├── LLM Run CODE V2.ipynb
+│   └── Taxonomy Merge Mega Code.ipynb
+├── results/
+│   ├── Prompts/
+│   │   ├── enhanced_taxonomy_prompt.txt
+│   │   └── prompt_for_reference.txt
+│   ├── laiser/
+│   │   └── LAiSER Final Results.csv          # same as in data/processed for convenience
+│   └── llm_taxonomies/
+│       ├── military_skills_taxonomy_claude_3_5_sonnet_20250403-001643.txt
+│       ├── military_skills_taxonomy_claude_3_5_sonnet_pilot_20250422.txt
+│       ├── military_skills_taxonomy_gpt_4_turbo_enhanced_20250403-001752.txt
+│       └── military_skills_taxonomy_gpt_4_turbo_pilot_20250422.txt
+├── docs/
+│   └── paper/
+│       └── README.md        # final manuscript & figures live here
+└── README.md
 
-notebooks/                 ↳ Jupyter & Colab notebooks for every step
-results/
-    ├─ laiser/             ↳ LAiSER CSV output
-    └─ llm_taxonomies/     ↳ GPT-4-Turbo & Claude taxonomy drafts
-docs/
-    └─ paper/              ↳ final manuscript, figures, and citations
