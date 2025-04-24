@@ -1,6 +1,5 @@
 # Military-Skills-Taxonomy 📚⚙️
-
-_A pilot study showing how modern NLP and large-language-model techniques can turn Air Force classification documents into a machine-readable skills taxonomy._
+*A pilot study showing how modern NLP + LLM techniques can turn Air Force classification documents into a machine-readable skills taxonomy.*
 
 <p align="center">
   <img src="docs/paper/figures/dual_pipeline_diagram.png" width="620" alt="Dual-pipeline overview"/>
@@ -10,29 +9,33 @@ _A pilot study showing how modern NLP and large-language-model techniques can tu
 
 ## Why does this matter?
 
-Across the Department of Defense there is still no authoritative, machine‑readable skills taxonomy linking military occupational specialties to their civilian equivalents. Consequently, veterans, workforce planners, and private‑sector employers lack a shared, data‑driven vocabulary for translating service‑earned competencies into the language of the labor market.
-This project served as a pilot to demonstrate that modern AI tools can bridge that gap. I constructed and evaluated two complementary pipelines:
-1. •	**LLM Prototype**: A bottom‑up pipeline that first merged three structured civilian sources—O*NET, ESCO, and the DoD Military‑Civilian Crosswalk—into a single “mega‑skills” table. Two large‑language‑models (Claude 3.5 Sonnet 20240620 and GPT‑4‑Turbo) then processed ≈ 30 AFSCs (15 Officer, 15 Enlisted) from that table to generate parallel multi‑level skill taxonomies.
-2. •	**LAiSER Prototype**: A "top-down" approach extracting skills directly from military documents by converting the Air Force Officer/Enlisted Classification Directories (AFOCD & AFECD) into CSV, processed 123 AFSC descriptions with GWU’s LAiSER (Leveraging AI for Skills Extraction & Research) extraction tool, and automatically aligned every extracted skill phrase to established taxonomies via cosine similarity scoring.
+Across the Department of Defense there is still **no authoritative, machine-readable skills taxonomy** linking military occupational specialties to their civilian equivalents.  
+Without it, veterans, workforce planners and employers lack a shared, data-driven vocabulary for translating service-earned competencies into the language of the labour market.
 
+This repository demonstrates two complementary AI pipelines that can close that gap:
 
+| Pipeline | What it does | Scale in this pilot |
+|----------|--------------|---------------------|
+| **LLM prototype** (bottom-up) | Merges three structured civilian sources — O*NET, ESCO & the DoD Military-Civilian Crosswalk — then uses GPT-4 Turbo & Claude 3.5 Sonnet to generate a three-level skills hierarchy. | 30 AFSCs (15 Officer, 15 Enlisted) |
+| **LAiSER prototype** (top-down) | Parses raw AFOCD/AFECD text, extracts skills with GWU’s **LAiSER** tool (SkillNer + cosine similarity) and aligns them to ESCO/OSN tags. | 123 AFSC descriptions |
 
 ---
 
 ## Quick Start 🚀
 
-| Want to… | Do this |
-|----------|---------|
-| **Browse the results** | Open any file in `results/` (LLM taxonomies or the full `LAiSER Final Results.csv`). |
-| **Re-run a pipeline in Colab** | Click ![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg) next to the notebook you want—no local set-up needed. |
-| **Reproduce locally** | `conda env create -f environment.yml` → `conda activate miltax` → launch notebooks in `notebooks/`. |
+| Goal | What to do |
+|------|------------|
+| **Browse results** | Open any file in **`results/`** (`laiser/` for LAiSER CSV, `llm_taxonomies/` for LLM outputs). |
+| **Re-run a notebook in Colab** | Click <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" height="20"/> next to the notebook you want. |
+| **Reproduce locally** | `conda env create -f environment.yml` → `conda activate miltax` → open notebooks in **`notebooks/`**. |
 
-> **Large files (>100 MB)** are stored with Git LFS.  
-> `git lfs install` then `git lfs pull` after cloning if you see pointer files.
+> **Large files (> 100 MB)** use Git LFS.  
+> After cloning run `git lfs install && git lfs pull` if you see pointer files.
 
 ---
 
 ## Repository Structure
+
 ```text
 Military-Skills-Taxonomy/
 ├── data/
@@ -58,14 +61,12 @@ Military-Skills-Taxonomy/
 │   │   ├── enhanced_taxonomy_prompt.txt
 │   │   └── prompt_for_reference.txt
 │   ├── laiser/
-│   │   └── LAiSER Final Results.csv          
+│   │   └── LAiSER Final Results.csv
 │   └── llm_taxonomies/
 │       ├── military_skills_taxonomy_claude_3_5_sonnet_20250403-001643.txt
 │       ├── military_skills_taxonomy_claude_3_5_sonnet_pilot_20250422.txt
 │       ├── military_skills_taxonomy_gpt_4_turbo_enhanced_20250403-001752.txt
 │       └── military_skills_taxonomy_gpt_4_turbo_pilot_20250422.txt
 ├── docs/
-│   └── paper/
-│              
-└── README.md
-
+│   └── paper/                 # manuscript, figures, etc.
+└── README.md                  # you are here
