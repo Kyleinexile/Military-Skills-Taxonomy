@@ -1,22 +1,18 @@
 # Military-Skills-Taxonomy 📚⚙️
 *A pilot study showing how modern NLP + LLM techniques can turn Air Force classification documents into a machine-readable skills taxonomy.*
 
-<p align="center">
-  <img src="docs/paper/figures/dual_pipeline_diagram.png" width="620" alt="Dual-pipeline overview"/>
-</p>
-
 ---
 
 ## Why does this matter?
 
 Across the Department of Defense there is still **no authoritative, machine-readable skills taxonomy** linking military occupational specialties to their civilian equivalents.  
-Without it, veterans, workforce planners and employers lack a shared, data-driven vocabulary for translating service-earned competencies into the language of the labour market.
+Without it, veterans, workforce planners, and employers lack a shared, data-driven vocabulary for translating service-earned competencies into the language of the labour market.
 
 This repository demonstrates two complementary AI pipelines that can close that gap:
 
 | Pipeline | What it does | Scale in this pilot |
 |----------|--------------|---------------------|
-| **LLM prototype** (bottom-up) | Merges three structured civilian sources — O*NET, ESCO & the DoD Military-Civilian Crosswalk — then uses GPT-4 Turbo & Claude 3.5 Sonnet to generate a three-level skills hierarchy. | 30 AFSCs (15 Officer, 15 Enlisted) |
+| **LLM prototype** (bottom-up) | Merges three structured civilian sources—O*NET, ESCO & the DoD Military-Civilian Crosswalk—then uses GPT-4 Turbo & Claude 3.5 Sonnet to generate a three-level skills hierarchy. | 30 AFSCs (15 Officer, 15 Enlisted) |
 | **LAiSER prototype** (top-down) | Parses raw AFOCD/AFECD text, extracts skills with GWU’s **LAiSER** tool (SkillNer + cosine similarity) and aligns them to ESCO/OSN tags. | 123 AFSC descriptions |
 
 ---
@@ -35,7 +31,6 @@ This repository demonstrates two complementary AI pipelines that can close that 
 ---
 
 ## Repository Structure
-
 ```text
 Military-Skills-Taxonomy/
 ├── data/
