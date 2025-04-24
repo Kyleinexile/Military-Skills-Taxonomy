@@ -1,0 +1,2362 @@
+
+I have a dataset containing Air Force Specialty Codes (AFSCs) and their associated skills. I need you to create a comprehensive hierarchical taxonomy of military skills based on this data.
+
+Here is a representative sample of the dataset:
+
+```json
+{
+  "metadata": {
+    "title": "Air Force Skills Taxonomy",
+    "description": "A hierarchical taxonomy of skills for Air Force Specialty Codes (AFSCs)",
+    "purpose": "This taxonomy maps military occupational specialties to their required skills and capabilities",
+    "structure": "This taxonomy is organized in the following hierarchy: AFSC Categories > Individual AFSCs > Skill Categories > Skills"
+  },
+  "afscCategories": [
+    {
+      "categoryName": "Enlisted",
+      "afscs": [
+        {
+          "code": "1A100",
+          "title": "Mobility Force Aviator Manager",
+          "description": "Mobility Force Aviator Manager. DoD Occupation: Air Crew, General. Related to civilian role: First-Line Supervisors of Air Crew Members",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "implement",
+            "manage",
+            "other",
+            "communicate",
+            "develop"
+          ],
+          "coreSkills": [
+            {
+              "name": "implement airport emergency plans",
+              "action": "implement",
+              "relevance": 90,
+              "confidence": "high"
+            },
+            {
+              "name": "manage credit union operations",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train air force crew",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage company transport strategy",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train crew members",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "work with video and motion picture production team",
+              "action": "work",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage allocation of flight resources",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "lead drilling crews",
+              "action": "lead",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage teamwork",
+              "action": "manage",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "mobility as a service",
+              "action": "mobility",
+              "relevance": 70,
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "code": "1A100E",
+          "title": "Mobility Force Aviator Manager, Executive Mission Aviator",
+          "description": "Mobility Force Aviator Manager, Executive Mission Aviator. DoD Occupation: Air Crew, General. Related to civilian role: First-Line Supervisors of Air Crew Members",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "implement",
+            "other",
+            "manage",
+            "communicate",
+            "develop"
+          ],
+          "coreSkills": [
+            {
+              "name": "implement airport emergency plans",
+              "action": "implement",
+              "relevance": 90,
+              "confidence": "high"
+            },
+            {
+              "name": "train staff in quality procedures",
+              "action": "train",
+              "relevance": 90,
+              "confidence": "high"
+            },
+            {
+              "name": "manage credit union operations",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train air force crew",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train staff in safety procedures",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage company transport strategy",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train crew members",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "work with video and motion picture production team",
+              "action": "work",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage allocation of flight resources",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage quality of leather throughout the production process",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "code": "1A100M",
+          "title": "Mobility Force Aviator Manager, Mobility Force Aviator",
+          "description": "Mobility Force Aviator Manager, Mobility Force Aviator. DoD Occupation: Air Crew, General. Related to civilian role: First-Line Supervisors of Air Crew Members",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "implement",
+            "manage",
+            "other",
+            "communicate",
+            "develop"
+          ],
+          "coreSkills": [
+            {
+              "name": "implement airport emergency plans",
+              "action": "implement",
+              "relevance": 90,
+              "confidence": "high"
+            },
+            {
+              "name": "manage credit union operations",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train air force crew",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage company transport strategy",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train crew members",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "work with video and motion picture production team",
+              "action": "work",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage allocation of flight resources",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "lead drilling crews",
+              "action": "lead",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage teamwork",
+              "action": "manage",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "mobility as a service",
+              "action": "mobility",
+              "relevance": 70,
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "code": "1A100S",
+          "title": "Mobility Force Aviator Manager, Special Mission Aviator",
+          "description": "Mobility Force Aviator Manager, Special Mission Aviator. DoD Occupation: Air Crew, General. Related to civilian role: First-Line Supervisors of Air Crew Members",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "implement",
+            "other",
+            "manage",
+            "communicate",
+            "develop"
+          ],
+          "coreSkills": [
+            {
+              "name": "implement airport emergency plans",
+              "action": "implement",
+              "relevance": 90,
+              "confidence": "high"
+            },
+            {
+              "name": "train staff in quality procedures",
+              "action": "train",
+              "relevance": 90,
+              "confidence": "high"
+            },
+            {
+              "name": "manage credit union operations",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train air force crew",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train staff in safety procedures",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage company transport strategy",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train crew members",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "work with video and motion picture production team",
+              "action": "work",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage allocation of flight resources",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage quality of leather throughout the production process",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "code": "1A112",
+          "title": "Mobility Force Aviator Helper",
+          "description": "Mobility Force Aviator Helper. DoD Occupation: Not Occupationally Qualified, General. Related to civilian role: Air Crew Members",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "implement",
+            "other",
+            "manage",
+            "develop",
+            "communicate"
+          ],
+          "coreSkills": [
+            {
+              "name": "implement airport emergency plans",
+              "action": "implement",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train air force crew",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train crew members",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "work with video and motion picture production team",
+              "action": "work",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "lead drilling crews",
+              "action": "lead",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "mobility as a service",
+              "action": "mobility",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "air force operations",
+              "action": "air",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "write technical riders",
+              "action": "write",
+              "relevance": 60,
+              "confidence": "medium"
+            },
+            {
+              "name": "write emergency instructions for handling of dangerous goods",
+              "action": "write",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "supervise movement of crew",
+              "action": "supervise",
+              "relevance": 50,
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "code": "1A112A",
+          "title": "Mobility Force Aviator Helper, C-5 Flight Engineer",
+          "description": "Mobility Force Aviator Helper, C-5 Flight Engineer. DoD Occupation: Not Occupationally Qualified, General. Related to civilian role: Air Crew Members",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "manage",
+            "implement",
+            "other",
+            "develop",
+            "communicate"
+          ],
+          "coreSkills": [
+            {
+              "name": "manage allocation of flight resources",
+              "action": "manage",
+              "relevance": 90,
+              "confidence": "high"
+            },
+            {
+              "name": "implement airport emergency plans",
+              "action": "implement",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train air force crew",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "undertake procedures to meet requirements for flying aircraft heavier than 5,700 kg",
+              "action": "undertake",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train crew members",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "work with video and motion picture production team",
+              "action": "work",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "lead drilling crews",
+              "action": "lead",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "mobility as a service",
+              "action": "mobility",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "air force operations",
+              "action": "air",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "assist in the conducting of flight checks",
+              "action": "assist",
+              "relevance": 60,
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "code": "1A112B",
+          "title": "Mobility Force Aviator Helper, C-5 Loadmaster",
+          "description": "Mobility Force Aviator Helper, C-5 Loadmaster. DoD Occupation: Not Occupationally Qualified, General. Related to civilian role: Aircraft Cargo Handling Supervisors",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "other",
+            "analyze",
+            "manage",
+            "communicate",
+            "operate"
+          ],
+          "coreSkills": [
+            {
+              "name": "aircraft cargo capacity",
+              "action": "aircraft",
+              "relevance": 100,
+              "confidence": "high"
+            },
+            {
+              "name": "aircraft marshalling signals",
+              "action": "aircraft",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "stow cargo",
+              "action": "stow",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "aircraft flight control systems",
+              "action": "aircraft",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "handling chemical products for soil and plants",
+              "action": "handling",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "cargo industry",
+              "action": "cargo",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "mobility as a service",
+              "action": "mobility",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "air traffic control operations",
+              "action": "air",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "air force operations",
+              "action": "air",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "handling of dangerous goods",
+              "action": "handling",
+              "relevance": 70,
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "code": "1A112C",
+          "title": "Mobility Force Aviator Helper, C-17 Loadmaster",
+          "description": "Mobility Force Aviator Helper, C-17 Loadmaster. DoD Occupation: Not Occupationally Qualified, General. Related to civilian role: Aircraft Cargo Handling Supervisors",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "other",
+            "analyze",
+            "manage",
+            "communicate",
+            "operate"
+          ],
+          "coreSkills": [
+            {
+              "name": "aircraft cargo capacity",
+              "action": "aircraft",
+              "relevance": 100,
+              "confidence": "high"
+            },
+            {
+              "name": "aircraft marshalling signals",
+              "action": "aircraft",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "stow cargo",
+              "action": "stow",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "aircraft flight control systems",
+              "action": "aircraft",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "handling chemical products for soil and plants",
+              "action": "handling",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "cargo industry",
+              "action": "cargo",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "mobility as a service",
+              "action": "mobility",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "air traffic control operations",
+              "action": "air",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "air force operations",
+              "action": "air",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "handling of dangerous goods",
+              "action": "handling",
+              "relevance": 70,
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "code": "1A112D",
+          "title": "Mobility Force Aviator Helper, C-130J Loadmaster",
+          "description": "Mobility Force Aviator Helper, C-130J Loadmaster. DoD Occupation: Not Occupationally Qualified, General. Related to civilian role: Aircraft Cargo Handling Supervisors",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "other",
+            "analyze",
+            "manage",
+            "communicate",
+            "operate"
+          ],
+          "coreSkills": [
+            {
+              "name": "aircraft cargo capacity",
+              "action": "aircraft",
+              "relevance": 100,
+              "confidence": "high"
+            },
+            {
+              "name": "aircraft marshalling signals",
+              "action": "aircraft",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "stow cargo",
+              "action": "stow",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "aircraft flight control systems",
+              "action": "aircraft",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "handling chemical products for soil and plants",
+              "action": "handling",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "cargo industry",
+              "action": "cargo",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "mobility as a service",
+              "action": "mobility",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "air traffic control operations",
+              "action": "air",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "air force operations",
+              "action": "air",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "handling of dangerous goods",
+              "action": "handling",
+              "relevance": 70,
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "code": "1A112E",
+          "title": "Mobility Force Aviator Helper, WC-130J Loadmaster",
+          "description": "Mobility Force Aviator Helper, WC-130J Loadmaster. DoD Occupation: Not Occupationally Qualified, General. Related to civilian role: Aircraft Cargo Handling Supervisors",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "other",
+            "analyze",
+            "manage",
+            "communicate",
+            "operate"
+          ],
+          "coreSkills": [
+            {
+              "name": "aircraft cargo capacity",
+              "action": "aircraft",
+              "relevance": 100,
+              "confidence": "high"
+            },
+            {
+              "name": "aircraft marshalling signals",
+              "action": "aircraft",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "stow cargo",
+              "action": "stow",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "aircraft flight control systems",
+              "action": "aircraft",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "handling chemical products for soil and plants",
+              "action": "handling",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "cargo industry",
+              "action": "cargo",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "mobility as a service",
+              "action": "mobility",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "air traffic control operations",
+              "action": "air",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "air force operations",
+              "action": "air",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "handling of dangerous goods",
+              "action": "handling",
+              "relevance": 70,
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "code": "1A112F",
+          "title": "Mobility Force Aviator Helper, E-3 Flight Engineer",
+          "description": "Mobility Force Aviator Helper, E-3 Flight Engineer. DoD Occupation: Not Occupationally Qualified, General. Related to civilian role: Air Crew Members",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "manage",
+            "implement",
+            "other",
+            "develop",
+            "communicate"
+          ],
+          "coreSkills": [
+            {
+              "name": "manage allocation of flight resources",
+              "action": "manage",
+              "relevance": 90,
+              "confidence": "high"
+            },
+            {
+              "name": "implement airport emergency plans",
+              "action": "implement",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train air force crew",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "undertake procedures to meet requirements for flying aircraft heavier than 5,700 kg",
+              "action": "undertake",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train crew members",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "work with video and motion picture production team",
+              "action": "work",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "lead drilling crews",
+              "action": "lead",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "mobility as a service",
+              "action": "mobility",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "air force operations",
+              "action": "air",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "assist in the conducting of flight checks",
+              "action": "assist",
+              "relevance": 60,
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "code": "1A112G",
+          "title": "Mobility Force Aviator Helper, KC-46 Boom Operator",
+          "description": "Mobility Force Aviator Helper, KC-46 Boom Operator. DoD Occupation: Not Occupationally Qualified, General. Related to civilian role: Air Crew Members",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "implement",
+            "other",
+            "manage",
+            "develop",
+            "operate"
+          ],
+          "coreSkills": [
+            {
+              "name": "implement airport emergency plans",
+              "action": "implement",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train air force crew",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train crew members",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "work with video and motion picture production team",
+              "action": "work",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "lead drilling crews",
+              "action": "lead",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "mobility as a service",
+              "action": "mobility",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "air force operations",
+              "action": "air",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "write technical riders",
+              "action": "write",
+              "relevance": 60,
+              "confidence": "medium"
+            },
+            {
+              "name": "write emergency instructions for handling of dangerous goods",
+              "action": "write",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "supervise movement of crew",
+              "action": "supervise",
+              "relevance": 50,
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "code": "1A112H",
+          "title": "Mobility Force Aviator Helper, KC-135 Boom Operator",
+          "description": "Mobility Force Aviator Helper, KC-135 Boom Operator. DoD Occupation: Not Occupationally Qualified, General. Related to civilian role: Air Crew Members",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "implement",
+            "other",
+            "manage",
+            "develop",
+            "operate"
+          ],
+          "coreSkills": [
+            {
+              "name": "implement airport emergency plans",
+              "action": "implement",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train air force crew",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train crew members",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "work with video and motion picture production team",
+              "action": "work",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "lead drilling crews",
+              "action": "lead",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "mobility as a service",
+              "action": "mobility",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "air force operations",
+              "action": "air",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "write technical riders",
+              "action": "write",
+              "relevance": 60,
+              "confidence": "medium"
+            },
+            {
+              "name": "write emergency instructions for handling of dangerous goods",
+              "action": "write",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "supervise movement of crew",
+              "action": "supervise",
+              "relevance": 50,
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "code": "1A112I",
+          "title": "Mobility Force Aviator Helper, KC-10 Boom Operator",
+          "description": "Mobility Force Aviator Helper, KC-10 Boom Operator. DoD Occupation: Not Occupationally Qualified, General. Related to civilian role: Air Crew Members",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "implement",
+            "other",
+            "manage",
+            "develop",
+            "operate"
+          ],
+          "coreSkills": [
+            {
+              "name": "implement airport emergency plans",
+              "action": "implement",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train air force crew",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train crew members",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "work with video and motion picture production team",
+              "action": "work",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "lead drilling crews",
+              "action": "lead",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "mobility as a service",
+              "action": "mobility",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "air force operations",
+              "action": "air",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "write technical riders",
+              "action": "write",
+              "relevance": 60,
+              "confidence": "medium"
+            },
+            {
+              "name": "write emergency instructions for handling of dangerous goods",
+              "action": "write",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "supervise movement of crew",
+              "action": "supervise",
+              "relevance": 50,
+              "confidence": "medium"
+            }
+          ]
+        },
+        {
+          "code": "1A112J",
+          "title": "Mobility Force Aviator Helper, KC-10 Flight Engineer",
+          "description": "Mobility Force Aviator Helper, KC-10 Flight Engineer. DoD Occupation: Not Occupationally Qualified, General. Related to civilian role: Air Crew Members",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "manage",
+            "implement",
+            "other",
+            "develop",
+            "communicate"
+          ],
+          "coreSkills": [
+            {
+              "name": "manage allocation of flight resources",
+              "action": "manage",
+              "relevance": 90,
+              "confidence": "high"
+            },
+            {
+              "name": "implement airport emergency plans",
+              "action": "implement",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train air force crew",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "undertake procedures to meet requirements for flying aircraft heavier than 5,700 kg",
+              "action": "undertake",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "train crew members",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "work with video and motion picture production team",
+              "action": "work",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "lead drilling crews",
+              "action": "lead",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "mobility as a service",
+              "action": "mobility",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "air force operations",
+              "action": "air",
+              "relevance": 70,
+              "confidence": "medium"
+            },
+            {
+              "name": "assist in the conducting of flight checks",
+              "action": "assist",
+              "relevance": 60,
+              "confidence": "medium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Officer",
+      "afscs": [
+        {
+          "code": "10C0",
+          "title": "Operations Commander",
+          "description": "Operations Commander. DoD Occupation: Executives, N.E.C.. Related to civilian role: General and Operations Managers",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "manage",
+            "other",
+            "implement",
+            "operate",
+            "communicate"
+          ],
+          "coreSkills": [
+            {
+              "name": "manage electricity transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gambling finances",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage credit union operations",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage aircraft parking areas",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage waste treatment facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "support managers",
+              "action": "support",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "operations department processes",
+              "action": "operations",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gas transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage cultural facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage sumps",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "code": "10C0M",
+          "title": "Operations Commander, RPA",
+          "description": "Operations Commander, RPA. DoD Occupation: Executives, N.E.C.. Related to civilian role: General and Operations Managers",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "manage",
+            "other",
+            "implement",
+            "operate",
+            "communicate"
+          ],
+          "coreSkills": [
+            {
+              "name": "manage electricity transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gambling finances",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage credit union operations",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage aircraft parking areas",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage waste treatment facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "support managers",
+              "action": "support",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "operations department processes",
+              "action": "operations",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gas transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage cultural facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage sumps",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "code": "10C0N",
+          "title": "Operations Commander, ABM",
+          "description": "Operations Commander, ABM. DoD Occupation: Executives, N.E.C.. Related to civilian role: General and Operations Managers",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "manage",
+            "other",
+            "implement",
+            "operate",
+            "communicate"
+          ],
+          "coreSkills": [
+            {
+              "name": "manage electricity transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gambling finances",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage credit union operations",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage aircraft parking areas",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage waste treatment facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "support managers",
+              "action": "support",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "operations department processes",
+              "action": "operations",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gas transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage cultural facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage sumps",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "code": "10C0P",
+          "title": "Operations Commander, Fighter",
+          "description": "Operations Commander, Fighter. DoD Occupation: Executives, N.E.C.. Related to civilian role: General and Operations Managers",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "manage",
+            "other",
+            "implement",
+            "operate",
+            "communicate"
+          ],
+          "coreSkills": [
+            {
+              "name": "manage electricity transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gambling finances",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage credit union operations",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage aircraft parking areas",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage waste treatment facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "support managers",
+              "action": "support",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "operations department processes",
+              "action": "operations",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gas transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage cultural facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage sumps",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "code": "10C0Q",
+          "title": "Operations Commander, Trainer",
+          "description": "Operations Commander, Trainer. DoD Occupation: Executives, N.E.C.. Related to civilian role: General and Operations Managers",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "other",
+            "manage",
+            "implement",
+            "operate",
+            "communicate"
+          ],
+          "coreSkills": [
+            {
+              "name": "train staff on call quality assurance",
+              "action": "train",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage electricity transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gambling finances",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage credit union operations",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage aircraft parking areas",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage waste treatment facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "support managers",
+              "action": "support",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "operations department processes",
+              "action": "operations",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gas transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage cultural facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "code": "10C0R",
+          "title": "Operations Commander, Bomber",
+          "description": "Operations Commander, Bomber. DoD Occupation: Executives, N.E.C.. Related to civilian role: General and Operations Managers",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "manage",
+            "other",
+            "implement",
+            "operate",
+            "communicate"
+          ],
+          "coreSkills": [
+            {
+              "name": "manage electricity transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gambling finances",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage credit union operations",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage aircraft parking areas",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage waste treatment facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "support managers",
+              "action": "support",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "operations department processes",
+              "action": "operations",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gas transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage cultural facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage sumps",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "code": "10C0S",
+          "title": "Operations Commander, Tanker",
+          "description": "Operations Commander, Tanker. DoD Occupation: Executives, N.E.C.. Related to civilian role: General and Operations Managers",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "manage",
+            "other",
+            "implement",
+            "operate",
+            "communicate"
+          ],
+          "coreSkills": [
+            {
+              "name": "manage electricity transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gambling finances",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage credit union operations",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage aircraft parking areas",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage waste treatment facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "support managers",
+              "action": "support",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "operations department processes",
+              "action": "operations",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gas transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage cultural facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage sumps",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "code": "10C0T",
+          "title": "Operations Commander, Airlift",
+          "description": "Operations Commander, Airlift. DoD Occupation: Executives, N.E.C.. Related to civilian role: General and Operations Managers",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "manage",
+            "other",
+            "implement",
+            "operate",
+            "communicate"
+          ],
+          "coreSkills": [
+            {
+              "name": "manage electricity transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gambling finances",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage credit union operations",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage aircraft parking areas",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage waste treatment facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "support managers",
+              "action": "support",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "operations department processes",
+              "action": "operations",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gas transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage cultural facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage sumps",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "code": "10C0V",
+          "title": "Operations Commander, Helicopter or EWO",
+          "description": "Operations Commander, Helicopter or EWO. DoD Occupation: Executives, N.E.C.. Related to civilian role: General and Operations Managers",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "manage",
+            "other",
+            "implement",
+            "operate",
+            "communicate"
+          ],
+          "coreSkills": [
+            {
+              "name": "manage aircraft parking areas",
+              "action": "manage",
+              "relevance": 90,
+              "confidence": "high"
+            },
+            {
+              "name": "manage electricity transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gambling finances",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage credit union operations",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage waste treatment facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "support managers",
+              "action": "support",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "operations department processes",
+              "action": "operations",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gas transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage cultural facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage sumps",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "code": "10C0W",
+          "title": "Operations Commander, General",
+          "description": "Operations Commander, General. DoD Occupation: Executives, N.E.C.. Related to civilian role: General and Operations Managers",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "manage",
+            "other",
+            "implement",
+            "operate",
+            "communicate"
+          ],
+          "coreSkills": [
+            {
+              "name": "manage electricity transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gambling finances",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage credit union operations",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage aircraft parking areas",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage waste treatment facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "support managers",
+              "action": "support",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "operations department processes",
+              "action": "operations",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gas transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage cultural facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage sumps",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "code": "10C0Y",
+          "title": "Operations Commander, Special Operations",
+          "description": "Operations Commander, Special Operations. DoD Occupation: Executives, N.E.C.. Related to civilian role: General and Operations Managers",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "manage",
+            "other",
+            "implement",
+            "operate"
+          ],
+          "coreSkills": [
+            {
+              "name": "manage front operations",
+              "action": "manage",
+              "relevance": 90,
+              "confidence": "high"
+            },
+            {
+              "name": "manage casino",
+              "action": "manage",
+              "relevance": 90,
+              "confidence": "high"
+            },
+            {
+              "name": "manage electricity transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gambling finances",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage credit union operations",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage aircraft parking areas",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage waste treatment facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "support managers",
+              "action": "support",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "operations department processes",
+              "action": "operations",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "general medicine",
+              "action": "general",
+              "relevance": 80,
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "code": "10C0Z",
+          "title": "Operations Commander, C2ISREW",
+          "description": "Operations Commander, C2ISREW. DoD Occupation: Executives, N.E.C.. Related to civilian role: General and Operations Managers",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "manage",
+            "other",
+            "implement",
+            "operate",
+            "communicate"
+          ],
+          "coreSkills": [
+            {
+              "name": "manage electricity transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gambling finances",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage credit union operations",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage aircraft parking areas",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage waste treatment facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "support managers",
+              "action": "support",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "operations department processes",
+              "action": "operations",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage gas transmission system",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage cultural facility",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "manage sumps",
+              "action": "manage",
+              "relevance": 80,
+              "confidence": "high"
+            }
+          ]
+        },
+        {
+          "code": "11B1A",
+          "title": "Bomber Pilot, B-1",
+          "description": "Bomber Pilot, B-1. DoD Occupation: Fixed-Wing Fighter and Bomber Pilots. Related to civilian role: Airline Pilots, Copilots, and Flight Engineers",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "other",
+            "manage",
+            "operate",
+            "develop",
+            "implement"
+          ],
+          "coreSkills": [
+            {
+              "name": "deal with air traffic issues",
+              "action": "deal",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "visual flight rules",
+              "action": "visual",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "provide homologation management services",
+              "action": "provide",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "manage yield",
+              "action": "manage",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "assist in the conducting of flight checks",
+              "action": "assist",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "give theory lessons to pilots",
+              "action": "give",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "direct airport subcontractors",
+              "action": "direct",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "coordinate flight schedules",
+              "action": "coordinate",
+              "relevance": 40,
+              "confidence": "low"
+            },
+            {
+              "name": "be a role model in community arts",
+              "action": "be",
+              "relevance": 40,
+              "confidence": "low"
+            },
+            {
+              "name": "carry out chassis modifications",
+              "action": "carry",
+              "relevance": 40,
+              "confidence": "low"
+            }
+          ]
+        },
+        {
+          "code": "11B1B",
+          "title": "Bomber Pilot, B-2",
+          "description": "Bomber Pilot, B-2. DoD Occupation: Fixed-Wing Fighter and Bomber Pilots. Related to civilian role: Airline Pilots, Copilots, and Flight Engineers",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "other",
+            "manage",
+            "operate",
+            "develop",
+            "implement"
+          ],
+          "coreSkills": [
+            {
+              "name": "deal with air traffic issues",
+              "action": "deal",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "visual flight rules",
+              "action": "visual",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "provide homologation management services",
+              "action": "provide",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "manage yield",
+              "action": "manage",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "assist in the conducting of flight checks",
+              "action": "assist",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "give theory lessons to pilots",
+              "action": "give",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "direct airport subcontractors",
+              "action": "direct",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "coordinate flight schedules",
+              "action": "coordinate",
+              "relevance": 40,
+              "confidence": "low"
+            },
+            {
+              "name": "be a role model in community arts",
+              "action": "be",
+              "relevance": 40,
+              "confidence": "low"
+            },
+            {
+              "name": "carry out chassis modifications",
+              "action": "carry",
+              "relevance": 40,
+              "confidence": "low"
+            }
+          ]
+        },
+        {
+          "code": "11B1C",
+          "title": "Bomber Pilot, B-52",
+          "description": "Bomber Pilot, B-52. DoD Occupation: Fixed-Wing Fighter and Bomber Pilots. Related to civilian role: Airline Pilots, Copilots, and Flight Engineers",
+          "category": "Operations",
+          "skillSummary": "This AFSC requires capabilities in the following areas:",
+          "coreVerbs": [
+            "other",
+            "manage",
+            "operate",
+            "develop",
+            "implement"
+          ],
+          "coreSkills": [
+            {
+              "name": "deal with air traffic issues",
+              "action": "deal",
+              "relevance": 80,
+              "confidence": "high"
+            },
+            {
+              "name": "visual flight rules",
+              "action": "visual",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "provide homologation management services",
+              "action": "provide",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "manage yield",
+              "action": "manage",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "assist in the conducting of flight checks",
+              "action": "assist",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "give theory lessons to pilots",
+              "action": "give",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "direct airport subcontractors",
+              "action": "direct",
+              "relevance": 50,
+              "confidence": "medium"
+            },
+            {
+              "name": "coordinate flight schedules",
+              "action": "coordinate",
+              "relevance": 40,
+              "confidence": "low"
+            },
+            {
+              "name": "be a role model in community arts",
+              "action": "be",
+              "relevance": 40,
+              "confidence": "low"
+            },
+            {
+              "name": "carry out chassis modifications",
+              "action": "carry",
+              "relevance": 40,
+              "confidence": "low"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```
+
+This is a portion of the dataset. The full dataset contains information for all Air Force Specialty Codes, organized by category (Officer and Enlisted), with each AFSC having associated skills and relevance scores.
+
+Please create a structured military skills taxonomy with the following requirements:
+
+1. STRUCTURE:
+   - Level 1: Major Skill Domains (6-8 broad categories like "Technical Operations", "Leadership & Management", etc.)
+   - Level 2: Skill Categories (subcategories within each domain)
+   - Level 3: Specific Skills (individual skills or competencies)
+   - Level 4: Specific Applications or Subskills (where appropriate)
+
+2. FORMAT:
+   - Present the taxonomy as a hierarchical outline
+   - Include clear headers for each level
+   - Cross-reference where appropriate to show relationships between skills across domains
+   - Include at least 8-10 specific skills per skill category for comprehensive coverage
+
+3. CONTENT REQUIREMENTS:
+   - Focus on action-oriented skills (verbs/capabilities)
+   - Prioritize skills with high relevance scores (70+) and "high" confidence
+   - Group similar skills together even if they use different terminology
+   - Emphasize military context and Air Force-specific applications
+   - Include appropriate skill level indicators (basic, intermediate, advanced) where appropriate
+   - Ensure coverage of both Officer and Enlisted skill requirements
+
+4. ADDITIONAL CONSIDERATIONS:
+   - This taxonomy will serve as a baseline for defining operational staff needs
+   - It should enhance resource allocation and training program development
+   - The taxonomy should be useful across different AFSCs and be scalable to other military services
+   - Include examples of how the taxonomy could be applied in practice (e.g., for training development)
+
+5. VISUALIZATION SUGGESTIONS:
+   - Provide suggestions for 3-4 visualization types that would effectively represent this taxonomy
+   - Include brief descriptions of how each visualization would help understand the taxonomy
+   - Suggest specific tools or approaches for implementing these visualizations
+
+Please format the taxonomy as follows:
+
+I. MAJOR SKILL DOMAIN
+   A. Skill Category
+      1. Specific Skill (relevant AFSCs: XXX, XXX)
+         - Subskill/Application
+         - Additional applications
+      2. Specific Skill
+   B. Skill Category
+
+II. MAJOR SKILL DOMAIN
+    ...
+
+For each skill, include:
+- Brief description
+- Primary associated verb(s)
+- Key AFSCs where this skill is most relevant
+- Confidence level (derived from the data)
+
+Please also provide a detailed explanation of your methodology and organizing principles for creating this taxonomy, including how this taxonomy could be further developed and applied in military contexts.
