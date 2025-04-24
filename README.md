@@ -71,21 +71,7 @@ Military-Skills-Taxonomy/
 
 ## Related Projects & Credits 🏅
 
-| Category | Name / Link | Why it matters for this pilot |
-|----------|-------------|--------------------------------|
-| **Skill-extraction engine** | **LAiSER** &nbsp;·&nbsp; <https://github.com/LAiSER-Software> | GWU’s open-source pipeline (SkillNer + spaCy + ES/OSN alignment) used for the “top-down” prototype. |
-| **Civilian skill frameworks** | *O*NET 29.1* (U.S. DoL) · *ESCO v1.1.1* (EU) | Provided ≈48 k skill & KSA labels plus an official ESCO ↔ O*NET concordance. |
-| **Military cross-walk** | *DoD Military → Civilian Crosswalk* (Oct 2024) | Links every AFSC to its closest O*NET occupation(s); cornerstone of the “bottom-up” merge. |
-| **Air Force source docs** | *AFOCD & AFECD (Oct 2024)* | 2 M words of narrative AFSC descriptions converted to CSV for LAiSER processing. |
-| **Large-language models** | OpenAI **GPT-4 Turbo** · Anthropic **Claude 3.5 Sonnet 20240620** | Generated hierarchical taxonomies from the merged “mega-skills” table. |
-| **NLP tooling** | spaCy 3.7 · SkillNer 0.1.5 · vLLM 0.4 · PyTorch 2.2.2 | Power the LAiSER backend and local inference experiments. |
-| **Cloud infra** | Google Colab (free CPU VM) | Hosted the full LAiSER run (3 h on CPU). |
-| **Automation prototype** | *n8n.io* (workflow orchestration) | Early PoC for an end-to-end nightly refresh pipeline. |
-| **Visualization** | Mermaid.js · draw.io | Diagrams in `docs/paper/figures/`. |
-
-> **Acknowledgments**    
-> • Prof. _______ (IS 691 Independent Study, GWU) for guidance and feedback.  
-> • The LAiSER development team—special thanks to @______ for quick bug-fixes in dev-laiser 0.2.24.  
-> • OpenAI & Anthropic academic/education programs for API credits.  
-> • The Air Force Personnel Center for publishing the AFOCD/AFECD openly.
+**LAiSER** <https://github.com/LAiSER-Software> | GWU’s open-source pipeline|
+> **Acknowledgments**      
+> • The LAiSER development team—special thanks for the help!  
 
