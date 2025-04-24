@@ -17,16 +17,20 @@ This repository demonstrates two complementary AI pipelines that can close that 
 
 ---
 
-## Quick Start 🚀
+## Quick Start 🚀 — Pick Your Pipeline
 
-| Goal | What to do |
-|------|------------|
-| **Browse results** | Open any file in **`results/`** (`laiser/` for LAiSER CSV, `llm_taxonomies/` for LLM outputs). |
-| **Re-run a notebook in Colab** | Click <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" height="20"/> next to the notebook you want. |
-| **Reproduce locally** | `conda env create -f environment.yml` → `conda activate miltax` → open notebooks in **`notebooks/`**. |
+| Goal | LLM Taxonomy Prototype  (bottom-up) |  LAiSER Extraction Prototype  (top-down) |
+|------|-------------------------------------|------------------------------------------|
+| **Run in the cloud (no install)** | <br>1. Open [`notebooks/LLM Run CODE V2.ipynb`](notebooks/LLM%20Run%20CODE%20V2.ipynb) <br>2. Click ![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg) <br>3. Provide OpenAI / Anthropic API keys when prompted | <br>1. Open [`notebooks/LAiSER_Taxonomy_Code.ipynb`](notebooks/LAiSER_Taxonomy_Code.ipynb) <br>2. Click **Colab** badge <br>3. Run **CPU-only** or switch runtime → GPU (faster) |
+| **Run locally** | ```bash\n# clone & set up\nconda env create -f environment.yml\nconda activate miltax\njupyter lab notebooks/LLM\_Run\_CODE\_V2.ipynb\n``` | ```bash\nconda env create -f environment.yml\nconda activate miltax\njupyter lab notebooks/LAiSER_Taxonomy_Code.ipynb\n``` |
+| **Required input files** | *Structured* data in **`data/processed/`**:  <br>• `afsc_clean.csv`  <br>• `O*NET …` & `ESCO …` cross-walks (already merged by the notebook) | *Unstructured* AFSC text in **`data/raw/`** (PDF) or **`data/processed/`** (CSV):  <br>• `DAFOCD-31-Oct-24.csv`  <br>• `DAFECD-31-Oct-24.csv` |
+| **Outputs produced** | Hierarchical taxonomies written to **`results/llm_taxonomies/…txt`** | Skill-to-AFSC alignments written to **`results/laiser/LAiSER Final Results.csv`** |
+| **Typical runtime*** | ~8 min / 30-AFSC sample (API) | ~3 h on free Colab CPU  → ~20 min on single T4/L4 GPU |
 
-> **Large files (> 100 MB)** use Git LFS.  
-> After cloning run `git lfs install && git lfs pull` if you see pointer files.
+\* Times will vary with network / hardware.
+
+> **Large files (>100 MB)** are stored with Git LFS.  
+> After cloning run `git lfs install && git lfs pull` so notebooks can find the data.
 
 ---
 
