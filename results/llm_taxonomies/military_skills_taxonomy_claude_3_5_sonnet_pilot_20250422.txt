@@ -1,0 +1,116 @@
+Here's a comprehensive hierarchical taxonomy of military skills based on the provided Air Force Specialty Code (AFSC) data:
+
+I. Air Operations
+   A. Flight Operations
+      1. Operate aircraft (AFSCs: 11B1A-Z, 11B2A-Z, 11B3A-D)
+         - Apply visual flight rules
+         - Handle air traffic issues
+         - Conduct flight checks
+      2. Manage flight resources (AFSCs: 1A100, 1A100E-S, 10C0-Z)
+         - Allocate aircraft and crew
+         - Coordinate flight schedules
+         - Implement emergency plans
+      3. Perform specialized flight roles (AFSCs: 11B1U, 11B2U)
+         - Execute air liaison officer duties
+         - Conduct bomber-specific operations
+
+   B. Aircraft Management
+      1. Maintain aircraft systems (AFSCs: 1A112A-O)
+         - Perform pre-flight checks
+         - Troubleshoot in-flight issues
+      2. Manage aircraft cargo (AFSCs: 1A112B-E, 1A112H, 1A113D-E)
+         - Calculate cargo capacity
+         - Secure and balance loads
+      3. Operate aircraft subsystems (AFSCs: 1A112A-O)
+         - Manage flight engineer stations
+         - Monitor aircraft performance
+
+II. Combat Operations
+    A. Tactical Planning
+       1. Develop mission strategies (AFSCs: 10C0-Z)
+         - Analyze operational environments
+         - Formulate attack plans
+       2. Coordinate multi-unit operations (AFSCs: 10C0-Z)
+         - Synchronize air and ground forces
+         - Manage battlefield communications
+
+    B. Weapons Systems Operation
+       1. Employ air-to-air combat tactics (AFSCs: 11B1A-Z, 11B2A-Z, 11B3A-D)
+         - Execute fighter maneuvers
+         - Utilize air combat systems
+       2. Conduct air-to-ground operations (AFSCs: 11B1A-Z, 11B2A-Z, 11B3A-D)
+         - Perform precision bombing
+         - Provide close air support
+
+III. Command and Control
+     A. Leadership
+        1. Manage operational units (AFSCs: 10C0-Z)
+           - Direct squadron activities
+           - Evaluate unit performance
+        2. Implement strategic directives (AFSCs: 10C0-Z)
+           - Translate high-level orders
+           - Ensure mission alignment
+
+     B. Decision Making
+        1. Assess tactical situations (AFSCs: 10C0-Z, 11B1A-Z, 11B2A-Z, 11B3A-D)
+           - Analyze battlefield intelligence
+           - Determine courses of action
+        2. Manage risk in combat scenarios (AFSCs: 10C0-Z, 11B1A-Z, 11B2A-Z, 11B3A-D)
+           - Evaluate threat levels
+           - Balance mission objectives and safety
+
+IV. Air Mobility
+    A. Transport Operations
+       1. Conduct airlift missions (AFSCs: 1A100, 1A100E-S, 10C0T)
+          - Plan cargo distribution
+          - Execute personnel transport
+       2. Perform air refueling (AFSCs: 1A112G-I)
+          - Operate boom systems
+          - Coordinate with receiver aircraft
+
+    B. Logistics Management
+       1. Oversee supply chain operations (AFSCs: 10C0-Z)
+          - Manage inventory systems
+          - Coordinate material movement
+       2. Plan deployment logistics (AFSCs: 10C0-Z)
+          - Arrange personnel and equipment transport
+          - Ensure resource availability in theater
+
+V. Training and Readiness
+   A. Skill Development
+      1. Conduct flight training (AFSCs: 1A100, 1A100E-S, 10C0Q)
+         - Instruct pilot candidates
+         - Assess flight proficiency
+      2. Manage combat readiness (AFSCs: 10C0-Z)
+         - Organize training exercises
+         - Evaluate unit capabilities
+
+   B. Safety and Compliance
+      1. Implement safety protocols (AFSCs: 1A100, 1A100E-S)
+         - Enforce flight regulations
+         - Conduct safety briefings
+      2. Ensure operational compliance (AFSCs: 10C0-Z)
+         - Monitor adherence to military standards
+         - Perform readiness inspections
+
+VI. Special Operations
+    A. Covert Missions
+       1. Execute clandestine operations (AFSCs: 10C0Y)
+          - Conduct low-visibility insertions
+          - Perform specialized reconnaissance
+       2. Manage special tactics (AFSCs: 10C0Y)
+          - Coordinate unconventional warfare
+          - Direct combat search and rescue
+
+    B. Advanced Technologies
+       1. Operate cutting-edge systems (AFSCs: 11B1D, 11B2D, 11B3D)
+          - Utilize stealth technologies
+          - Employ advanced electronic warfare suites
+
+Methodology: This taxonomy was developed by analyzing the provided AFSC data, focusing on high-relevance and high-confidence skills. Skills were grouped into major domains and categories based on their similarities and military context. Verb-based, action-oriented descriptions were prioritized to reflect the practical nature of military operations. The structure aims to provide a comprehensive overview of Air Force skills while maintaining a logical hierarchy.
+
+Visualization ideas:
+• Interactive mind map with expandable nodes for each level
+• Heat map showing skill distribution across different AFSCs
+• Radar chart comparing skill requirements for different roles
+• Flowchart illustrating the relationships between major domains and skill categories

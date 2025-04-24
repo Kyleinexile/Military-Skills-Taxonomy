@@ -1,0 +1,62 @@
+### I. Operations Management
+  A. Resource Coordination
+     1. Manage allocation of flight resources (AFSCs: 1A112A, 1A112F, 1A112J, 10C0P)
+        - Optimize distribution of flight assets and crew assignments. Main Verb: Manage.
+     2. Manage aircraft parking areas (AFSCs: 10C0W, 10C0V)
+        - Efficient aircraft spacing and placement management. Main Verb: Manage.
+     3. Coordinate flight schedules (AFSCs: 11B1D, 11B1Z)
+        - Schedule planning and adjustments for optimal flight paths and timing. Main Verb: Coordinate.
+
+  B. Training and Development
+     1. Train air force crew (AFSCs: 1A100, 1A112)
+        - Instruction on specific procedures and safety protocols. Main Verb: Train.
+     2. Give theory lessons to pilots (AFSCs: 11B2B, 11B2D)
+        - Provide classroom-based theoretical knowledge for flight operations. Main Verb: Give.
+
+  C. Emergency Handling
+     1. Implement airport emergency plans (AFSCs: 1A100, 1A100E)
+        - Execution of safety protocols and coordination during emergency situations. Main Verb: Implement.
+     2. Lead drilling crews (AFSCs: 1A100M, 1A100S)
+        - Direct operations and training for emergency response teams. Main Verb: Lead.
+
+### II. Crew Leadership
+  A. Supervision and Support
+     1. Manage teamwork (AFSCs: 1A100M)
+        - Facilitate and enhance team collaboration and cohesiveness. Main Verb: Manage.
+     2. Support managers (AFSCs: 10C0S, 10C0T)
+        - Provide support and resources to facilitate managerial duties. Main Verb: Support.
+
+  B. Operational Strategy
+     1. Manage company transport strategy (AFSCs: 1A100E)
+        - Development and maintenance of a cohesive transportation strategy. Main Verb: Manage.
+     2. Develop innovative mobility solutions (AFSCs: 1A112Z)
+        - Innovate and implement new mobility concepts for enhanced operational efficiency. Main Verb: Develop.
+
+### III. Technical Proficiency
+  A. Equipment Management
+     1. Manage gas transmission system (AFSCs: 10C0N, 10C0R)
+        - Oversee and ensure the safe and efficient transmission of gas resources. Main Verb: Manage.
+     2. Aircraft cargo capacity (AFSCs: 1A112B, 1A112C)
+        - Manage and optimize the capacity for cargo in aircraft operations. Main Verb: Aircraft.
+
+  B. Safety Procedures
+     1. Train staff in safety procedures (AFSCs: 1A100S, 1A113)
+        - Educate staff on critical safety measures and compliance. Main Verb: Train.
+     2. Write emergency instructions for handling of dangerous goods (AFSCs: 1A112G)
+        - Develop detailed guidelines for managing hazardous materials in emergencies. Main Verb: Write.
+
+### IV. Communication and Collaboration
+  A. Interpersonal Communication
+     1. Communicate in air traffic control operations (AFSCs: General, implied in many operations positions)
+        - Manage communications effectively within air traffic control. Main Verb: Communicate.
+     2. Work with video and motion picture production team (AFSCs: 1A100, 1A100E)
+        - Collaborate on projects requiring visual media. Main Verb: Work.
+
+### Methodology
+This taxonomy was formulated from an analysis of the provided dataset containing Air Force Specialty Codes (AFSCs). Each skill was assessed for relevance and confidence, focusing on those with high ratings. Skills were organized into major domains and categories based on similarities in actions and operational contexts. This structured approach ensures clarity and relevance, aligning military operational needs with specific skill sets.
+
+### Visualisation Ideas
+- Create a flowchart diagram representing the hierarchy from Major Domains to Specific Skills.
+- Develop a heatmap visualizing the frequency and distribution of core skills across different AFSCs.
+- Construct an interactive dashboard that allows users to drill down from Major Domains to Sub-skills.
+- Use a network graph to show the interconnections between different skills and their applications in real-world operations.

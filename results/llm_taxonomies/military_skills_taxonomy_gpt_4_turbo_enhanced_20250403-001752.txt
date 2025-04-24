@@ -1,0 +1,66 @@
+## Military Skills Taxonomy
+
+### Methodology and Organizing Principles
+To create a hierarchical taxonomy based on the Air Force Specialty Codes (AFSCs) data, I conducted a thorough analysis of the activities, skills, and roles within the dataset. The taxonomy was structured around major skill domains derived from key verbs and context clues within the AFSC descriptions, focusing on grouping similar skills to understand applicational overlap and relevancy in military contexts. Action-oriented skills predominated, ensuring relevance to real-world activities and mission requirements. Skills with high relevance scores and "high" confidence levels were prioritized. This process spotlighted both recurring skills across multiple AFSCs and unique, specialized skills, ensuring a comprehensive skill coverage.
+
+### I. Technical Operations
+   A. Aviation Operations
+      1. Manage aircraft parking areas (relevant AFSCs: 10C0, 10C0V)
+         - Overseeing placement and security of aircraft
+      2. Implement airport emergency plans (relevant AFSCs: 1A100, 1A100M)
+         - Developing and executing emergency response strategies
+      3. Aircraft cargo capacity (relevant AFSCs: 1A112B, 1A112C)
+         - Management of cargo space to maximize efficiency and safety
+
+   B. Flight Resource Management
+      1. Manage allocation of flight resources (relevant AFSCs: 1A100, 1A100E)
+         - Coordinating personnel, fuel, and other necessities for flight operations
+      2. Coordinate flight schedules (relevant AFSCs: 11B1A, 11B1C)
+         - Scheduling flights based on availability and mission requirements
+      3. Aircraft marshalling signals (relevant AFSCs: 1A112C, 1A112D)
+         - Directing aircraft movements on the ground using hand signals
+
+### II. Leadership & Management
+   A. Strategic Management
+      1. Manage credit union operations (relevant AFSCs: 1A100, 10C0)
+         - Overseeing financial services within military credit unions
+      2. Manage gambling finances (relevant AFSCs: 10C0, 10C0M)
+         - Financial management of operations that include wagering components
+      3. Operations department processes (relevant AFSCs: 10C0R, 10C0S)
+         - Coordination and enhancement of departmental procedures
+
+   B. Policy Implementation
+      1. Manage electricity transmission system (relevant AFSCs: 10C0, 10C0P)
+         - Oversight and regulation of power distribution systems
+      2. Manage cultural facility (relevant AFSCs: 10C0W, 10C0V)
+         - Leadership in maintaining operational standards for cultural sites
+      3. Support managers (relevant AFSCs: 10C0, 10C0N)
+         - Providing aid and strategic guidance to other management personnel
+
+### Detailed Explanation of Taxonomy Formation and Application
+**1. Skills Grouping:**
+   - Skills were categorized based on their primary actions and thematic relevance. For example, all skills involving "management" actions were grouped and then subdivided by context (e.g., resource management, facility management).
+
+**2. Cross-referencing:**
+   - Where skills overlapped in terms of practical application across different AFSCs, they were linked to show that these capabilities could be developed universally and then applied in various specific contexts.
+
+**3. Relevance and Confidence:**
+   - By selecting highly relevant skills with high confidence levels, we ensure that the taxonomy reflects the most vital and consistently valued capabilities. This focus also aids in resource allocation by identifying key skill areas that require robust training programs.
+
+**4. Scalability:**
+   - The taxonomy is designed to be extensible, allowing new skills and subcategories to be added as military roles and technologies evolve.
+
+### Visualization Suggestions
+1. **Hierarchical Diagram:** Visualize the taxonomy in a tree structure, allowing users to explore from broad domains down to specific skills.
+   - **Tool:** Microsoft Visio or any UML diagramming tools.
+
+2. **Interactive Skill Maps:** A web-based interactive interface where users can click through skill domains to explore connections between AFSCs and skill applications.
+   - **Tool:** d3.js or Tableau for interactive web visualization.
+
+3. **Heat Maps:** Present the data across AFSCs and skills where color intensity indicates the relevance score or frequency of skill mention.
+   - **Tool:** Tableau or Python’s Seaborn library with heat map capabilities.
+
+4. **Cluster Analysis Graph:** Utilize clustering algorithms to group and visualize skills based on relevance and skill connections across AFSCs.
+   - **Tool:** Python (SciKit-Learn) to run cluster analysis and Matplotlib for visualization.
+
+This taxonomy provides a structured view of skill sets, aiding in the strategic planning of training initiatives and personnel development within the Air Force's diverse roles, ensuring preparedness and effective capability deployment across various functions and missions.
