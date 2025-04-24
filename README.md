@@ -5,8 +5,7 @@
 
 ## Why does this matter?
 
-Across the Department of Defense there is still **no authoritative, machine-readable skills taxonomy** linking military occupational specialties to their civilian equivalents.  
-Without it, veterans, workforce planners, and employers lack a shared, data-driven vocabulary for translating service-earned competencies into the language of the labour market.
+Across the Department of Defense there is still **no authoritative, machine-readable skills taxonomy** linking military occupational specialties to their civilian equivalents. Without it, veterans, workforce planners, and employers lack a shared, data-driven vocabulary for translating service-earned competencies into the language of the labour market.
 
 This repository demonstrates two complementary AI pipelines that can close that gap:
 
