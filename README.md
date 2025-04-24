@@ -29,8 +29,8 @@ This repository demonstrates two complementary AI pipelines that can close that 
 
 \* Times will vary with network / hardware.
 
-> **Large files (>100 MB)** are stored with Git LFS.  
-> After cloning run `git lfs install && git lfs pull` so notebooks can find the data.
+> **Large files (>100 MB)** The enhanced_military_skills_taxonomy file is quite large and saved as a release if you need it.
+> 
 
 ---
 
