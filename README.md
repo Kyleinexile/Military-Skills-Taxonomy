@@ -58,7 +58,7 @@ Military-Skills-Taxonomy/
 │   │   ├── enhanced_taxonomy_prompt.txt
 │   │   └── prompt_for_reference.txt
 │   ├── laiser/
-│   │   └── LAiSER Final Results.csv          # copy kept here for convenience
+│   │   └── LAiSER Final Results.csv          
 │   └── llm_taxonomies/
 │       ├── military_skills_taxonomy_claude_3_5_sonnet_20250403-001643.txt
 │       ├── military_skills_taxonomy_claude_3_5_sonnet_pilot_20250422.txt
@@ -66,6 +66,6 @@ Military-Skills-Taxonomy/
 │       └── military_skills_taxonomy_gpt_4_turbo_pilot_20250422.txt
 ├── docs/
 │   └── paper/
-│       └── README.md        # final manuscript & figures live here
+│              
 └── README.md
 
